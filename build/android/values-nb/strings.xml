@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Godta</string>
+
+
+<string name="am">Morning</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Er du sikker på at du vil slette denne gruppen?</string>
+<string name="are_you_sure_you_want_to_invite">Er du sikker på at du vil invitere</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Er du sikker på at du vil forlate denne gruppen?</string>
+<string name="are_you_sure_you_want_to_sign_out">Er du sikker på at du vil logge av?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Bli den første personen til å sende en melding til denne gruppen.</string>
+
+
+<string name="cancel">Avbryte</string>
+
+
+
+
+
+<string name="confirm_invitation">Ikkonferma l-istedina</string>
+<string name="confirm_password">bekreft passord</string>
+
+<string name="contact_globechat">Kontakt GlobeChat</string>
+
+<string name="create_account">Opprett konto</string>
+<string name="create_group">Opprett Gruppe</string>
+<string name="create_new">Opprett ny</string>
+<string name="create_new_group">Opprett ny gruppe</string>
+<string name="create_new_personal_organization_group">Opprett ny personlig organisasjonsgruppe</string>
+<string name="create_organization">Opprett organisasjon</string>
+
+
+
+
+<string name="title_dashboard">Dashboard</string>
+<string name="decline">Avvis</string>
+<string name="delete">Slette</string>
+<string name="delete_group">Slett gruppe</string>
+<string name="do_you_want_to_accept">Ønsker du å akseptere?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Skriv inn et navn for den nye gruppen</string>
+<string name="enter_a_name_for_your_new_organization">Skriv inn et navn for din nye organisasjon</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Skriv inn e-posten du registrerte deg med, eller e-postadressen du vil registrere deg med.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Skriv inn passordet for å logge på GlobalChat. Hvis dette ikke er deg, eller du vil logge på som en annen bruker</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Skriv inn passordet for å logge på GlobalChat. Hvis dette ikke er deg, eller du vil logge på som en annen bruker, trykker du her.</string>
+
+
+
+
+
+<string name="filter_members">Filtrer medlemmer</string>
+
+<string name="first_name">Fornavn</string>
+
+
+<string name="get_started">Kom i gang.</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat Brukere</string>
+<string name="great_no_one_has_signed_up_with">Flott! Ingen har registrert seg med</string>
+
+<string name="group">Gruppe</string>
+<string name="group_members">Gruppe-medlemmer </string>
+<string name="group_name">Gruppenavn</string>
+
+
+
+
+<string name="title_home">Hjem</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Hvis dette ikke er deg eller du vil logge på som en annen bruker, trykk her.</string>
+
+
+<string name="in_personal_organization">I personlig organisasjon</string>
+
+<string name="invalid_password">Ugyldig passord</string>
+<string name="invalid_username_password">Ugyldig brukernavn / passord</string>
+<string name="invite_by_email">Inviter via e-post</string>
+<string name="invite_members">Invitere medlemmer</string>
+<string name="invited_you_to_the_group">inviterte deg til gruppen</string>
+<string name="invited_you_to_the_organization">invitert deg til organisasjonen</string>
+
+
+<string name="join_globechat">Bli med i GlobeChat!</string>
+
+
+<string name="last_name">Etternavn</string>
+
+<string name="leave">Forlat</string>
+<string name="leave_group">Forlat gruppe</string>
+
+
+<string name="lobby">Lobbyen</string>
+<string name="location">Sted</string>
+<string name="log_in_to_globechat">Logg inn på GlobeChat!</string>
+<string name="log_in_to_globechat_">Logg inn på GlobeChat!</string>
+<string name="login_failed">Inlogging mislyktes</string>
+<string name="logout">Logg ut</string>
+
+
+
+<string name="manage_group">Behandle gruppe</string>
+<string name="manage_organization">Behandle organisasjon</string>
+<string name="members_in_">Medlemmer i</string>
+<string name="members_in_group">Medlemmer i gruppen</string>
+<string name="members_in_organization">Medlemmer i organisasjonen</string>
+<string name="name">Navn</string>
+<string name="no">nei</string>
+<string name="no_pending_invitations">Ingen ventende invitasjoner</string>
+<string name="no_posts_yet">Ingen innlegg ennå.</string>
+<string name="no_results">Ingen resultater</string>
+<string name="none">Ingen</string>
+
+<string name="title_notifications">Varsler</string>
+
+
+<string name="organization">organisasjonen</string>
+<string name="organization_members">Organisasjonsmedlemmer</string>
+<string name="organization_name">Organisasjonsnavn</string>
+
+<string name="owner">Eier</string>
+
+
+<string name="pending_group_invitations">Gruppeinvitasjoner</string>
+<string name="pending_organization_invitations">Venter på invitasjoner</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Vennligst skriv inn et passord som er minst 8 tegn i langt</string>
+
+
+
+<string name="pm">Ettermiddag</string>
+
+
+<string name="primary_language">Hovedspråk</string>
+<string name="privacy_policy">Personvern</string>
+
+
+
+
+
+<string name="save">Lagre</string>
+<string name="search_by_email_address">Søk på e-postadresse</string>
+<string name="search_by_name_or_email">Søk etter navn eller e-post</string>
+<string name="search_for_users">Buscar usuarios</string>
+<string name="select_group_image">Velg gruppe bilde</string>
+
+<string name="select_language">Velg språk</string>
+<string name="select_languages">velg språk</string>
+<string name="select_organization_image">Velg organisasjonsbilde</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Angi gruppebilde ved å klikke på ikonet over. Hvis du ikke vil velge et bilde, kan du trykke på lagre knappen for å hoppe over dette trinnet</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Angi organisasjonsbilde ved å trykke på ikonet over. Hvis du ikke vil velge et bilde, trykk lagre for å hoppe over dette trinnet</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Angi språket du ikke vil oversette ditt primære språk til</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Angi språket du vil bruke til å sende og motta chatmeldinger.</string>
+
+
+
+<string name="skip">Hopp over</string>
+
+
+
+
+
+
+
+<string name="tap_here">trykker du her</string>
+
+<string name="terms_of_service">Vilkår for bruk</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Meldingsapplikasjonen som oversetter til 60+ språk i sanntid.</string>
+
+
+<string name="translated_from">Oversatt fra engelsk</string>
+<string name="translated_from_english">Oversatt fra</string>
+<string name="translated_messaging">Oversatt meldingsutveksling</string>
+
+
+<string name="understood_languages">Forståtte språk</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Vi trenger bare litt mer informasjon for å fullføre registreringen</string>
+<string name="welcome_back">Velkommen tilbake</string>
+
+<string name="yes">ja</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Du har blitt invitert til gruppen</string>
+<string name="you_have_been_invited_to_the_organization">Du er invitert til organisasjonen</string>
+
+<string name="your_email_address">Din e-postadresse</string>
+<string name="your_password">Ditt passord</string>
+
+</resources>

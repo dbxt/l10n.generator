@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">приемам</string>
+
+
+<string name="am">след полунощ</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Наистина ли искате да изтриете тази група?</string>
+<string name="are_you_sure_you_want_to_invite">Наистина ли искате да поканите</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Сигурен ли си, че искаш да напуснеш тази група?</string>
+<string name="are_you_sure_you_want_to_sign_out">Наистина ли искате да излезете?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Бъдете първият човек, който изпраща съобщение до тази група</string>
+
+
+<string name="cancel">Отмените</string>
+
+
+
+
+
+<string name="confirm_invitation">Потвърждаване на поканата</string>
+<string name="confirm_password">Потвърждаване на парола</string>
+
+<string name="contact_globechat">Свържете се с нас</string>
+
+<string name="create_account">Създай акаунт</string>
+<string name="create_group">Създай група</string>
+<string name="create_new">създайте нова</string>
+<string name="create_new_group">Създайте нова група</string>
+<string name="create_new_personal_organization_group">Създайте нова лична организация-организационна група</string>
+<string name="create_organization">Създаване на организация</string>
+
+
+
+
+<string name="title_dashboard">Таблото</string>
+<string name="decline">Отказвам</string>
+<string name="delete">Изтриете</string>
+<string name="delete_group">Изтриване на група</string>
+<string name="do_you_want_to_accept">Искате ли да приемете?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Въведете име за новата група</string>
+<string name="enter_a_name_for_your_new_organization">Въведете име за новата си организация</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Въведете имейл адреса, с който сте се регистрирали, или имейл адреса, с който искате да се регистрирате</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Въведете паролата си, за да влезете. Ако това не сте Вие или искате да влезете като друг потребител</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Въведете паролата си, за да влезете. Ако това не сте Вие или искате да влезете като друг потребител, натиснете тук</string>
+
+
+
+
+
+<string name="filter_members">Филтриране на членове</string>
+
+<string name="first_name">Първо име</string>
+
+
+<string name="get_started">Първи стъпки</string>
+<string name="app_name"></string>
+<string name="globechat_users">Потребители на GlobeChat</string>
+<string name="great_no_one_has_signed_up_with">Страхотен! Никой не се е регистрирал</string>
+
+<string name="group">група</string>
+<string name="group_members">Членове на групата </string>
+<string name="group_name">Име на група</string>
+
+
+
+
+<string name="title_home">Начало</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Ако това не сте Вие или желаете да влезете с друг акаунт натиснете тук</string>
+
+
+<string name="in_personal_organization">В личната организация</string>
+
+<string name="invalid_password">Невалидна парола</string>
+<string name="invalid_username_password">Невалидно потребителско име / парола</string>
+<string name="invite_by_email">Покани по имейл</string>
+<string name="invite_members">Поканване на членове</string>
+<string name="invited_you_to_the_group">Ви покани в групата</string>
+<string name="invited_you_to_the_organization">ви поканихме в организацията</string>
+
+
+<string name="join_globechat">Присъединете</string>
+
+
+<string name="last_name">Фамилия</string>
+
+<string name="leave">Напуснете</string>
+<string name="leave_group">Остави групата</string>
+
+
+<string name="lobby">Лоби</string>
+<string name="location">местоположение</string>
+<string name="log_in_to_globechat">Влизам</string>
+<string name="log_in_to_globechat_">Влизам</string>
+<string name="login_failed">Неуспешно влизане</string>
+<string name="logout">Излез от профила си</string>
+
+
+
+<string name="manage_group">Управление на група</string>
+<string name="manage_organization">Управление на организацията</string>
+<string name="members_in_">Членове в</string>
+<string name="members_in_group">Членове в групата</string>
+<string name="members_in_organization">Членове в организацията</string>
+<string name="name">име</string>
+<string name="no">Не</string>
+<string name="no_pending_invitations">Няма висящи покани</string>
+<string name="no_posts_yet">Все още няма публикации</string>
+<string name="no_results">Няма резултати</string>
+<string name="none">Нито един</string>
+
+<string name="title_notifications">Уведомления</string>
+
+
+<string name="organization">организацията</string>
+<string name="organization_members">Членове на организацията</string>
+<string name="organization_name">Наименование на организацията</string>
+
+<string name="owner">собственик</string>
+
+
+<string name="pending_group_invitations">Чакащи групови покани</string>
+<string name="pending_organization_invitations">Висящи покани от организации</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Моля, въведете парола с дължина най-малко 8 знака</string>
+
+
+
+<string name="pm">след обяд</string>
+
+
+<string name="primary_language">Основен език</string>
+<string name="privacy_policy">Правила за поверителност</string>
+
+
+
+
+
+<string name="save">Запишете</string>
+<string name="search_by_email_address">Търсене по имейл адрес</string>
+<string name="search_by_name_or_email">Търсене по име или имейл</string>
+<string name="search_for_users">Търсене на потребители</string>
+<string name="select_group_image">Избор на групово изображение</string>
+
+<string name="select_language">Избери език</string>
+<string name="select_languages">Изберете Езици</string>
+<string name="select_organization_image">Изберете изображение на организация</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Задайте групово изображение, като докоснете иконата по-горе. Ако ти dont \' липса към поставям an образ, ти мога удар определителен член Спасявам копче към подскачам този стъпвам</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Задайте изображение на организацията, като докоснете иконата по-горе. Ако ти dont \' липса към поставям an образ, ти мога удар определителен член Спасявам копче към подскачам този стъпвам</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Задайте езика, който не искате да преведете на основния си език</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Задайте езика, който ще използвате, за да изпращате и получавате съобщения в чата</string>
+
+
+
+<string name="skip">пропускане</string>
+
+
+
+
+
+
+
+<string name="tap_here">натиснете тук</string>
+
+<string name="terms_of_service">Условия за ползване</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Apps за съобщения, които се превеждат на 60+ езика в реално време</string>
+
+
+<string name="translated_from">Преведено от</string>
+<string name="translated_from_english">Преведено от английски</string>
+<string name="translated_messaging">Преведени съобщения</string>
+
+
+<string name="understood_languages">Други езици</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Нуждаем се от малко повече информация, за да ви подпишем/регистрираме</string>
+<string name="welcome_back">Добре дошли обратно</string>
+
+<string name="yes">Да</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Поканени сте в групата</string>
+<string name="you_have_been_invited_to_the_organization">Бяхте поканени в организацията</string>
+
+<string name="your_email_address">Вашата електронна поща</string>
+<string name="your_password">Вашата парола</string>
+
+</resources>

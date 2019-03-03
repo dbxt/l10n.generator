@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">接受</string>
+
+
+<string name="am">上午</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">確定要刪除此群組嗎？</string>
+<string name="are_you_sure_you_want_to_invite">您確定要邀請嗎</string>
+<string name="are_you_sure_you_want_to_leave_this_group">您確定要離開這個群組嗎？</string>
+<string name="are_you_sure_you_want_to_sign_out">您確定要登出嗎？</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">成為第一個傳送訊息的人！</string>
+
+
+<string name="cancel">取消</string>
+
+
+
+
+
+<string name="confirm_invitation">確認邀請</string>
+<string name="confirm_password">確認密碼</string>
+
+<string name="contact_globechat">聯繫 GlobeChat</string>
+
+<string name="create_account">建立帳號</string>
+<string name="create_group">建立群組</string>
+<string name="create_new">建立新的</string>
+<string name="create_new_group">建立群組</string>
+<string name="create_new_personal_organization_group">建立新的個人組織</string>
+<string name="create_organization">創建組織</string>
+
+
+
+
+<string name="title_dashboard">儀錶板</string>
+<string name="decline">拒絕</string>
+<string name="delete">刪除</string>
+<string name="delete_group">刪除群組</string>
+<string name="do_you_want_to_accept">您要接受邀請嗎？</string>
+
+
+<string name="enter_a_name_for_your_new_group">輸入新組的名稱</string>
+<string name="enter_a_name_for_your_new_organization">請輸入新群組名稱</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">登入電子郵件或建立新帳號</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">輸入您要登錄的密碼。 如果這不是您或您想作為其他使用者登錄</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">輸入您要登錄的密碼。 如果這不是您或您想作為其他使用者登錄, 請點擊這裡</string>
+
+
+
+
+
+<string name="filter_members">篩選成員</string>
+
+<string name="first_name">名</string>
+
+
+<string name="get_started">開始使用</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat用戶</string>
+<string name="great_no_one_has_signed_up_with">很好! 沒有人報名參加</string>
+
+<string name="group">小組</string>
+<string name="group_members">集團成員</string>
+<string name="group_name">組名</string>
+
+
+
+
+<string name="title_home">家</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">如果不是您的帳號？以其他帳號登入，請點這裡。</string>
+
+
+<string name="in_personal_organization">在個人組織中</string>
+
+<string name="invalid_password">無效的密碼</string>
+<string name="invalid_username_password">無效的用戶名稱／密碼</string>
+<string name="invite_by_email">通过电子邮件邀请</string>
+<string name="invite_members">邀請會員</string>
+<string name="invited_you_to_the_group">邀請您至群組</string>
+<string name="invited_you_to_the_organization">邀請你加入這個組織</string>
+
+
+<string name="join_globechat">加盟 GlobeChat!</string>
+
+
+<string name="last_name">姓</string>
+
+<string name="leave">退出群組</string>
+<string name="leave_group">離開組</string>
+
+
+<string name="lobby">大廳</string>
+<string name="location">所在地點</string>
+<string name="log_in_to_globechat">登入GlobeChat!</string>
+<string name="log_in_to_globechat_">登入GlobeChat!</string>
+<string name="login_failed">登入失敗</string>
+<string name="logout">登出</string>
+
+
+
+<string name="manage_group">管理組</string>
+<string name="manage_organization">管理組織</string>
+<string name="members_in_">成員</string>
+<string name="members_in_group">小組成員</string>
+<string name="members_in_organization">組織中的成員</string>
+<string name="name">名字</string>
+<string name="no">不</string>
+<string name="no_pending_invitations">目前暫無邀請</string>
+<string name="no_posts_yet">尚無訊息</string>
+<string name="no_results">無結果</string>
+<string name="none">無</string>
+
+<string name="title_notifications">通知</string>
+
+
+<string name="organization">組織</string>
+<string name="organization_members">組織成員</string>
+<string name="organization_name">群組名稱</string>
+
+<string name="owner">群組管理員</string>
+
+
+<string name="pending_group_invitations">等待群組邀請</string>
+<string name="pending_organization_invitations">待確認群組邀請</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">請輸入至少8個字元的密碼</string>
+
+
+
+<string name="pm">下午</string>
+
+
+<string name="primary_language">主要語言</string>
+<string name="privacy_policy">隱私權政策</string>
+
+
+
+
+
+<string name="save">儲存</string>
+<string name="search_by_email_address">按電子郵件地址搜索</string>
+<string name="search_by_name_or_email">按名稱或電子郵件搜索</string>
+<string name="search_for_users">搜索用戶</string>
+<string name="select_group_image">選擇群組圖像</string>
+
+<string name="select_language">選擇語言</string>
+<string name="select_languages">選擇語言</string>
+<string name="select_organization_image">設定群組照片</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">通過點擊上面的圖示設置群組圖像。如果不想設置圖像, 可以按 "保存" 按鈕跳過此步驟</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">通過點擊上面的圖示來設置組織圖像。如果不想設置圖像, 可以按 "保存" 按鈕跳過此步驟</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">設定您認為無須翻譯的語言</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">設置您將用於發送和接收訊息的語言</string>
+
+
+
+<string name="skip">略過</string>
+
+
+
+
+
+
+
+<string name="tap_here">請點擊這裡</string>
+
+<string name="terms_of_service">服務條款</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">即時傳遞及翻譯訊息至超過60種語言</string>
+
+
+<string name="translated_from">翻譯自</string>
+<string name="translated_from_english">從英文翻譯</string>
+<string name="translated_messaging">為您翻譯訊息</string>
+
+
+<string name="understood_languages">其他語言</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">輸入其他資訊</string>
+<string name="welcome_back">歡迎回來！</string>
+
+<string name="yes">是的</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">你被邀請參加這個小組</string>
+<string name="you_have_been_invited_to_the_organization">您已經被邀請參加本組織</string>
+
+<string name="your_email_address">Your email address = "您的電子郵件地址";</string>
+<string name="your_password">您的密碼</string>
+
+</resources>

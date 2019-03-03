@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Tanggapin</string>
+
+
+<string name="am">AM</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Tiyak ka bang gusto mong magtanggal ng grupong ito?</string>
+<string name="are_you_sure_you_want_to_invite">Tiyak ka bang gusto mong sabihin</string>
+<string name="are_you_sure_you_want_to_leave_this_group">O sa dina o via biuta na ilawalawa oqo?</string>
+<string name="are_you_sure_you_want_to_sign_out">Tiyak ka bang gusto mong lumabas?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Maging una kang magpadala ng mensahe sa pangkat na ito.</string>
+
+
+<string name="cancel">Kanselahin</string>
+
+
+
+
+
+<string name="confirm_invitation">Kumpirmahin ang paanyaya</string>
+<string name="confirm_password">Patunayan ang Password</string>
+
+<string name="contact_globechat">Makipag-ugnayan sa GlobeChat</string>
+
+<string name="create_account">Lumikha ng account</string>
+<string name="create_group">Lumikha ng mga grupo</string>
+<string name="create_new">Lumikha ng bagong</string>
+<string name="create_new_group">Lumikha ng bagong grupo</string>
+<string name="create_new_personal_organization_group">Lumikha ng bagong grupo ng Personal na Samahan</string>
+<string name="create_organization">Lumikha ng mga organisasyon</string>
+
+
+
+
+<string name="title_dashboard">Dashboard</string>
+<string name="decline">Decline = "Tanggihan";</string>
+<string name="delete">Burahin</string>
+<string name="delete_group">Pangkat burahin</string>
+<string name="do_you_want_to_accept">Gusto mo bang tanggapin?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Elige un nombre para tu nuevo grupo</string>
+<string name="enter_a_name_for_your_new_organization">Magpasok ng isang pangalan para sa iyong bagong grupo</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Ipasok ang email na iyong nilagdaan, o ang email address na nais mong mag-sign up.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Ipasok ang iyong password para mag-sign in sa GlobeChat.  Kung ito ay hindi sa iyo o gusto mo bang pumasok bilang isang ibang user</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Ipasok ang iyong password para mag-sign in.  Kung ito ay hindi sa iyo o gusto mo bang pumasok bilang isang ibang user, tapikin dito.</string>
+
+
+
+
+
+<string name="filter_members">Ang mga miyembro ng filter</string>
+
+<string name="first_name">Pangalan</string>
+
+
+<string name="get_started">Magsimula</string>
+<string name="app_name"></string>
+<string name="globechat_users">Mga gumagamit ng GlobeChat</string>
+<string name="great_no_one_has_signed_up_with">Mahusay! Walang isa ay nagpalista sa</string>
+
+<string name="group">Grupo</string>
+<string name="group_members">Mga Miyembro ng Grupo</string>
+<string name="group_name">Pangalan ng grupo</string>
+
+
+
+
+<string name="title_home">Tahanan</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Kung hindi mo ito o nais mong mag-sign in bilang ibang user, tapikin dito.</string>
+
+
+<string name="in_personal_organization">Sa personal na samahan</string>
+
+<string name="invalid_password">Di wastong password</string>
+<string name="invalid_username_password">Di-wastong username / password</string>
+<string name="invite_by_email">Ipabasa sa pamamagitan ng email</string>
+<string name="invite_members">Anyayahan ang mga miyembro</string>
+<string name="invited_you_to_the_group">Inimbitahan ka ni sa grupo</string>
+<string name="invited_you_to_the_organization">Inanyayahan mo ang organisasyon</string>
+
+
+<string name="join_globechat">Sumali sa GlobeChat!</string>
+
+
+<string name="last_name">Huling pangalan.</string>
+
+<string name="leave">Mag-iwan</string>
+<string name="leave_group">Umalis Group</string>
+
+
+<string name="lobby">Lobby</string>
+<string name="location">Lokasyon</string>
+<string name="log_in_to_globechat">Mag-log in sa GlobeChat!</string>
+<string name="log_in_to_globechat_">Mag-log in sa GlobeChat!</string>
+<string name="login_failed">Hindi tagumpay ang pag-login</string>
+<string name="logout">Mag-log out</string>
+
+
+
+<string name="manage_group">Mamahala ng mga grupo</string>
+<string name="manage_organization">Mamahala ng mga organisasyon</string>
+<string name="members_in_">Ang mga miyembro sa</string>
+<string name="members_in_group">Mga Miyembro sa Grupo</string>
+<string name="members_in_organization">Ang mga miyembro sa organisasyon</string>
+<string name="name">Pangalan</string>
+<string name="no">Hindi</string>
+<string name="no_pending_invitations">Walang mga nakabinbing imbitasyon</string>
+<string name="no_posts_yet">Wala pang post.</string>
+<string name="no_results">Walang resulta"</string>
+<string name="none">Wala</string>
+
+<string name="title_notifications">Mga notification</string>
+
+
+<string name="organization">Organisasyon</string>
+<string name="organization_members">Ang mga miyembro ng organisasyon</string>
+<string name="organization_name">Pangalan ng Organisasyon</string>
+
+<string name="owner">May-ari</string>
+
+
+<string name="pending_group_invitations">Ang mga paanyaya ng pending grupo</string>
+<string name="pending_organization_invitations">Mga Nakabinbing Mga Imbitasyon sa Organisasyon</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Mangyaring magpasok ng isang password na hindi bababa sa 8 character ang haba.</string>
+
+
+
+<string name="pm">PM</string>
+
+
+<string name="primary_language">Pangunahing Wika</string>
+<string name="privacy_policy">Patakaran sa privacy</string>
+
+
+
+
+
+<string name="save">Maliban kung</string>
+<string name="search_by_email_address">Magsaliksik sa pamamagitan ng email address</string>
+<string name="search_by_name_or_email">Magsaliksik ng mga pangalan o email</string>
+<string name="search_for_users">Paghahanap para sa mga gumagamit</string>
+<string name="select_group_image">Piliin ang Group Image</string>
+
+<string name="select_language">Piliin ang wika</string>
+<string name="select_languages">Piliin ang wika</string>
+<string name="select_organization_image">Piliin ang imahen ng organisasyon</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Magpakita ng larawan ng grupo sa pag-tap sa mga icon sa itaas. Kung ayaw mong magpakita ng isang larawan, maaari mong pindutin ang save button upang laktawan ang hakbang na ito</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Magtakda ng mga imahe organisasyon sa pag-tap sa mga icon sa itaas. Kung ayaw mong magpakita ng isang larawan, maaari mong pindutin ang save button upang laktawan ang hakbang na ito</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Itakda ang wika na ayaw mong isalin sa iyong pangunahing wika.</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Itakda ang wika na gagamitin mo upang magpadala at tumanggap ng mga mensaheng chat.</string>
+
+
+
+<string name="skip">Laktawan</string>
+
+
+
+
+
+
+
+<string name="tap_here">Mag-tap dito</string>
+
+<string name="terms_of_service">Terms of Service = "Ang mga tuntunin ng serbisyo";</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Ang messaging app na isinasalin sa 60+ wika sa real time.</string>
+
+
+<string name="translated_from">Isinalin mula sa Ingles</string>
+<string name="translated_from_english">Isinalin mula sa</string>
+<string name="translated_messaging">Nakasalin na pagmemensahe.</string>
+
+
+<string name="understood_languages">Mga Wika na Naintindihan</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Kailangan lang namin ng kaunti pang impormasyon upang lagdaan ka.</string>
+<string name="welcome_back">Maligayang pagbabalik</string>
+
+<string name="yes">Oo</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Naimbitahan kayo ng grupo</string>
+<string name="you_have_been_invited_to_the_organization">Inanyayahan ka sa samahan</string>
+
+<string name="your_email_address">ang iyong email address</string>
+<string name="your_password">Ang iyong password</string>
+
+</resources>

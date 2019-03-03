@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">قبول کریں</string>
+
+
+<string name="am">صبح</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">اثبات کریں کہ آپ اس گروپ کو حذف کرنا چاہتے ہیں؟</string>
+<string name="are_you_sure_you_want_to_invite">اثبات کریں کہ آپ مدعو کرنا چاہتے ہيں</string>
+<string name="are_you_sure_you_want_to_leave_this_group">اثبات کریں کہ آپ اس گروپ سے نکلنے کے لئے چاہتے ہیں؟</string>
+<string name="are_you_sure_you_want_to_sign_out">اثبات کریں کہ آپ سائن آؤٹ کرنا چاہتے ہیں؟</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">اس گروپ کو ایک پیغام بھیجنے کے لیے وہ پہلا آدمی ہو ۔</string>
+
+
+<string name="cancel">منسوخ کریں</string>
+
+
+
+
+
+<string name="confirm_invitation">دعوت کی تصدیق کریں</string>
+<string name="confirm_password">پاس ورڈ تصدیق کریں</string>
+
+<string name="contact_globechat">گلوبیکحٹ سے رابطہ کریں</string>
+
+<string name="create_account">اکاؤنٹ بنائیں</string>
+<string name="create_group">گروپ بنائیں</string>
+<string name="create_new">نیا بنائیں</string>
+<string name="create_new_group">نیا گروپ بنائیں</string>
+<string name="create_new_personal_organization_group">نئے نجی ادارے گروپ تخلیق کریں</string>
+<string name="create_organization">تنظیم کی تخلیق</string>
+
+
+
+
+<string name="title_dashboard">ڈیش بورڈ</string>
+<string name="decline">زوال</string>
+<string name="delete">حذف کریں</string>
+<string name="delete_group">گروپ حذف کریں</string>
+<string name="do_you_want_to_accept">آپ کو قبول کرنا چاہتے ہیں؟</string>
+
+
+<string name="enter_a_name_for_your_new_group">اپنے نئے گروپ کے لیے ایک نام داخل کریں</string>
+<string name="enter_a_name_for_your_new_organization">آپ کی نئی تنظیم کے لیے ایک نام داخل کریں</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">آپ کے ساتھ سائن اپ ان ای میل، یا آپ کے ساتھ سائن اپ کرنا چاہتے ہیں کا ای میل ایڈریس درج کریں ۔";</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user"> میں سائن ان ہونے کے لیے اپنا پاس ورڈ داخل کریں ۔  یہ تم نہیں ہے یا آپ کو ایک مختلف صارف کے طور پر سائن ان کرنا چاہتے ہیں تو یہاں پر ٹیپ کریں ۔</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here"> میں سائن ان ہونے کے لیے اپنا پاس ورڈ داخل کریں ۔  یہ تم نہیں ہے یا آپ کو ایک مختلف صارف کے طور پر سائن ان کرنا چاہتے ہیں تو یہاں پر ٹیپ کریں ۔</string>
+
+
+
+
+
+<string name="filter_members">اراکین کو فلٹر کریں</string>
+
+<string name="first_name">پہلا نام</string>
+
+
+<string name="get_started">شروع کریں</string>
+<string name="app_name"></string>
+<string name="globechat_users">گلوبیکحٹ صارفین</string>
+<string name="great_no_one_has_signed_up_with">زبردست! کسی کے ساتھ کوئی دستخط نہیں ہوا ہے</string>
+
+<string name="group">گروپ</string>
+<string name="group_members">گروپ ارکان </string>
+<string name="group_name">گروپ نام</string>
+
+
+
+
+<string name="title_home">گھر</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">یہ تم نہیں ہے یا آپ کو ایک مختلف صارف کے طور پر سائن ان کرنا چاہتے ہیں تو یہاں پر ٹیپ کریں ۔</string>
+
+
+<string name="in_personal_organization">ذاتی تنظیم میں</string>
+
+<string name="invalid_password">ناجائز پاس ورڈ</string>
+<string name="invalid_username_password">غلط صارف نام / پاس ورڈ</string>
+<string name="invite_by_email">ای میل کے ذریعے آنے کی دعوت دی</string>
+<string name="invite_members">اراکین کی دعوت</string>
+<string name="invited_you_to_the_group">آپ کے گروپ کو دعوت دی گئی</string>
+<string name="invited_you_to_the_organization">آپ کی تنظیم کو آنے کی دعوت دی</string>
+
+
+<string name="join_globechat">گلوبیکحٹ میں شامل</string>
+
+
+<string name="last_name">آخری نام</string>
+
+<string name="leave">چھوڑنا</string>
+<string name="leave_group">چھوڑیں گروپ</string>
+
+
+<string name="lobby">لابی</string>
+<string name="location">محل وقوع</string>
+<string name="log_in_to_globechat">میں لاگ ان کرنے گلوبیکحٹ</string>
+<string name="log_in_to_globechat_">میں لاگ ان کرنے گلوبیکحٹ</string>
+<string name="login_failed">لاگ ان ناکام</string>
+<string name="logout">لاگ آؤٹ</string>
+
+
+
+<string name="manage_group">گروپ کا انتظام کریں</string>
+<string name="manage_organization">تنظیم کا انتظام کریں</string>
+<string name="members_in_">میں اراکین</string>
+<string name="members_in_group">گروپ میں اراکین</string>
+<string name="members_in_organization">تنظیم کے اراکین</string>
+<string name="name">نام</string>
+<string name="no">نہيں</string>
+<string name="no_pending_invitations">دعوت نامے التوا نہیں</string>
+<string name="no_posts_yet">ابھی تک کوئی خطوط ہیں ۔</string>
+<string name="no_results">کوئی نتائج</string>
+<string name="none">کوئی نہیں</string>
+
+<string name="title_notifications">اطلاعات</string>
+
+
+<string name="organization">تنظیم</string>
+<string name="organization_members">تنظیم کے اراکین</string>
+<string name="organization_name">تنظیم کا نام</string>
+
+<string name="owner">مالک</string>
+
+
+<string name="pending_group_invitations">زیر التواء گروپ کے دعوت نامے</string>
+<string name="pending_organization_invitations">زیر التواء تنظیم دعوت نامے</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">کم از کم 8 کریکٹر لمبائی میں ہے ایک پاس ورڈ داخل کریں</string>
+
+
+
+<string name="pm">بجے</string>
+
+
+<string name="primary_language">بنیادی زبان</string>
+<string name="privacy_policy">راز داری کی پالیسی</string>
+
+
+
+
+
+<string name="save">محفوظ کریں</string>
+<string name="search_by_email_address">ای میل پتہ کے ذریعے تلاش کریں</string>
+<string name="search_by_name_or_email">نام یا ای میل کی طرف سے تلاش کریں</string>
+<string name="search_for_users">صارفین کے لئے تلاش کریں</string>
+<string name="select_group_image">منتخب گروپ تصویر</string>
+
+<string name="select_language">زبان منتخب کریں</string>
+<string name="select_languages">زبان منتخب کریں</string>
+<string name="select_organization_image">تنظیم کی تصویر کو منتخب کریں</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">شبیہ اوپر کی طرف سے فائدہ اٹھاتے ہوئے گروپ تصویر سیٹ کریں ۔ اگر آپ کو ایک تصویر کو سیٹ کرنا چاہتے ہیں نہیں، آپ کی محفوظ کو نہیں مار سکتا یہ مرحلہ اچٹنا کے لیے بٹن</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step"> تنظیم کی تصویر اوپر شبیہ ریولوشنری کی طرف سے سیٹ ہے ۔ اگر آپ کو ایک تصویر کو سیٹ کرنا چاہتے ہیں نہیں، آپ کی محفوظ کو نہیں مار سکتا یہ مرحلہ اچٹنا کے لیے بٹن</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">اگر آپ کو اپنے بنیادی زبان ترجمہ نہیں چاہتے وہ زبان سیٹ کریں ۔</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">آپ بات چیت مسیج بھیجے اور وصول کے لئے استعمال کریں گے وہ زبان سیٹ کریں ۔</string>
+
+
+
+<string name="skip">اچٹیں</string>
+
+
+
+
+
+
+
+<string name="tap_here">یہاں ٹپ کریں</string>
+
+<string name="terms_of_service">سروس کی شرائط</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">پیغام رسانی ایپ ۔ جو حقیقی وقت میں 60 + زبانوں میں ترجمہ</string>
+
+
+<string name="translated_from">انگریزی سے ترجمہ</string>
+<string name="translated_from_english">سے ترجمہ</string>
+<string name="translated_messaging">پیغام رسانی کے کارڈ کا ترجمہ ہوچکا ہے ۔</string>
+
+
+<string name="understood_languages">سمجھے جانے زبانیں</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">ہم صرف آپ کو سائن اپ کے لیے ایک چھوٹا سا مزید معلومات کی ضرورت ہے</string>
+<string name="welcome_back">خوش آمديد</string>
+
+<string name="yes">جی ہاں</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">آپ کے گروپ کو دعوت دی گئی ہے</string>
+<string name="you_have_been_invited_to_the_organization">آپ کی تنظیم کو مدعو کیا گیا ہے</string>
+
+<string name="your_email_address">آپ کا ای میل ایڈریس</string>
+<string name="your_password">آپ کا پاس ورڈ</string>
+
+</resources>

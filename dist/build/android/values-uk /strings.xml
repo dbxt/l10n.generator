@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Accept = "Підтвердити";</string>
+
+
+<string name="am">AM = "ранку";</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Are you sure you want to delete this group? = "Ви дійсно бажаєте видалити цю групу?";</string>
+<string name="are_you_sure_you_want_to_invite">Ви дійсно бажаєте запросити</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Bu gruptan ayrılmak istediğinden emin misin?</string>
+<string name="are_you_sure_you_want_to_sign_out">Are you sure you want to sign out? = "Ви дійсно бажаєте вийти?";</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Be the first person to send a message to this group. = "Надіслати повідомлення першим у цій групі";</string>
+
+
+<string name="cancel">Cancel = "Скасувати";</string>
+
+
+
+
+
+<string name="confirm_invitation">Підтвердіть запрошення</string>
+<string name="confirm_password">Підтвердіть пароль</string>
+
+<string name="contact_globechat">Contact GlobeChat = "Контакт GlobeChat";</string>
+
+<string name="create_account">Create account = "Створити акаунт";</string>
+<string name="create_group">Create Group = "Створити групу";</string>
+<string name="create_new">Create New = "Створити новий";</string>
+<string name="create_new_group">Create New Group = "Стаорити нову групу";</string>
+<string name="create_new_personal_organization_group">Create new Personal Organization group = "Створіть нову групу особистої організації";</string>
+<string name="create_organization">Створення організації</string>
+
+
+
+
+<string name="title_dashboard">Панелі</string>
+<string name="decline">Decline = "Скасувати";</string>
+<string name="delete">Видалити</string>
+<string name="delete_group">Видалити групу</string>
+<string name="do_you_want_to_accept">Do you want to accept? = "Бажаєте підтвердити?";</string>
+
+
+<string name="enter_a_name_for_your_new_group">Enter a name for your new group = "Введіть ім\'я для нової групи";</string>
+<string name="enter_a_name_for_your_new_organization">Enter a name for your new organization = "Введіть назву Вашоі новоі";</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Enter the email you signed up with, or the email address you want to sign up with. = "Введіть e-mail, з яким Ви реєструвались або e-mail, з яким Ви бажаєте зареєструватись";</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user = "Введіть свій пароль для входу.  Якщо це не ви або ви хочете ввійти як інший користувач.";</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user, tap here. = "Введіть свій пароль для входу.  Якщо це не ви або ви хочете ввійти як інший користувач, торкніться тут.";</string>
+
+
+
+
+
+<string name="filter_members">Фільтрувати елементи</string>
+
+<string name="first_name">First name = "Ім\'я";</string>
+
+
+<string name="get_started">Get Started = "Почати";</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat Users = "Учасники GlobeChat";</string>
+<string name="great_no_one_has_signed_up_with">Great! No one has signed up with = "Чудово! Ніхто не підписався";</string>
+
+<string name="group">Група</string>
+<string name="group_members">Члени групи</string>
+<string name="group_name">Group Name = "Ім\'я групи";</string>
+
+
+
+
+<string name="title_home">Головна</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">If this is not you or you want to sign in as a different user, tap here. = "Введіть свій пароль для входу.  Якщо це не ви або ви хочете ввійти як інший користувач, торкніться тут.";</string>
+
+
+<string name="in_personal_organization">In personal organization = "До\u00A0особистої\u00A0організації";</string>
+
+<string name="invalid_password">Invalid password = "Пароль недійсний";</string>
+<string name="invalid_username_password">Invalid username/ password = "Недійсний логін/пароль";</string>
+<string name="invite_by_email">E-postayla davet et</string>
+<string name="invite_members">Запросити учасників</string>
+<string name="invited_you_to_the_group">invited you to the group = "запросил(а) Вас у групу";</string>
+<string name="invited_you_to_the_organization">запросив вас до організації</string>
+
+
+<string name="join_globechat">Join GlobeChat! = "Приєднатися до GlobeChat";</string>
+
+
+<string name="last_name">Last name = "Прізвище";</string>
+
+<string name="leave">Leave = "Покинути";</string>
+<string name="leave_group">Залишити групу</string>
+
+
+<string name="lobby">Lobby = "Лобі";</string>
+<string name="location">Location = "Містознаходження";</string>
+<string name="log_in_to_globechat">Log in to GlobeChat! = "Увійти в GlobeChat";</string>
+<string name="log_in_to_globechat_">Log in to GlobeChat! = "Увійти в GlobeChat";</string>
+<string name="login_failed">Login failed = "Пароль невірний";</string>
+<string name="logout">Logout = "Вийти";</string>
+
+
+
+<string name="manage_group">Manage Group = "Керування групою";</string>
+<string name="manage_organization">Manage Organization = "Керування організацією";</string>
+<string name="members_in_">Члени в</string>
+<string name="members_in_group">Members in Group = "Учасники групи"</string>
+<string name="members_in_organization">Members in Organization = "Членів організації";</string>
+<string name="name">Name = "Ім’я";</string>
+<string name="no">No = "Ні";</string>
+<string name="no_pending_invitations">No pending invitations = "Немає запрошень";</string>
+<string name="no_posts_yet">No posts yet. = "Немає публікацій";</string>
+<string name="no_results">No results = "нічого не знайдено";</string>
+<string name="none">None = "Жодна";</string>
+
+<string name="title_notifications">Сповіщення</string>
+
+
+<string name="organization">Organization = "Організація";</string>
+<string name="organization_members">Organization Members = "Члени організації";</string>
+<string name="organization_name">Organization Name = "Назва організаціі";</string>
+
+<string name="owner">Owner = "Власник";</string>
+
+
+<string name="pending_group_invitations">Pending Group Invitations = "Очікування групового запрошення";</string>
+<string name="pending_organization_invitations">Pending Organization Invitations = "Запрошення в організацію в";</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Please enter a password that is at least 8 characters in length. = "Введіть пароль довжиною як мінімум 8 знаків";</string>
+
+
+
+<string name="pm">PM = "вечора";</string>
+
+
+<string name="primary_language">Primary Language = "основна мова";</string>
+<string name="privacy_policy">Privacy Policy = "Політика конфіденційності";</string>
+
+
+
+
+
+<string name="save">Save = "Зберегти";</string>
+<string name="search_by_email_address">Search by email address = "Пошук за адресою електронної пошти";</string>
+<string name="search_by_name_or_email">Search by name or email = "Пошук за іменем або";</string>
+<string name="search_for_users">Search for users = "Пошук користувачів";</string>
+<string name="select_group_image">Select Group Image = "Виберіть Групове зображення";</string>
+
+<string name="select_language">Select language = "Обрати мову";</string>
+<string name="select_languages">Select Languages = "Виберіть мови";</string>
+<string name="select_organization_image">Select organization image = "Оберіть лого";</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set group image by tapping the icon above. If you don’t want to set an image, you can hit the save button to skip this step = "Встановіть зображення групи, торкнувшись піктограми. Якщо ви не хочете встановлювати зображення, ви можете натиснути кнопку "Зберегти", щоб пропустити цей крок";</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set organization image by tapping the icon above. If you don’t want to set an image, you can hit the save button to skip this step = "Встановіть зображення організації, торкнувшись піктограми. Якщо ви не хочете встановлювати зображення, ви можете натиснути кнопку "Зберегти", щоб пропустити цей крок";</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Set the language you do not want translated to your primary language. = "Оберіть мову, яку Ви не бажаєте перекладати на Вашу основну мову";</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Set the language you will use to send and receive chat messages. = "Оберіть мову, якою Ви будете користуватися для отримування повідомлень в чаті";</string>
+
+
+
+<string name="skip">Skip = "Пропустити";</string>
+
+
+
+
+
+
+
+<string name="tap_here">tap here = "торкніться тут";</string>
+
+<string name="terms_of_service">Terms of Service = "Умови надання послуг";</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">The messaging app that translates into 60+ languages in real time. = "Месенджер, який пееркладаэ на більш ніж 60 мов моментально";</string>
+
+
+<string name="translated_from">Translated from English = "Перекласти з англійської";</string>
+<string name="translated_from_english">Translated from = "Перевести з";</string>
+<string name="translated_messaging">Translated messaging. = "Перекласти переписку";</string>
+
+
+<string name="understood_languages">Understood Languages = "Мови, які Ви розумієте";</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">We just need a little more info to sign you up. = "Нам необхідно ще трохи більше інформації для Вашої реєстрації";</string>
+<string name="welcome_back">Welcome back = "Вітаємо знову";</string>
+
+<string name="yes">Yes = "Так";</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Вас запросили до групи</string>
+<string name="you_have_been_invited_to_the_organization">You have been invited to the organization = "Вас було запрошено в організацію";</string>
+
+<string name="your_email_address">Your email address = "Ваш e-maіl";</string>
+<string name="your_password">Your password = "Ваш пароль";</string>
+
+</resources>

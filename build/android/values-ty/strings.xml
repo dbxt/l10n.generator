@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Accept = "Farii i te";</string>
+
+
+<string name="am">AM = "i te poipoi.";</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Are you sure you want to delete this group? = "E hinaaro papu oe ia tuma i teie pupu?";</string>
+<string name="are_you_sure_you_want_to_invite">Te hinaaro nei outou ia ani i te papu anei</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Papu anei ua hinaaro oe i te faarue i teie pupu?</string>
+<string name="are_you_sure_you_want_to_sign_out">Are you sure you want to sign out? = "Papu anei ta outou e hinaaro e haere i rapae?";</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Be the first person to send a message to this group. = "E riro te taata matamua no te hapono i te hoe parau poroi i teie pupu.";</string>
+
+
+<string name="cancel">Cancel = "Faaore i te";</string>
+
+
+
+
+
+<string name="confirm_invitation">Haapapu i te titauraa manihini</string>
+<string name="confirm_password">Haapapu i te tao huna</string>
+
+<string name="contact_globechat">Contact GlobeChat = "A farerei atu i te GlobeChat";</string>
+
+<string name="create_account">Create account = "A hamani i te aamu";</string>
+<string name="create_group">Create Group = "A hamani i te pupu";</string>
+<string name="create_new">Create New = "No te faatupu A api";</string>
+<string name="create_new_group">Create New Group = "A hamani i te mau pupu api";</string>
+<string name="create_new_personal_organization_group">Create new Personal Organization group = "A hamani i te mau pupu api no te faanahonahoraa i te taata iho";</string>
+<string name="create_organization">A hamani i te faanahoraa</string>
+
+
+
+
+<string name="title_dashboard">Dashboard</string>
+<string name="decline">Decline = "Ino";</string>
+<string name="delete">Tuma i te</string>
+<string name="delete_group">Tuma i te pupu</string>
+<string name="do_you_want_to_accept">Do you want to accept? = "Te hinaaro ra anei outou i te farii?";</string>
+
+
+<string name="enter_a_name_for_your_new_group">Enter a name for your new group = "Tomo i roto i te ioa no to outou pupu api";</string>
+<string name="enter_a_name_for_your_new_organization">Enter a name for your new organization = "Tomo i roto i te ioa no to outou i teie faanahoraa api";</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Enter the email you signed up with, or the email address you want to sign up with. = "Tomo i roto i te rata uira i te mea ta outou i nia i te, e aore ra te rata uira ta outou e hinaaro e tomo i nia i te.";</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user = "Tomo i roto i ta oe tao huna no te tomo i roto i te GlobeChat.  Mai te mea e ere outou e aore ra, ta outou e hinaaro e tomo i roto mai te hoe taata e mea taa e";</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user, tap here. = "Tomo i roto i ta oe tao huna no te tomo i roto.  Mai te mea e ere outou e aore ra, ta outou e hinaaro e tomo i roto mai te hoe taata taa e, tairi i o nei.";</string>
+
+
+
+
+
+<string name="filter_members">Titia i te mau melo o te</string>
+
+<string name="first_name">First name = "Ioa matamua";</string>
+
+
+<string name="get_started">Get Started = "I te haamata";</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat Users = "E GlobeChat";</string>
+<string name="great_no_one_has_signed_up_with">Great! No one has signed up with = "Rahi! Aita e taata i te mea i nia i te";</string>
+
+<string name="group">Te pupu</string>
+<string name="group_members">Te mau melo o te pupu</string>
+<string name="group_name">Group Name = "Ioa o te pupu";</string>
+
+
+
+
+<string name="title_home">Te fare</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">If this is not you or you want to sign in as a different user, tap here. = "Mai te mea e ere outou e aore ra, ta outou e hinaaro e tomo i roto mai te hoe taata taa e, tairi i o nei.";</string>
+
+
+<string name="in_personal_organization">In personal organization = "I roto i te";</string>
+
+<string name="invalid_password">Invalid password = "Aita te tao huna";</string>
+<string name="invalid_username_password">Invalid username/ password = "Aita te ioa tomoraa / tao huna";</string>
+<string name="invite_by_email">A ani na roto i te rata uira</string>
+<string name="invite_members">A ani i te mau melo o te</string>
+<string name="invited_you_to_the_group">invited you to the group = "Te ani manihini mai outou i te pupu";</string>
+<string name="invited_you_to_the_organization">Ua ani outou i te faanahoraa</string>
+
+
+<string name="join_globechat">Join GlobeChat! = "Amui atu i te GlobeChat!";</string>
+
+
+<string name="last_name">Last name = "Ioa";</string>
+
+<string name="leave">Leave = "E vaiiho";</string>
+<string name="leave_group">Vaiiho i te pupu</string>
+
+
+<string name="lobby">Lobby = "Lobby";</string>
+<string name="location">Location = "Vahi nohoraa";</string>
+<string name="log_in_to_globechat">Log in to GlobeChat! = "A tomo i roto i te GlobeChat!";</string>
+<string name="log_in_to_globechat_">Log in to GlobeChat! = "A tomo i roto i te GlobeChat!";</string>
+<string name="login_failed">Login failed = "Aita i manuia te login";</string>
+<string name="logout">Logout = "Logout";</string>
+
+
+
+<string name="manage_group">Manage Group = "Faatere i te pupu";</string>
+<string name="manage_organization">Manage Organization = "Faatere i te faanahoraa";</string>
+<string name="members_in_">I roto i te mau melo o</string>
+<string name="members_in_group">Members in Group = "Te mau melo i roto i te pupu";</string>
+<string name="members_in_organization">Members in Organization = "I roto i te mau melo o";</string>
+<string name="name">Name = "Ioa";</string>
+<string name="no">No = "Aita";</string>
+<string name="no_pending_invitations">No pending invitations = "Aita e aniraa e tiai ra";</string>
+<string name="no_posts_yet">No posts yet. = "Aita e pou ra.";</string>
+<string name="no_results">No results = "Aita e pahonoraa";</string>
+<string name="none">None = "Aita hoe";</string>
+
+<string name="title_notifications">Mau faaararaa</string>
+
+
+<string name="organization">Organization = "Faanahonahoraa";</string>
+<string name="organization_members">Organization Members = "Te mau melo o te pupu";</string>
+<string name="organization_name">Organization Name = "Ioa o te faanahoraa";</string>
+
+<string name="owner">Owner = "Fatu tauihaa";</string>
+
+
+<string name="pending_group_invitations">Pending Group Invitations = "Aniraa manihini no te toe o te pupu";</string>
+<string name="pending_organization_invitations">Pending Organization Invitations = "Aniraa manihini no te toe o te faanahoraa";</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Please enter a password that is at least 8 characters in length. = "A tomo i roto i te tao huna e 8 ae i te taata i roto i te roaraa o te.";</string>
+
+
+
+<string name="pm">PM = "i te po.";</string>
+
+
+<string name="primary_language">Primary Language = "Reo";</string>
+<string name="privacy_policy">Privacy Policy = "Te ture no te oraraa omoe";</string>
+
+
+
+
+
+<string name="save">Save = "Faaora";</string>
+<string name="search_by_email_address">Search by email address = "A imi na roto i te rata uira";</string>
+<string name="search_by_name_or_email">Search by name or email = "A imi na roto i te ioa e aore ra te rata uira";</string>
+<string name="search_for_users">Search for users = "A imi na te mau taata";</string>
+<string name="select_group_image">Select Group Image = "Te hohoa i te pupu maiti";</string>
+
+<string name="select_language">Select language = "A maiti i te reo";</string>
+<string name="select_languages">Select Languages = "A maiti i te reo";</string>
+<string name="select_organization_image">Select organization image = "A maiti i te hohoa o te faanahonahoraa";</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set group image by tapping the icon above. If you donít want to set an image, you can hit the save button to skip this step = "A faaite i te hohoa i te pupu na roto i te imi i te hohoa i nia nei. Mai te mea e aita outou e hinaaro i te haamau i te hoe hohoa, ta outou e nehenehe e tairi i te Faaora pitopito no te haapae i teie mau taahiraa";</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set organization image by tapping the icon above. If you donít want to set an image, you can hit the save button to skip this step = "I te hohoa i te pupu na roto i te imi i te hohoa i nia nei. Mai te mea e aita outou e hinaaro i te haamau i te hoe hohoa, ta outou e nehenehe e tairi i te Faaora pitopito no te haapae i teie mau taahiraa";</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Set the language you do not want translated to your primary language. = "I te reo e aita outou e hinaaro iritihia i to outou reo.";</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Set the language you will use to send and receive chat messages. = "A faaite i te parau ta outou e faaohipa i hapono e i farii i te mau parau poroi no te paraparau.";</string>
+
+
+
+<string name="skip">Skip = "Vaiiho";</string>
+
+
+
+
+
+
+
+<string name="tap_here">tap here = "tairi i o nei";</string>
+
+<string name="terms_of_service">Terms of Service = "Te mau parau no te taviniraa";</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">The messaging app that translates into 60+ languages in real time. = "Te rahi o te faanahoraa messaging e taue irithia ai te mau parau poroi i roto i te mau reo hau atu i te 60.";</string>
+
+
+<string name="translated_from">Translated from English = "E iritihia mai te reo peretane";</string>
+<string name="translated_from_english">Translated from = "Iritihia mai roto mai i";</string>
+<string name="translated_messaging">Translated messaging. = "E iritihia i te Messaging";</string>
+
+
+<string name="understood_languages">Understood Languages = "Te mau reo maramaramahia";</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">We just need a little more info to sign you up. = "Ua tia noa ia tatou i te iti info hau atu i te tapao ta outou.";</string>
+<string name="welcome_back">Welcome back = "Farii mai i ta oe tao huna";</string>
+
+<string name="yes">Yes = "E";</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Ua ani outou i te pupu</string>
+<string name="you_have_been_invited_to_the_organization">You have been invited to the organization = "Ua ani outou i te faanahoraa";</string>
+
+<string name="your_email_address">Your email address = "Ta outou vahi rata uira";</string>
+<string name="your_password">Your password = "Parau faatia";</string>
+
+</resources>

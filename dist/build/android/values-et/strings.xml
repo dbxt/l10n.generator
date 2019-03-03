@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Nõustun</string>
+
+
+<string name="am">hommikul</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Kas soovite kindlasti selle rühma kustutada?</string>
+<string name="are_you_sure_you_want_to_invite">Kas soovite kindlasti kutsuda</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Kas soovite kindlasti selle rühma jätta?</string>
+<string name="are_you_sure_you_want_to_sign_out">Kas soovite kindlasti välja logida?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Ole esimene inimene, kes saadab selle grupi kohta sõnumi.</string>
+
+
+<string name="cancel">Tühistada</string>
+
+
+
+
+
+<string name="confirm_invitation">Kinnita kutse</string>
+<string name="confirm_password">Parooli kinnitamine</string>
+
+<string name="contact_globechat">Kontakt GlobeChat</string>
+
+<string name="create_account">Loo konto</string>
+<string name="create_group">Loo rühm</string>
+<string name="create_new">luua uusi</string>
+<string name="create_new_group">Loo uus rühm</string>
+<string name="create_new_personal_organization_group">Loo uus isikliku korralduse grupp</string>
+<string name="create_organization">Organisatsiooni loomine</string>
+
+
+
+
+<string name="title_dashboard">Armatuurlaua</string>
+<string name="decline">Langema</string>
+<string name="delete">Kustutada</string>
+<string name="delete_group">Kustuta rühm</string>
+<string name="do_you_want_to_accept">Kas soovite aktsepteerida?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Sisestage uue rühma nimi</string>
+<string name="enter_a_name_for_your_new_organization">Sisestage oma uue organisatsiooni nimi</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Sisestage registreeritud e-posti aadress või e-posti aadress, millega soovite registreeruda.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Sisestage sisselogimiseks oma parool.  Kui see ei ole teie või soovite sisse logida teise kasutajana, koputage siia.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Sisestage sisselogimiseks oma parool.  Kui see ei ole teie või soovite sisse logida teise kasutajana, koputage siia.</string>
+
+
+
+
+
+<string name="filter_members">Filtreeri liikmeid</string>
+
+<string name="first_name">Eesnimi</string>
+
+
+<string name="get_started">Alustama</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat kasutajad</string>
+<string name="great_no_one_has_signed_up_with">Suurepärane! Keegi ei ole sisse loginud</string>
+
+<string name="group">Rühma</string>
+<string name="group_members">Grupi liikmed</string>
+<string name="group_name">Rühma nimi</string>
+
+
+
+
+<string name="title_home">Kodu</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Kui see pole teie või soovite sisse logida teise kasutajana, puudutage siit.</string>
+
+
+<string name="in_personal_organization">Isiklikus korras</string>
+
+<string name="invalid_password">Vale parool</string>
+<string name="invalid_username_password">Vale kasutajanimi / parool</string>
+<string name="invite_by_email">Kutsu e-posti teel</string>
+<string name="invite_members">Kutsu liikmeid</string>
+<string name="invited_you_to_the_group">kutsus teid gruppi</string>
+<string name="invited_you_to_the_organization">kutsus teid organisatsiooni</string>
+
+
+<string name="join_globechat">Liitu GlobeChat!</string>
+
+
+<string name="last_name">Perekonnanimi</string>
+
+<string name="leave">Jäta</string>
+<string name="leave_group">Jäta rühm</string>
+
+
+<string name="lobby">Fuajees</string>
+<string name="location">Asukoht</string>
+<string name="log_in_to_globechat">Logige sisse GlobeChat\'i!</string>
+<string name="log_in_to_globechat_">Logige sisse GlobeChat\'i!</string>
+<string name="login_failed">Sisselogimine ebaõnnestus</string>
+<string name="logout">Logi välja</string>
+
+
+
+<string name="manage_group">Halda rühma</string>
+<string name="manage_organization">Organisatsiooni haldamine</string>
+<string name="members_in_">liikmed</string>
+<string name="members_in_group">Liikmed grupis</string>
+<string name="members_in_organization">Liikmed organisatsioonis</string>
+<string name="name">Nimi</string>
+<string name="no">Ei</string>
+<string name="no_pending_invitations">Ootel olevad kutsed puuduvad</string>
+<string name="no_posts_yet">Pole veel postitusi</string>
+<string name="no_results">Tulemused puuduvad</string>
+<string name="none">Puudub</string>
+
+<string name="title_notifications">Teatised</string>
+
+
+<string name="organization">Organisatsiooni</string>
+<string name="organization_members">Organisatsiooni liikmed</string>
+<string name="organization_name">Organisatsiooni nimi</string>
+
+<string name="owner">Omanik</string>
+
+
+<string name="pending_group_invitations">Ootel rühma kutsed</string>
+<string name="pending_organization_invitations">Ootel organisatsiooni kutsed</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Palun sisesta parool, mille pikkus on vähemalt 8 tähemärki.</string>
+
+
+
+<string name="pm">pärast lõunat</string>
+
+
+<string name="primary_language">Emakeel</string>
+<string name="privacy_policy">Privaatsuspoliitika</string>
+
+
+
+
+
+<string name="save">Salvestada</string>
+<string name="search_by_email_address">Otsi e-posti aadressi järgi</string>
+<string name="search_by_name_or_email">Otsi nime või e-posti teel</string>
+<string name="search_for_users">Buscar usuarios</string>
+<string name="select_group_image">Vali rühma pilt</string>
+
+<string name="select_language">Vali keel</string>
+<string name="select_languages">Vali keeled</string>
+<string name="select_organization_image">Valige organisatsiooni kujutis</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set rühma pilt, koputades ikooni eespool. Kui te ei soovi pilti seada, võite selle sammu vahelejätmiseks vajutada nuppu Salvesta</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set rühma pilt, koputades ikooni eespool. Kui te ei soovi pilti seada, võite selle sammu vahelejätmiseks vajutada nuppu Salvesta</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Määrake keel, mida te ei soovi tõlkida oma põhikeeleks.</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Määrake keel, mida kasutate vestlussõnumite saatmiseks ja vastuvõtmiseks.</string>
+
+
+
+<string name="skip">Vahele jätma</string>
+
+
+
+
+
+
+
+<string name="tap_here">Puudutage siin</string>
+
+<string name="terms_of_service">Teenusetingimused</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Sõnumiside rakendus, mis tõlgib reaalajas 60+ keelt.</string>
+
+
+<string name="translated_from">Tõlgitud inglise keelest</string>
+<string name="translated_from_english">Tõlgitud</string>
+<string name="translated_messaging">Tõlgitud sõnumside.</string>
+
+
+<string name="understood_languages">Keelte mõistmine</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Me vajame lihtsalt veidi rohkem infot, et teid sisse logida.</string>
+<string name="welcome_back">Tere tulemast tagasi</string>
+
+<string name="yes">Jah</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Teid on kutsutud rühma</string>
+<string name="you_have_been_invited_to_the_organization">Teid on organisatsioonile kutsutud</string>
+
+<string name="your_email_address">sinu emaili aadress</string>
+<string name="your_password">Teie parool</string>
+
+</resources>

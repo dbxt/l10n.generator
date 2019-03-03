@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Txais</string>
+
+
+<string name="am">sijhawm ua ntej tavsu</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Koj puas tseeb koj xav rho tawm pawg?</string>
+<string name="are_you_sure_you_want_to_invite">Koj puas tseeb koj xav caw</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Koj puas tseeb koj xav tawm mus rau cov pab pawg no?</string>
+<string name="are_you_sure_you_want_to_sign_out">Koj puas tseeb koj yuav tau kos npe rau daim?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Yog thawj tus neeg xa lus mus rau pawg no.</string>
+
+
+<string name="cancel">Ncua tseg</string>
+
+
+
+
+
+<string name="confirm_invitation">Paub meej tias nws tau caw</string>
+<string name="confirm_password">Paub meej tias nws lo lus zais</string>
+
+<string name="contact_globechat">Hu rau GlobeChat</string>
+
+<string name="create_account">Tsim tus account</string>
+<string name="create_group">ua ib pawg</string>
+<string name="create_new">ua tshiab</string>
+<string name="create_new_group">Tsim ib pawg tshiab</string>
+<string name="create_new_personal_organization_group">Tsim ib pab pawg neeg tshiab</string>
+<string name="create_organization">Tsim cov koom haum</string>
+
+
+
+
+<string name="title_dashboard">Dashboard</string>
+<string name="decline">Txiav txim</string>
+<string name="delete">Rho tawm</string>
+<string name="delete_group">Rho tawm Group</string>
+<string name="do_you_want_to_accept">Koj puas xav txais?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Sau npe rau koj pawg neeg tshiab</string>
+<string name="enter_a_name_for_your_new_organization">Sau lub npe rau koj lub koom haum tshiab</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Sau tus email uas koj kos npe nrog, lossis tus email chaw nyob uas koj xav sau npe nrog.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Sau koj lo lus zais kos npe rau.  Yog qhov no tsi muaj koj los yog koj yuav tau kos npe rau raws li tus neeg siv uas sib txawv</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Sau koj lo lus zais kos npe rau.  Yog qhov no tsi muaj koj los yog koj yuav tau kos npe rau raws li tus neeg siv uas sib txawv, coj mus rhaub ntawm no.</string>
+
+
+
+
+
+<string name="filter_members">Cov neeg lim</string>
+
+<string name="first_name">Lub npe</string>
+
+
+<string name="get_started">Pib Tau</string>
+<string name="app_name"></string>
+<string name="globechat_users">Cov neeg siv GlobeChat</string>
+<string name="great_no_one_has_signed_up_with">Zoo kawg thiab. Tsis muaj leej twg muaj kos npe nrog</string>
+
+<string name="group">ib pab</string>
+<string name="group_members">Ib pab neeg </string>
+<string name="group_name">Pab pawg neeg lub npe</string>
+
+
+
+
+<string name="title_home">Tsev</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Yog tias qhov no tsis yog koj lossis koj xav kom koj xee npe rau hauv kev sib txawv, siv qhov no.</string>
+
+
+<string name="in_personal_organization">Nyob rau hauv tus kheej lub koom haum</string>
+
+<string name="invalid_password">Invalid lo lus zais</string>
+<string name="invalid_username_password">Inername username / password</string>
+<string name="invite_by_email">Caw los ntawm tug</string>
+<string name="invite_members">Caw neeg</string>
+<string name="invited_you_to_the_group">tau caw koj tuaj rau pawg neeg no</string>
+<string name="invited_you_to_the_organization">caw koj mus rau lub koom haum</string>
+
+
+<string name="join_globechat">Koom GlobeChat!</string>
+
+
+<string name="last_name">Lub xeem</string>
+
+<string name="leave">Tawm</string>
+<string name="leave_group">Ib pawg tawm</string>
+
+
+<string name="lobby">Chaw tos txais</string>
+<string name="location">Qhov chaw</string>
+<string name="log_in_to_globechat">Mus nkag rau GlobeChat!</string>
+<string name="log_in_to_globechat_">Mus nkag rau GlobeChat!</string>
+<string name="login_failed">ID nkag mus tsis tau</string>
+<string name="logout">Logout</string>
+
+
+
+<string name="manage_group">Tswj Group</string>
+<string name="manage_organization">Tswj lub koom haum</string>
+<string name="members_in_">cov neeg nyob rau</string>
+<string name="members_in_group">Cov tswv cuab hauv Pawg</string>
+<string name="members_in_organization">Cov neeg nyob hauv lub koom haum</string>
+<string name="name">Lub npe</string>
+<string name="no">Tsis muaj</string>
+<string name="no_pending_invitations">Tsis muaj tos caw</string>
+<string name="no_posts_yet">Tsis muaj posts tseem.</string>
+<string name="no_results">Tsis tau</string>
+<string name="none">Tsis muaj</string>
+
+<string name="title_notifications">Cov ntawv qhia</string>
+
+
+<string name="organization">lub koom haum</string>
+<string name="organization_members">Lub koom haum neeg</string>
+<string name="organization_name">Lub koom haum npe</string>
+
+<string name="owner">Tus tswv</string>
+
+
+<string name="pending_group_invitations">Tseem tos seb pab Invitations</string>
+<string name="pending_organization_invitations">Thaum Teem Teev Tseg Lub Koom Haum</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Thov sau ib lo lus zais uas yog tsawg kawg 8 cim hauv ntev.</string>
+
+
+
+<string name="pm">tsaus ntuj</string>
+
+
+<string name="primary_language">Primary Language</string>
+<string name="privacy_policy">Txoj cai tsis pub twg paub</string>
+
+
+
+
+
+<string name="save">Tseg</string>
+<string name="search_by_email_address">Mus nrhiav los ntawm email chaw nyob</string>
+<string name="search_by_name_or_email">Tshawb tau raws npe los yog tug</string>
+<string name="search_for_users">cov neeg nrhiav</string>
+<string name="select_group_image">Xaiv ib pawg duab</string>
+
+<string name="select_language">Xaiv lus</string>
+<string name="select_languages">xaiv lus</string>
+<string name="select_organization_image">Xaiv lub koom haum duab</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Koj muab ib pawg duab los ntawm tapping lub icon saum toj no. Yog hais tias koj tsis xav kom koj muab ib cov duab, koj yuav ntaus lub txuag tau khawm mus hla mus rau kauj ruam no</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Tsom xam muab duab los ntawm tapping lub icon saum toj no. Yog hais tias koj tsis xav kom koj muab ib cov duab, koj yuav ntaus lub txuag tau khawm mus hla mus rau kauj ruam no</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Teem cov lus koj tsis xav tau txhais ua koj hom lus.</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Teem cov lus koj yuav siv xa thiab tau txais cov lus sib tham.</string>
+
+
+
+<string name="skip">Hla</string>
+
+
+
+
+
+
+
+<string name="tap_here">kais ntawm no</string>
+
+<string name="terms_of_service">Hnub nyoog ntawm qhov kev pab</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Tus xa app uas txhais ua 60+ yam lus nyob rau ntawm lub sijhawm.</string>
+
+
+<string name="translated_from">Txhais los ntawm Lus Askiv</string>
+<string name="translated_from_english">txhais los ntawm</string>
+<string name="translated_messaging">Txhais lus tshaj tawm.</string>
+
+
+<string name="understood_languages">To taub lus</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Peb tsuas xav tau cov lus qhia me ntsis ntxiv rau koj kos npe.</string>
+<string name="welcome_back">Txais tos qab</string>
+
+<string name="yes">Yog</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Koj tau raug caw rau pawg</string>
+<string name="you_have_been_invited_to_the_organization">Koj tau raug caw tuaj koom lub koom haum</string>
+
+<string name="your_email_address">Koj email chaw nyob</string>
+<string name="your_password">Koj tus password</string>
+
+</resources>

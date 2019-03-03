@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">αποδοχή</string>
+
+
+<string name="am">π.μ.</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την ομάδα</string>
+<string name="are_you_sure_you_want_to_invite">Είστε βέβαιοι ότι θέλετε να προσκαλέσετε</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Είστε βέβαιοι ότι θέλετε να φύγετε από αυτή την ομάδα;</string>
+<string name="are_you_sure_you_want_to_sign_out">Είστε βέβαιοι ότι θέλετε να αποσυνδεθείτε</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Γίνετε ο πρώτος που στέλνει ένα μήνυμα σε αυτή την ομάδα.</string>
+
+
+<string name="cancel">Ακυρώσετε</string>
+
+
+
+
+
+<string name="confirm_invitation">Επιβεβαίωση πρόσκλησης</string>
+<string name="confirm_password">Επιβεβαίωση κωδικού πρόσβασης</string>
+
+<string name="contact_globechat">Επικοινωνία GlobeChat</string>
+
+<string name="create_account">Δημιουργήστε λογαριασμό</string>
+<string name="create_group">Δημιουργία ομάδας</string>
+<string name="create_new">Δημιουργία νέου</string>
+<string name="create_new_group">Δημιουργία νέας ομάδας</string>
+<string name="create_new_personal_organization_group">Δημιουργία νέας ομάδας προσωπικού οργανισμού</string>
+<string name="create_organization">Δημιουργία οργανισμού</string>
+
+
+
+
+<string name="title_dashboard">Ταμπλό</string>
+<string name="decline">Απόρριψη</string>
+<string name="delete">Διαγράψετε</string>
+<string name="delete_group">Διαγραφή ομάδας</string>
+<string name="do_you_want_to_accept">Θέλετε να δεχτείτε</string>
+
+
+<string name="enter_a_name_for_your_new_group">Πληκτρολογήστε ένα όνομα για τη νέα ομάδα σας</string>
+<string name="enter_a_name_for_your_new_organization">Πληκτρολογήστε ένα όνομα για τον νέο οργανισμό σας</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Εισαγάγετε το email με τον οποίο έχετε εγγραφεί ή τη διεύθυνση ηλεκτρονικού ταχυδρομείου με την οποία θέλετε να εγγραφείτε.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Πληκτρολογήστε τον κωδικό πρόσβασής σας για να συνδεθείτε.  Αν δεν είστε εσείς ή θέλετε να συνδεθείτε ως διαφορετικός χρήστης</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Πληκτρολογήστε τον κωδικό πρόσβασής σας για να συνδεθείτε.  Αν δεν είστε εσείς ή θέλετε να συνδεθείτε ως διαφορετικός χρήστης, πατήστε εδώ.</string>
+
+
+
+
+
+<string name="filter_members">Φίλτρα μελών</string>
+
+<string name="first_name">Ονομα</string>
+
+
+<string name="get_started">Ξεκίνα</string>
+<string name="app_name"></string>
+<string name="globechat_users">Χρήστες GlobeChat</string>
+<string name="great_no_one_has_signed_up_with">Μεγάλο! Κανείς δεν έχει υπογράψει με</string>
+
+<string name="group">Ομάδα</string>
+<string name="group_members">Μέλη ομάδας </string>
+<string name="group_name">Όνομα ομάδας</string>
+
+
+
+
+<string name="title_home">Σπίτι</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Εάν δεν είστε εσείς ή θέλετε να συνδεθείτε ως διαφορετικός χρήστης, πατήστε εδώ.</string>
+
+
+<string name="in_personal_organization">Στην προσωπική οργάνωση</string>
+
+<string name="invalid_password">Λανθασμένος κωδικός</string>
+<string name="invalid_username_password">Μη έγκυρο όνομα χρήστη / κωδικό πρόσβασης</string>
+<string name="invite_by_email">Πρόσκληση μέσω ηλεκτρονικού ταχυδρομείου</string>
+<string name="invite_members">Πρόσκληση μελών</string>
+<string name="invited_you_to_the_group">σας προσκάλεσε στην ομάδα</string>
+<string name="invited_you_to_the_organization">σας προσκάλεσε στην οργάνωση</string>
+
+
+<string name="join_globechat">Γίνετε μέλος GlobeChat!</string>
+
+
+<string name="last_name">Επίθετο</string>
+
+<string name="leave">Αφήστ</string>
+<string name="leave_group">Αφήστε την ομάδα</string>
+
+
+<string name="lobby">Λόμπι</string>
+<string name="location">τοποθεσία</string>
+<string name="log_in_to_globechat">Συνδεθείτε στο GlobeChat!</string>
+<string name="log_in_to_globechat_">Συνδεθείτε στο GlobeChat!</string>
+<string name="login_failed">Η σύνδεση απέτυχε</string>
+<string name="logout">Αποσύνδεση</string>
+
+
+
+<string name="manage_group">Διαχείριση ομάδας</string>
+<string name="manage_organization">Διαχείριση οργανισμού</string>
+<string name="members_in_">μέλη σε</string>
+<string name="members_in_group">Μέλη στην Ομάδα</string>
+<string name="members_in_organization">Μέλη στην οργάνωση</string>
+<string name="name">Όνομα</string>
+<string name="no">Όχι</string>
+<string name="no_pending_invitations">Δεν υπάρχουν προσκλήσεις σε εκκρεμότητα</string>
+<string name="no_posts_yet">Δεν υπάρχουν ακόμη αναρτήσεις</string>
+<string name="no_results">Δεν υπάρχουν αποτελέσματα</string>
+<string name="none">Δεν υπάρχουν</string>
+
+<string name="title_notifications">Ειδοποιήσεις</string>
+
+
+<string name="organization">Οργάνωση</string>
+<string name="organization_members">Μέλη οργάνωσης</string>
+<string name="organization_name">Ονομα Οργανισμού</string>
+
+<string name="owner">Ιδιοκτήτης</string>
+
+
+<string name="pending_group_invitations">Προσκλήσεις σε εκκρεμότητα ομάδας</string>
+<string name="pending_organization_invitations">Εκκρεμείς προσκλήσεις οργανισμού</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Εισαγάγετε έναν κωδικό με μήκος τουλάχιστον 8 χαρακτήρων.</string>
+
+
+
+<string name="pm">Μ.μ.</string>
+
+
+<string name="primary_language">πρωτοβάθμια γλώσσα</string>
+<string name="privacy_policy">Πολιτική προστασίας προσωπικών δεδομένων</string>
+
+
+
+
+
+<string name="save">Αποθήκευση</string>
+<string name="search_by_email_address">Αναζήτηση με διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+<string name="search_by_name_or_email">Αναζήτηση με όνομα ή ηλεκτρονικό ταχυδρομείο</string>
+<string name="search_for_users">Αναζήτηση χρηστών</string>
+<string name="select_group_image">Επιλογή εικόνας ομάδας</string>
+
+<string name="select_language">Επιλέξτε γλώσσα</string>
+<string name="select_languages">Επιλέξτε γλώσσες</string>
+<string name="select_organization_image">Επιλέξτε εικόνα οργανισμού</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Ορίστε την εικόνα της ομάδας πατώντας το παραπάνω εικονίδιο. Εάν δεν θέλετε να ορίσετε μια εικόνα, μπορείτε να πατήσετε το κουμπί Αποθήκευση για να παραλείψετε αυτό το βήμα</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Ορισμός εικόνας οργανισμού πατώντας το παραπάνω εικονίδιο. Εάν δεν θέλετε να ορίσετε μια εικόνα, μπορείτε να πατήσετε το κουμπί Αποθήκευση για να παραλείψετε αυτό το βήμα</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Ορίστε τη γλώσσα που δεν θέλετε να μεταφραστεί στην κύρια γλώσσα σας.</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Ορίστε τη γλώσσα που θα χρησιμοποιήσετε για να στείλετε και να λάβετε μηνύματα συνομιλίας</string>
+
+
+
+<string name="skip">παρακάμπτοντας</string>
+
+
+
+
+
+
+
+<string name="tap_here">Πατήστε εδώ</string>
+
+<string name="terms_of_service">Όροι παροχής υπηρεσιών</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Η εφαρμογή ανταλλαγής μηνυμάτων που μεταφράζεται σε 60+ γλώσσες σε πραγματικό χρόνο.</string>
+
+
+<string name="translated_from">Μετάφραση από τα αγγλικά</string>
+<string name="translated_from_english">μεταφραστεί από</string>
+<string name="translated_messaging">Μεταφρασμένα μηνύματα.</string>
+
+
+<string name="understood_languages">Κατανόηση γλωσσών</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Χρειαζόμαστε μόνο λίγες περισσότερες πληροφορίες για να εγγραφείτε.</string>
+<string name="welcome_back">καλώς ήρθατε πίσω</string>
+
+<string name="yes">Ναι</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Έχετε προσκληθεί στην ομάδα</string>
+<string name="you_have_been_invited_to_the_organization">Έχετε προσκληθεί στον οργανισμό</string>
+
+<string name="your_email_address">η ηλεκτρονική σου διεύθυνση</string>
+<string name="your_password">Ο κωδικός σας</string>
+
+</resources>

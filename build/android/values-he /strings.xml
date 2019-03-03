@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">קבל</string>
+
+
+<string name="am">בבוקר</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">האם אתה בטוח האם אתה בטוח שברצונך למחוק קבוצה זו?</string>
+<string name="are_you_sure_you_want_to_invite">האם אתה בטוח שברצונך להזמין</string>
+<string name="are_you_sure_you_want_to_leave_this_group">האם אתה בטוח שברצונך לעזוב את הקבוצה?</string>
+<string name="are_you_sure_you_want_to_sign_out">האם אתה בטוח שברצונך לצאת</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">היה האדם הראשון שישלח הודעה לקבוצה זו.</string>
+
+
+<string name="cancel">בטל</string>
+
+
+
+
+
+<string name="confirm_invitation">אשר הזמנה</string>
+<string name="confirm_password">אשרסיסמה</string>
+
+<string name="contact_globechat">צור קשר עם GlobeChat</string>
+
+<string name="create_account">צור חשבון</string>
+<string name="create_group">יצור קבוצה</string>
+<string name="create_new">יצור חדש</string>
+<string name="create_new_group">צור קבוצה חדשה</string>
+<string name="create_new_personal_organization_group">צור קבוצת ארגון אישי חדש</string>
+<string name="create_organization">צור ארגון</string>
+
+
+
+
+<string name="title_dashboard">חוונים</string>
+<string name="decline">יְרִידָה</string>
+<string name="delete">מחוק</string>
+<string name="delete_group">מחק קבוצה</string>
+<string name="do_you_want_to_accept">האם אתה רוצה לקבל?</string>
+
+
+<string name="enter_a_name_for_your_new_group">הזן שם עבור הקבוצה החדשה</string>
+<string name="enter_a_name_for_your_new_organization">הזן שם עבור הארגון החדש שלך</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">הזן את כתובת הדוא"ל שבה נרשמת, או את כתובת האימייל שבה ברצונך להירשם.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user"> הזן את סיסמתך כדי להיכנס ל-GlobeChat.  אם הדבר אינו אתה או שברצונך להיכנס כמשתמש אחר</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">הזן את סיסמתך כדי להיכנס.  אם הדבר אינו אתה או שברצונך להיכנס כמשתמש אחר, הקש כאן.</string>
+
+
+
+
+
+<string name="filter_members">מסנני \' חברים \'</string>
+
+<string name="first_name">שם פרטי</string>
+
+
+<string name="get_started">להתחיל</string>
+<string name="app_name"></string>
+<string name="globechat_users">משתמשים</string>
+<string name="great_no_one_has_signed_up_with">נהדר! אף אחד לא נרשם עם</string>
+
+<string name="group">קבוצה</string>
+<string name="group_members">חברי הקבוצה </string>
+<string name="group_name">שם קבוצה</string>
+
+
+
+
+<string name="title_home">בית</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">אם זה לא אתה או שאתה רוצה להיכנס כמשתמש אחר, הקש כאן.</string>
+
+
+<string name="in_personal_organization">בארגון אישי</string>
+
+<string name="invalid_password">סיסמה שגויה</string>
+<string name="invalid_username_password">שם משתמש / סיסמא שגויים</string>
+<string name="invite_by_email">הזמנה במייל</string>
+<string name="invite_members">הזמנתחברים</string>
+<string name="invited_you_to_the_group">הזמין אותך לקבוצה</string>
+<string name="invited_you_to_the_organization">הזמינו אותך לארגון</string>
+
+
+<string name="join_globechat">GlobeChatהצטרפו ל!</string>
+
+
+<string name="last_name">שם משפחה</string>
+
+<string name="leave">לעזוב</string>
+<string name="leave_group">השאר קבוצה</string>
+
+
+<string name="lobby">לובי</string>
+<string name="location">מקום</string>
+<string name="log_in_to_globechat">התחבר אל GlobeChat!</string>
+<string name="log_in_to_globechat_">התחבר אל GlobeChat!</string>
+<string name="login_failed">ההתחברות נכשלה</string>
+<string name="logout">להתנתק</string>
+
+
+
+<string name="manage_group">נהל קבוצה</string>
+<string name="manage_organization">נהל ארגון</string>
+<string name="members_in_">חברים ב</string>
+<string name="members_in_group">חברים בקבוצה</string>
+<string name="members_in_organization">חברים בארגון</string>
+<string name="name">שֵׁם</string>
+<string name="no">לא</string>
+<string name="no_pending_invitations">אין הזמנות בהמתנה</string>
+<string name="no_posts_yet">עדיין אין פוסטים.</string>
+<string name="no_results">אין תוצאות</string>
+<string name="none">אף אחד</string>
+
+<string name="title_notifications">ודעות</string>
+
+
+<string name="organization">ארגון</string>
+<string name="organization_members">חברי הארגון</string>
+<string name="organization_name">שם ארגון</string>
+
+<string name="owner">בעלים</string>
+
+
+<string name="pending_group_invitations">הזמנות קבוצתיות ממתינות</string>
+<string name="pending_organization_invitations">הזמנות ארגון ממתינות</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">הזן סיסמה שאורכה 8 תווים לפחות.</string>
+
+
+
+<string name="pm">שעה</string>
+
+
+<string name="primary_language">שפת אם</string>
+<string name="privacy_policy">מדיניות פרטיות</string>
+
+
+
+
+
+<string name="save">הציל</string>
+<string name="search_by_email_address">חיפוש לפי כתובת דוא ל</string>
+<string name="search_by_name_or_email">חיפוש לפי שם או דוא ל</string>
+<string name="search_for_users">חפש משתמשים</string>
+<string name="select_group_image">בחר תמונה קבוצתית</string>
+
+<string name="select_language">בחר שפה</string>
+<string name="select_languages">בחר שפות</string>
+<string name="select_organization_image">בחר תמונת ארגון</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step"> הגדר תמונה קבוצתית על-ידי הקשה על הסמל שלעיל. אם אין ברצונך להגדיר תמונה, באפשרותך ללחוץ על לחצן שמור כדי לדלג על שלב זה</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">הגדר תמונה ארגונית על-ידי הקשה על הסמל שלעיל. אם אין ברצונך להגדיר תמונה, באפשרותך ללחוץ על לחצן שמור כדי לדלג על שלב זה</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Set the language you do not want translated to your primary language. = "הגדר את השפה שאינך רוצה לתרגם לשפה הראשית שלך.";</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">הגדר את השפה שבה תשתמש כדי לשלוח ולקבל הודעות צ\'אט.</string>
+
+
+
+<string name="skip">לדלג</string>
+
+
+
+
+
+
+
+<string name="tap_here">הקש כאן</string>
+
+<string name="terms_of_service">תנאי שירות</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time"> האפליקציה להעברת הודעות המתרגמת ל -60 שפות בזמן אמת.</string>
+
+
+<string name="translated_from">תורגם מאנגלית</string>
+<string name="translated_from_english">תורגם מ</string>
+<string name="translated_messaging">הודעות מתורגמות</string>
+
+
+<string name="understood_languages">שפות מובנות</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">אנחנו רק צריכים קצת יותר מידע כדי לרשום אותך.</string>
+<string name="welcome_back">ברוך שובך</string>
+
+<string name="yes">כן</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">. הוזמנת לקבוצה</string>
+<string name="you_have_been_invited_to_the_organization">הוזמנת לארגון</string>
+
+<string name="your_email_address">כתובת הדוא"ל שלך</string>
+<string name="your_password">הסיסמה שלך</string>
+
+</resources>

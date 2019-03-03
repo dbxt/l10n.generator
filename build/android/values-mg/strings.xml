@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Ekeo</string>
+
+
+<string name="am">Aho</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Moa ve ianao antoka ve fa tianao hofafana io vondrona io?</string>
+<string name="are_you_sure_you_want_to_invite">Azo antoka fa azonao atao ny manasa ve ianao</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Moa ve ianao antoka ve fa te handao io vondrona io?</string>
+<string name="are_you_sure_you_want_to_sign_out">Moa ve ianao antoka ve fa tianao hivoaka?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Aoka ianao ho olona voalohany handefa hafatra ho an\'ity</string>
+
+
+<string name="cancel">Foano</string>
+
+
+
+
+
+<string name="confirm_invitation">Patvirtinkite kvietimą</string>
+<string name="confirm_password">Hanamafy ny Tenimiafina</string>
+
+<string name="contact_globechat">Mifandraisa amin\' ny GlobeChat</string>
+
+<string name="create_account">Hamorona kaonty</string>
+<string name="create_group">Mamorona vondrona</string>
+<string name="create_new">Mamorona vaovao</string>
+<string name="create_new_group">Mamorona antoko vaovao</string>
+<string name="create_new_personal_organization_group">Amboary ny vondrona vaovaon\'ny Fikambanana manokana</string>
+<string name="create_organization">Mamorona ny Fikambanana</string>
+
+
+
+
+<string name="title_dashboard">Dashboard</string>
+<string name="decline">fitontonganan\'ny</string>
+<string name="delete">Hamafa</string>
+<string name="delete_group">Mamafa ny Vondrona</string>
+<string name="do_you_want_to_accept">Te-hanaiky ve ianao?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Ampidiro ny anarana ho an\' ny vondrona vaovao</string>
+<string name="enter_a_name_for_your_new_organization">Ampidiro anarana ho an\'ny fikambanana vaovao anao</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Ampidiro ny mailaka nosoratanao, na ny adiresy mailaka tianao halefa.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Miditra ao amin\' ny tenimiafinao hanao sonia ao amin\' ny.  Raha izany dia tsy azonao na tianao midira amin\' ny maha-samy hafa ny mpampiasa.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Miditra ao amin\' ny tenimiafinao hanao sonia ao amin\' ny.  Raha izany dia tsy azonao na tianao midira amin\' ny maha-samy hafa ny mpampiasa, kasiho eto.</string>
+
+
+
+
+
+<string name="filter_members">Sivano arakaraky ny mpikamban\' ny</string>
+
+<string name="first_name">Fanampin\'anarana</string>
+
+
+<string name="get_started">Manomboka</string>
+<string name="app_name"></string>
+<string name="globechat_users">Mpikambana GlobeChat</string>
+<string name="great_no_one_has_signed_up_with">Great! Tsy misy olona nanao sonia</string>
+
+<string name="group">Vondrona</string>
+<string name="group_members">Ao amin\' ny vondrona </string>
+<string name="group_name">Anaran\' ny vondrona</string>
+
+
+
+
+<string name="title_home">Any an-trano</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Raha tsy izany ianao na te hiditra amin\'ny maha-mpampiasa hafa anao ianao, tadiavo eto.</string>
+
+
+<string name="in_personal_organization">Amin\'ny fikambanana manokana</string>
+
+<string name="invalid_password">Anarana tsy mety</string>
+<string name="invalid_username_password">Tsy manan-danja anarana / password</string>
+<string name="invite_by_email">Asao amin\' ny alalan\' ny e-mail</string>
+<string name="invite_members">Asao ny Mpikamban\' ny</string>
+<string name="invited_you_to_the_group">Nanasa anao ho any amin\'ny tarika ilay izy</string>
+<string name="invited_you_to_the_organization">nanasa anao mba ny fikambanana</string>
+
+
+<string name="join_globechat">Hiara-GlobeChat!</string>
+
+
+<string name="last_name">Anarana</string>
+
+<string name="leave">hiala</string>
+<string name="leave_group">Nandao ny Vondrona</string>
+
+
+<string name="lobby">Fndraisana</string>
+<string name="location">Location</string>
+<string name="log_in_to_globechat">Midira amin\'ny GlobeChat!</string>
+<string name="log_in_to_globechat_">Midira amin\'ny GlobeChat!</string>
+<string name="login_failed">tsy tafiditra</string>
+<string name="logout">Miala</string>
+
+
+
+<string name="manage_group">Hikirakira ireo Vondrona</string>
+<string name="manage_organization">Mitantana ny Rafitry ny</string>
+<string name="members_in_">Mpikambana ao</string>
+<string name="members_in_group">Mpikambana ao amin\'ny Vondrona</string>
+<string name="members_in_organization">Ireo mpikambana ao amin\' ny Fikambanana</string>
+<string name="name">Anarana</string>
+<string name="no">Tsia</string>
+<string name="no_pending_invitations">Tsy misy fanasana mihintsy</string>
+<string name="no_posts_yet">No posts yet.</string>
+<string name="no_results">Tsy misy valiny</string>
+<string name="none">tsy misy</string>
+
+<string name="title_notifications">Fampilazana</string>
+
+
+<string name="organization">fikambanana</string>
+<string name="organization_members">Ao amin\' ny fikambanana</string>
+<string name="organization_name">Anarana anarana</string>
+
+<string name="owner">Tompony</string>
+
+
+<string name="pending_group_invitations">Miantona ny Vondrona Fanasana</string>
+<string name="pending_organization_invitations">Fanentanana ho an\'ny fikambanana</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Mampidira tenimiafina farafaharatsiny farafaharatsiny</string>
+
+
+
+<string name="pm">Ora</string>
+
+
+<string name="primary_language">Teny anglisy</string>
+<string name="privacy_policy">Lalàna Arahina mikasika ny tsiambaratelo</string>
+
+
+
+
+
+<string name="save">Hanavotra</string>
+<string name="search_by_email_address">Hikaroka araka ny adiresy e-mail</string>
+<string name="search_by_name_or_email">Mikaroka amin\' ny alalan\' ny anarany na email</string>
+<string name="search_for_users">Mitadiava namana</string>
+<string name="select_group_image">Misafidiana Vondrona Sary</string>
+
+<string name="select_language">Fidio ny fiteny</string>
+<string name="select_languages">Mifidiana fiteny</string>
+<string name="select_organization_image">Misafidiana sary noforonina</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Nametraka ny vondrona sary amin\' ny alalan\' ny fikasihana ny sary famantarana ny etsy ambony. Raha toa ka tsy te hametraka sary iray ianao dia afaka nokapohinao ny afa-tsy ny bokotra hoe mandingana ity dingana ity</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Nametraka ny rafitry ny sary amin\' ny alalan\' ny fikasihana ny sary famantarana ny etsy ambony. Raha toa ka tsy te hametraka sary iray ianao dia afaka nokapohinao ny afa-tsy ny bokotra hoe mandingana ity dingana ity</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Apetraho amin\'ny fiteny ampiasainao ny fiteny izay tsy</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Amboary ny fiteny hampiasainao handefasana sy</string>
+
+
+
+<string name="skip">Skip</string>
+
+
+
+
+
+
+
+<string name="tap_here">tongava eto</string>
+
+<string name="terms_of_service">Lalàna mifehy ny asa Fanompoana</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Ny fampiharana hafatra izay adika amin\'ny fiteny 60+ amin\'ny fotoana tena izy.</string>
+
+
+<string name="translated_from">Avy amin\'ny teny anglisy</string>
+<string name="translated_from_english">Translated from</string>
+<string name="translated_messaging">Hafatra amin\'ny teny anglisy.</string>
+
+
+<string name="understood_languages">Languages</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Mila fanampim-baovao kely fotsiny izahay mba hanasonia</string>
+<string name="welcome_back">Tongasoa indray </string>
+
+<string name="yes">Eny</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Nasaina vondron\' ny ianao</string>
+<string name="you_have_been_invited_to_the_organization">Nasaina hanatrika ny fikambanana ianao</string>
+
+<string name="your_email_address">Ny adiresy mailakao</string>
+<string name="your_password">Ny tenimiafinao</string>
+
+</resources>

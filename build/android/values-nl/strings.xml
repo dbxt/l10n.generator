@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Aanvaarden</string>
+
+
+<string name="am">in de voormiddag</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Weet u zeker dat u deze groep wilt verwijderen?</string>
+<string name="are_you_sure_you_want_to_invite">Weet u zeker dat u wilt uitnodigen</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Weet u zeker dat u deze groep wilt verlaten?</string>
+<string name="are_you_sure_you_want_to_sign_out">Weet u zeker dat u zich wilt afmelden?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Wees de eerste persoon die een bericht naar deze groep heeft verzonden</string>
+
+
+<string name="cancel">Annuleren</string>
+
+
+
+
+
+<string name="confirm_invitation">Uitnodiging bevestigen</string>
+<string name="confirm_password">Bevestig wachtwoord</string>
+
+<string name="contact_globechat">Contacteer GlobeChat</string>
+
+<string name="create_account">Account aanmaken</string>
+<string name="create_group">Groep maken</string>
+<string name="create_new">Maak een nieuwe</string>
+<string name="create_new_group">Maak een nieuwe groep</string>
+<string name="create_new_personal_organization_group">Maak een nieuwe persoonlijke organisatiegroep</string>
+<string name="create_organization">Organisatie maken</string>
+
+
+
+
+<string name="title_dashboard">Dashboard</string>
+<string name="decline">Afwijzen</string>
+<string name="delete">Verwijderen</string>
+<string name="delete_group">Groep verwijderen</string>
+<string name="do_you_want_to_accept">Wil je accepteren?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Voer een naam in voor uw nieuwe groep</string>
+<string name="enter_a_name_for_your_new_organization">Voer een naam in voor uw nieuwe organisatie</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Voer de e-mail in waarmee je je hebt aangemeld of het e-mailadres waarmee je je wilt registreren</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Voer uw wachtwoord in om u aan te melden.  Als dit niet u of u wilt aanmelden als een andere gebruiker</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Voer uw wachtwoord in om u aan te melden.  Als dit niet u of u wilt aanmelden als een andere gebruiker, tikt u hier</string>
+
+
+
+
+
+<string name="filter_members">Filter leden</string>
+
+<string name="first_name">Voornaam</string>
+
+
+<string name="get_started">Begin</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat-gebruikers</string>
+<string name="great_no_one_has_signed_up_with">Grote! Niemand heeft zich ingeschreven met</string>
+
+<string name="group">Groep</string>
+<string name="group_members">GroepsLeden</string>
+<string name="group_name">Groepsnaam</string>
+
+
+
+
+<string name="title_home">Home</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Als dit niet jij of je wilt inloggen als een andere gebruiker, tik je hier</string>
+
+
+<string name="in_personal_organization">In persoonlijke organisatie</string>
+
+<string name="invalid_password">Ongeldig wachtwoord</string>
+<string name="invalid_username_password">Ongeldige gebruikersnaam / wachtwoord</string>
+<string name="invite_by_email">Uitnodigen via e-mail</string>
+<string name="invite_members">Leden uitnodigen</string>
+<string name="invited_you_to_the_group">heeft je uitgenodigd voor de groep</string>
+<string name="invited_you_to_the_organization">u uitgenodigd voor de organisatie</string>
+
+
+<string name="join_globechat">Join GlobeChat!</string>
+
+
+<string name="last_name">Achternaam</string>
+
+<string name="leave">Het verlof</string>
+<string name="leave_group">Verlof groep</string>
+
+
+<string name="lobby">Lobby</string>
+<string name="location">Plaats</string>
+<string name="log_in_to_globechat">Log in op GlobeChat!</string>
+<string name="log_in_to_globechat_">Log in op GlobeChat!</string>
+<string name="login_failed">Aanmelden mislukt</string>
+<string name="logout">Uitloggen</string>
+
+
+
+<string name="manage_group">Groep beheren</string>
+<string name="manage_organization">Organisatie beheren</string>
+<string name="members_in_">Leden in</string>
+<string name="members_in_group">Liikmed grupis</string>
+<string name="members_in_organization">Leden in organisati</string>
+<string name="name">Naam</string>
+<string name="no">No</string>
+<string name="no_pending_invitations">Geen openstaande uitnodigingen</string>
+<string name="no_posts_yet">Nog geen post</string>
+<string name="no_results">Geen resultaten</string>
+<string name="none">Geen</string>
+
+<string name="title_notifications">Meldingen</string>
+
+
+<string name="organization">Organisatie</string>
+<string name="organization_members">Organisatieleden</string>
+<string name="organization_name">Organisatie naam</string>
+
+<string name="owner">Eigenaar</string>
+
+
+<string name="pending_group_invitations">Groeps uitnodigingen in behandeling</string>
+<string name="pending_organization_invitations">In afwachting van organisatie-uitnodigingen</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Voer een wachtwoord in dat uit minimaal 8 tekens bestaat</string>
+
+
+
+<string name="pm">in de namiddag</string>
+
+
+<string name="primary_language">Moedertaal</string>
+<string name="privacy_policy">Privacybeleid</string>
+
+
+
+
+
+<string name="save">Opslaan</string>
+<string name="search_by_email_address">Zoeken op email adres</string>
+<string name="search_by_name_or_email">Zoeken op naam of e-mail</string>
+<string name="search_for_users">zoeken naar gebruikers</string>
+<string name="select_group_image">Selecteer groeps afbeelding</string>
+
+<string name="select_language">Selecteer taal</string>
+<string name="select_languages">Talen selecteren</string>
+<string name="select_organization_image">Selecteer een organisatie-afbeelding</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Stel de groep afbeelding in door op het pictogram hierboven te tikken. Als u niet wilt dat een afbeelding in te stellen, u druk op de knop Opslaan om deze stap overslaan</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Stel de organisatie afbeelding in door op het pictogram hierboven te tikken. Als u niet wilt dat een afbeelding in te stellen, u druk op de knop Opslaan om deze stap overslaan</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Stel de taal in die u niet vertaald wilt hebben naar uw primaire taal</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Stel de taal in die u wilt gebruiken om chatberichten te verzenden en ontvangen</string>
+
+
+
+<string name="skip">Overspringen</string>
+
+
+
+
+
+
+
+<string name="tap_here">Tik hier</string>
+
+<string name="terms_of_service">Service voorwaarden</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">De berichten-app die zich in realtime vertaalt naar meer dan 60 talen</string>
+
+
+<string name="translated_from">Vertaald uit het Engels</string>
+<string name="translated_from_english">Vertaald uit</string>
+<string name="translated_messaging">Vertaalde berichten</string>
+
+
+<string name="understood_languages">Begreep Talen</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">We hebben alleen wat meer informatie nodig om je te registreren</string>
+<string name="welcome_back">Welkom terug</string>
+
+<string name="yes">Ja</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">U bent uitgenodigd voor de groep</string>
+<string name="you_have_been_invited_to_the_organization">U bent uitgenodigd voor de organisatie</string>
+
+<string name="your_email_address">jouw e-mailadres</string>
+<string name="your_password">Je wachtwoord</string>
+
+</resources>

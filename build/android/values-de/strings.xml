@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Akzeptieren</string>
+
+
+<string name="am">a.m.</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Möchten Sie diese Gruppe wirklich löschen?</string>
+<string name="are_you_sure_you_want_to_invite">Sind Sie sicher, dass Sie einladen möchten</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Etes-vous sûr de vouloir quitter ce groupe?</string>
+<string name="are_you_sure_you_want_to_sign_out">Möchten Sie sich wirklich abmelden?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Sei die erste Person, die eine Nachricht an diese Gruppe sendet.</string>
+
+
+<string name="cancel">Stornieren</string>
+
+
+
+
+
+<string name="confirm_invitation">Einladungen bestätigen</string>
+<string name="confirm_password">Passwort bestätigen</string>
+
+<string name="contact_globechat">Kontakt GlobeChat</string>
+
+<string name="create_account">Benutzerkonto anlegen</string>
+<string name="create_group">Gruppe erstellen</string>
+<string name="create_new">schaffen neue</string>
+<string name="create_new_group">Neue Gruppe erstellen</string>
+<string name="create_new_personal_organization_group">Erstellen Sie eine neue persönliche Organisationsgruppe</string>
+<string name="create_organization">Organisation schaffen</string>
+
+
+
+
+<string name="title_dashboard">Instrumententafel</string>
+<string name="decline">Ablehnen</string>
+<string name="delete">Löschen</string>
+<string name="delete_group">Gruppe löschen</string>
+<string name="do_you_want_to_accept">Wollen Sie die Einladung annehmen?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Geben Sie einen Namen für die neue Gruppe ein</string>
+<string name="enter_a_name_for_your_new_organization">Geben Sie einen Namen für Ihre neue Organisation ein</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Geben Sie die E-Mail-Adresse ein, mit der Sie sich angemeldet haben, oder die E-Mail-Adresse, mit der Sie sich anmelden möchten.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Geben Sie Ihr Passwort ein, um sich anzumelden.  Wenn Sie dies nicht möchten oder sich als anderer Benutzer anmelden möchten, tippen Sie hier.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Geben Sie Ihr Passwort ein, um sich anzumelden.  Wenn Sie dies nicht möchten oder sich als anderer Benutzer anmelden möchten</string>
+
+
+
+
+
+<string name="filter_members">Filtermitglieder</string>
+
+<string name="first_name">Vorname</string>
+
+
+<string name="get_started">Loslegen</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat Benutzer</string>
+<string name="great_no_one_has_signed_up_with">Wunderbar! Niemand hat sich angemeldet</string>
+
+<string name="group">Gruppe</string>
+<string name="group_members">Fraktionsmitglieder </string>
+<string name="group_name">Gruppen Name</string>
+
+
+
+
+<string name="title_home">Startseite</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Wenn Sie dies nicht sind oder wenn Sie sich als anderer Benutzer anmelden möchten, tippen Sie hier.</string>
+
+
+<string name="in_personal_organization">In persönlicher Organisation</string>
+
+<string name="invalid_password">Ungültiges Passwort</string>
+<string name="invalid_username_password">Benutzername / Kennwort ungültig</string>
+<string name="invite_by_email">Einladen per E-Mail</string>
+<string name="invite_members">Mitglieder einladen</string>
+<string name="invited_you_to_the_group">hat Sie zu der Gruppe eingeladen</string>
+<string name="invited_you_to_the_organization">Einlud Sie in die Organisation ein</string>
+
+
+<string name="join_globechat">Join GlobeChat</string>
+
+
+<string name="last_name">Nachname</string>
+
+<string name="leave">Verlassen</string>
+<string name="leave_group">Die Gruppe verlassen</string>
+
+
+<string name="lobby">Lobby</string>
+<string name="location">Ort</string>
+<string name="log_in_to_globechat">Loggen Sie sich bei GlobeChat ein</string>
+<string name="log_in_to_globechat_">Loggen Sie sich bei GlobeChat ein</string>
+<string name="login_failed">Anmeldung fehlgeschlagen</string>
+<string name="logout">Ausloggen</string>
+
+
+
+<string name="manage_group">Gruppe verwalten</string>
+<string name="manage_organization">Organisation verwalten</string>
+<string name="members_in_">Mitgliedern in</string>
+<string name="members_in_group">Mitglieder in der Gruppe</string>
+<string name="members_in_organization">Mitglieder in der Organisation</string>
+<string name="name">Name</string>
+<string name="no">Nein</string>
+<string name="no_pending_invitations">Keine ausstehenden Einladungen</string>
+<string name="no_posts_yet">Noch keine Posts</string>
+<string name="no_results">Keine Ergebnisse</string>
+<string name="none">Keiner</string>
+
+<string name="title_notifications">Benachrichtigungen</string>
+
+
+<string name="organization">Organisation</string>
+<string name="organization_members">Mitglieder der Organisation</string>
+<string name="organization_name">Name der Organisation</string>
+
+<string name="owner">Inhaber</string>
+
+
+<string name="pending_group_invitations">Ausstehende Gruppeneinladungen</string>
+<string name="pending_organization_invitations">Ausstehende Organisationseinladungen</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Bitte geben Sie ein Passwort ein, das mindestens 8 Zeichen lang ist.</string>
+
+
+
+<string name="pm">p.m.</string>
+
+
+<string name="primary_language">Muttersprache</string>
+<string name="privacy_policy">Datenschutz</string>
+
+
+
+
+
+<string name="save">Speichern</string>
+<string name="search_by_email_address">Suche nach E-Mail-Adresse</string>
+<string name="search_by_name_or_email">Suche nach Name oder e-Mail</string>
+<string name="search_for_users">Suche nach Nutzern</string>
+<string name="select_group_image">Gruppenbild auswählen</string>
+
+<string name="select_language">Sprache auswählen</string>
+<string name="select_languages">Sprachen auswählen</string>
+<string name="select_organization_image">Wählen Sie das Organisationsbild aus</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Legen Sie das Gruppenbild durch Tippen auf das obige Symbol fest. Wenn Sie kein Bild festlegen möchten, können Sie auf die Schaltfläche Speichern klicken, um diesen Schritt zu überspringen.</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Legen Sie das Organisations Bild fest, indem Sie auf das Symbol oben tippen. Wenn Sie kein Bild festlegen möchten, können Sie auf die Schaltfläche Speichern klicken, um diesen Schritt zu überspringen.</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Stellen Sie die Sprache, die Sie nicht in ihre Muttersprache übersetzt haben möchten</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Stellen Sie die Sprache ein, in der sie Nachrichten senden und erhalten möchten</string>
+
+
+
+<string name="skip">Überspringen</string>
+
+
+
+
+
+
+
+<string name="tap_here">Tippen Sie hier</string>
+
+<string name="terms_of_service">Service Bedingungen</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Die Messaging-App, die in Echtzeit mehr als 60 Sprachen übersetzt.</string>
+
+
+<string name="translated_from">übersetzt aus</string>
+<string name="translated_from_english">Übersetzt aus dem Englischen</string>
+<string name="translated_messaging">Übersetzte Nachrichten</string>
+
+
+<string name="understood_languages">Verstandene Sprachen</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Wir brauchen nur ein wenig mehr Informationen, um Sie zu registrieren.</string>
+<string name="welcome_back">Willkommen zurück</string>
+
+<string name="yes">Ja</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Sie wurden in die Gruppe eingeladen</string>
+<string name="you_have_been_invited_to_the_organization">Sie wurden zur Organisation eingeladen</string>
+
+<string name="your_email_address">Ihre E-Mail-Adresse</string>
+<string name="your_password">Ihr Passwort</string>
+
+</resources>

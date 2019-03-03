@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Accept = "Sprejeti";</string>
+
+
+<string name="am">AM = "AM";</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Are you sure you want to delete this group? = "Ali ste prepričani, da želite izbrisati to skupino?";</string>
+<string name="are_you_sure_you_want_to_invite">Ali ste prepričani, da želite povabiti</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Ali ste prepričani, da želite zapustiti to skupino?</string>
+<string name="are_you_sure_you_want_to_sign_out">Are you sure you want to sign out? = "Ali ste prepričani, da se želite odjaviti?";</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Be the first person to send a message to this group. = "Biti prva oseba, ki pošlje sporočilo tej skupini.";</string>
+
+
+<string name="cancel">Cancel = "Preklicati";</string>
+
+
+
+
+
+<string name="confirm_invitation">Potrditev povabila</string>
+<string name="confirm_password">Potrdi geslo</string>
+
+<string name="contact_globechat">Contact GlobeChat = "Kontaktna GlobeChat";</string>
+
+<string name="create_account">Create account = "Ustvari račun";</string>
+<string name="create_group">Create Group = "ustvarite skupino";</string>
+<string name="create_new">Create New = "ustvarite nove";</string>
+<string name="create_new_group">Create New Group = "Ustvarjanje nove skupine";</string>
+<string name="create_new_personal_organization_group">Create new Personal Organization group = "ustvarite novo osebno organizirano skupino";</string>
+<string name="create_organization">Ustvarjanje organizacije</string>
+
+
+
+
+<string name="title_dashboard">Armaturni plošči</string>
+<string name="decline">Decline = "Upada";</string>
+<string name="delete">Izbrisati</string>
+<string name="delete_group">Izbriši skupino</string>
+<string name="do_you_want_to_accept">Do you want to accept? = "Ali želite sprejeti?";</string>
+
+
+<string name="enter_a_name_for_your_new_group">Enter a name for your new group = "Vnesite ime nove skupine";</string>
+<string name="enter_a_name_for_your_new_organization">Enter a name for your new organization = "Vnesite ime nove organizacije";</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Enter the email you signed up with, or the email address you want to sign up with. = "Vnesite e-poštno sporočilo, ki ste ga prijavili, ali e-poštni naslov, s katerim se želite prijaviti.";</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user = "Vnesite geslo za vpis. Če to ni vi ali se želite vpisati kot drug uporabnik";</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user, tap here. = "Vnesite geslo za vpis. Če to ni vi ali se želite vpisati kot drug uporabnik, tapnite tukaj.";</string>
+
+
+
+
+
+<string name="filter_members">Člani filtra</string>
+
+<string name="first_name">First name = "Ime";</string>
+
+
+<string name="get_started">Get Started = "Začnite";</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat Users = "GlobeChat Uporabniki";</string>
+<string name="great_no_one_has_signed_up_with">Great! No one has signed up with = "Super! Nihče se ni prijavil";</string>
+
+<string name="group">Skupina</string>
+<string name="group_members">Člani skupine</string>
+<string name="group_name">Group Name = "Ime skupine";</string>
+
+
+
+
+<string name="title_home">Domov</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">If this is not you or you want to sign in as a different user, tap here. = "Če to ni vi ali se želite vpisati kot drug uporabnik, tapnite tukaj.";</string>
+
+
+<string name="in_personal_organization">In personal organization = "V osebni organizaciji";</string>
+
+<string name="invalid_password">Invalid password = "Bolehen parola";</string>
+<string name="invalid_username_password">Invalid username/ password = "Neveljavno uporabniško ime/geslo";</string>
+<string name="invite_by_email">Povabi po e-pošti</string>
+<string name="invite_members">Povabi člane</string>
+<string name="invited_you_to_the_group">invited you to the group = "vabljena v skupino";</string>
+<string name="invited_you_to_the_organization">vas vabimo, da organizacija</string>
+
+
+<string name="join_globechat">Join GlobeChat! = "Pridružite se GlobeChat!";</string>
+
+
+<string name="last_name">Last name = "Priimka";</string>
+
+<string name="leave">Leave = "Pustite";</string>
+<string name="leave_group">Zapusti skupino</string>
+
+
+<string name="lobby">Lobby = "Lobi";</string>
+<string name="location">Location = "Lokacijo";</string>
+<string name="log_in_to_globechat">Log in to GlobeChat! = "Prijavite se v GlobeChat!";</string>
+<string name="log_in_to_globechat_">Log in to GlobeChat! = "Prijavite se v GlobeChat!";</string>
+<string name="login_failed">Login failed = "Prijava ni uspela";</string>
+<string name="logout">Logout = "Odjava";</string>
+
+
+
+<string name="manage_group">Manage Group = "Upravljaj skupino";</string>
+<string name="manage_organization">Manage Organization = "Upravljanje organizacije";</string>
+<string name="members_in_">člani v"</string>
+<string name="members_in_group">Members in Group = "Člani v skupini";</string>
+<string name="members_in_organization">Members in Organization = "Člani v organizaciji";</string>
+<string name="name">Name = "Ime";</string>
+<string name="no">No = "ne";</string>
+<string name="no_pending_invitations">No pending invitations = "Št čakajoča vabila";</string>
+<string name="no_posts_yet">No posts yet. = "Ni še delovnih mest.";</string>
+<string name="no_results">No results = "Brez rezultatov";</string>
+<string name="none">None = "Nobena";</string>
+
+<string name="title_notifications">Obvestila</string>
+
+
+<string name="organization">Organization = "organizacija";</string>
+<string name="organization_members">Organization Members = "Člani organizacije";</string>
+<string name="organization_name">Organization Name = "Ime organizacije";</string>
+
+<string name="owner">Owner = "Lastnik";</string>
+
+
+<string name="pending_group_invitations">Pending Group Invitations = "Čakajoča skupinska vabila";</string>
+<string name="pending_organization_invitations">Pending Organization Invitations = "Čakajoča organizacija vabila";</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Please enter a password that is at least 8 characters in length. = "Vnesite geslo, ki je dolgo vsaj 8 znakov.";</string>
+
+
+
+<string name="pm">PM = "PM";</string>
+
+
+<string name="primary_language">Primary Language = "Primarnem jeziku";</string>
+<string name="privacy_policy">Privacy Policy = "Pravilnik o zasebnosti";</string>
+
+
+
+
+
+<string name="save">Save = "Shranite";</string>
+<string name="search_by_email_address">Search by email address = "Iskanje po e-poštnem naslovu";</string>
+<string name="search_by_name_or_email">Search by name or email = "Iskanje po imenu ali e-pošti";</string>
+<string name="search_for_users">Search for users = "Poišči uporabnike";</string>
+<string name="select_group_image">Select Group Image = "Izberite skupinsko sliko";</string>
+
+<string name="select_language">Select language = "Izberite jezik";</string>
+<string name="select_languages">Select Languages = "Izberite jezike";</string>
+<string name="select_organization_image">Select organization image = "Izbira organizacije Image";</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set group image by tapping the icon above. If you don’t want to set an image, you can hit the save button to skip this step = "Število enakih oseb skupina podoba z prisluškovati ikona zgoraj. Če ne želite nastaviti slike, lahko pritisnete gumb Shrani, da preskočite ta korak";</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set organization image by tapping the icon above. If you don’t want to set an image, you can hit the save button to skip this step = "Nastavite sliko organizacije tako, da tapnete ikono zgoraj. Če ne želite nastaviti slike, lahko pritisnete gumb Shrani, da preskočite ta korak";</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Set the language you do not want translated to your primary language. = "Nastavite jezik, ki ga ne želite prevesti v primarni jezik.";</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Set the language you will use to send and receive chat messages. = "Nastavite jezik, ki ga boste uporabili za pošiljanje in prejemanje sporočil pomenkov.";</string>
+
+
+
+<string name="skip">Skip = "Preskočite";</string>
+
+
+
+
+
+
+
+<string name="tap_here">tap here = "tapnite tukaj";</string>
+
+<string name="terms_of_service">Terms of Service = "Terms of Service";</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">The messaging app that translates into 60+ languages in real time. = "Sporočila aplikacija, ki prevaja v 60 + jezikov v realnem času.";</string>
+
+
+<string name="translated_from">Translated from English = "Prevedeno iz angleščine";</string>
+<string name="translated_from_english">Translated from = "Prevedeno iz";</string>
+<string name="translated_messaging">Translated messaging. = "Prevedeno sporočanje.";</string>
+
+
+<string name="understood_languages">Understood Languages = "Razumljeni jeziki";</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">We just need a little more info to sign you up. = "Potrebujemo samo malo več informacij, da vas podpišemo.";</string>
+<string name="welcome_back">Welcome back = "Dobrodošli nazaj";</string>
+
+<string name="yes">Yes = "da";</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Povabljeni ste bili v skupino</string>
+<string name="you_have_been_invited_to_the_organization">You have been invited to the organization = "Vabljeni ste v organizacijo.";</string>
+
+<string name="your_email_address">Your email address = "Vaš e-poštni naslov";</string>
+<string name="your_password">Your password = "Vaše geslo";</string>
+
+</resources>

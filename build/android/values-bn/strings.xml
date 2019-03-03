@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">গ্রহণ</string>
+
+
+<string name="am">সকাল</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">আপনি কি নিশ্চিত যে আপনি এই দলটিকে মুছে ফেলতে চান?</string>
+<string name="are_you_sure_you_want_to_invite">আপনি কি নিশ্চিত যে আপনি আমন্ত্রণ করতে চান</string>
+<string name="are_you_sure_you_want_to_leave_this_group">আপনি কি নিশ্চিত আপনি এই দল ছেড়ে যেতে চান?</string>
+<string name="are_you_sure_you_want_to_sign_out">আপনি কি নিশ্চিত যে আপনি সাইন আউট করতে চান?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">প্রথম ব্যক্তিটিকে এই দলে পাঠানোর বার্তা পাঠাতে হবে </string>
+
+
+<string name="cancel">বাতিল</string>
+
+
+
+
+
+<string name="confirm_invitation">আমন্ত্রণ নিশ্চিত করুন</string>
+<string name="confirm_password">পাসওয়ার্ডনিশ্চিত করুন</string>
+
+<string name="contact_globechat">যোগাযোগ GlobeChat</string>
+
+<string name="create_account">হিসাব তৈরি করুন</string>
+<string name="create_group">গোষ্ঠী তৈরি করুন</string>
+<string name="create_new">নতুন তৈরি</string>
+<string name="create_new_group">নতুন দল তৈরি করো</string>
+<string name="create_new_personal_organization_group">নতুন ব্যক্তিগত প্রতিষ্ঠানের দল তৈরি করুন</string>
+<string name="create_organization">সংগঠন তৈরি করুন</string>
+
+
+
+
+<string name="title_dashboard">ড্যাশবোর্ড</string>
+<string name="decline">প্রত্যাখ্যান</string>
+<string name="delete">বিলোপ</string>
+<string name="delete_group">গোষ্ঠী বিলোপ করুন</string>
+<string name="do_you_want_to_accept">আপনি কি মেনে নিতে চান?</string>
+
+
+<string name="enter_a_name_for_your_new_group">আপনার নতুন দলের জন্য একটি নাম প্রবেশ করান</string>
+<string name="enter_a_name_for_your_new_organization">আপনার নতুন প্রতিষ্ঠানের জন্য একটি নাম প্রবেশ করান</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">আপনি যে ইমেল সাইন আপ করেছেন, অথবা আপনার সাথে সাইন আপ করতে চান তার ইমেল ঠিকানা প্রবেশ করান</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">সাইন ইন করতে আপনার পাসওয়ার্ড লিখুন । যদি আপনি না হন অথবা আপনি ভিন্ন ব্যবহারকারী হিসাবে সাইন ইন করতে চান, এখানে ট্যাপ করুন ।</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">সাইন ইন করতে আপনার পাসওয়ার্ড লিখুন । যদি আপনি না হন অথবা আপনি ভিন্ন ব্যবহারকারী হিসাবে সাইন ইন করতে চান, এখানে ট্যাপ করুন ।</string>
+
+
+
+
+
+<string name="filter_members">ফিল্টার সদস্যগণ</string>
+
+<string name="first_name">প্রথম নাম</string>
+
+
+<string name="get_started">শুরু হয়ে যায়</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat ব্যবহারকারী</string>
+<string name="great_no_one_has_signed_up_with">গ্রেট! কেউ স্বাক্ষর করেনি</string>
+
+<string name="group">গোষ্ঠী</string>
+<string name="group_members">দলের সদস্যগণ </string>
+<string name="group_name">গ্রুপের নাম</string>
+
+
+
+
+<string name="title_home">মূল</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">যদি আপনি না হন অথবা আপনি ভিন্ন ব্যবহারকারী হিসাবে সাইন ইন করতে চান, এখানে ট্যাপ করুন</string>
+
+
+<string name="in_personal_organization">ব্যক্তিগত প্রতিষ্ঠানে</string>
+
+<string name="invalid_password">অকার্যকর পাসওয়ার্ড</string>
+<string name="invalid_username_password">অবৈধ ব্যবহারকারীর নাম/পাসওয়ার্ড</string>
+<string name="invite_by_email">ই-মেইলের মাধ্যমে আমন্ত্রণ</string>
+<string name="invite_members">সদস্যদেরআমন্ত্রণ করুন</string>
+<string name="invited_you_to_the_group">আপনাকে দলে আমন্ত্রণ জানিয়েছেন</string>
+<string name="invited_you_to_the_organization">আপনাকে সংগঠনে আমন্ত্রণ জানানো</string>
+
+
+<string name="join_globechat">GlobeChat যোগ দিন</string>
+
+
+<string name="last_name">শেষ নাম</string>
+
+<string name="leave">ছেড়ে</string>
+<string name="leave_group">গোষ্ঠী ত্যাগ</string>
+
+
+<string name="lobby">নীতিনির্ধারকদের</string>
+<string name="location">অবস্থান</string>
+<string name="log_in_to_globechat">লগ ইন করুন</string>
+<string name="log_in_to_globechat_">লগ ইন করুন</string>
+<string name="login_failed">লগইন ব্যর্থ হয়েছে</string>
+<string name="logout">লগআউট</string>
+
+
+
+<string name="manage_group">দল পরিচালনা করুন</string>
+<string name="manage_organization">সংগঠন পরিচালনা করুন</string>
+<string name="members_in_">সদস্য</string>
+<string name="members_in_group">দলে সদস্য</string>
+<string name="members_in_organization">সংগঠনের সদস্যরা</string>
+<string name="name">নাম</string>
+<string name="no">না</string>
+<string name="no_pending_invitations">কোনো অমীমাংসিত আমন্ত্রণপত্র নেই</string>
+<string name="no_posts_yet">এখনও কোনও পোস্ট আসেনি</string>
+<string name="no_results">কোনো ফলাফল</string>
+<string name="none">কেউ</string>
+
+<string name="title_notifications">প্রজ্ঞাপন</string>
+
+
+<string name="organization">সংস্থা</string>
+<string name="organization_members">সংগঠনের সদস্যরা</string>
+<string name="organization_name">প্রতিষ্ঠানটির নাম</string>
+
+<string name="owner">স্বত্বাধিকারী</string>
+
+
+<string name="pending_group_invitations">অনিষ্পন্ন সংগঠন আমন্ত্রণপত্র</string>
+<string name="pending_organization_invitations">অনিষ্পন্ন সংগঠন আমন্ত্রণপত্র</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">অনুগ্রহ করে একটি গুপ্ত-সংকেত প্রবেশ করান যা দৈর্ঘ্যে কমপক্ষে 8 অক্ষরের</string>
+
+
+
+<string name="pm">রাত</string>
+
+
+<string name="primary_language">প্রাথমিক ভাষা</string>
+<string name="privacy_policy">গোপনীয়তা নীতি</string>
+
+
+
+
+
+<string name="save">সংরক্ষণ</string>
+<string name="search_by_email_address">ইমেল ঠিকানা দ্বারা সন্ধান করুন</string>
+<string name="search_by_name_or_email">নাম বা ইমেল দ্বারা সন্ধান করুন</string>
+<string name="search_for_users">ব্যবহারকারীর জন্য অনুসন্ধান করুন</string>
+<string name="select_group_image">দলগত প্রতিচ্ছবি নির্বাচন করুন</string>
+
+<string name="select_language">ভাষা নির্বাচন করুন</string>
+<string name="select_languages"> ভাষা নির্বাচন করুন</string>
+<string name="select_organization_image">প্রতিষ্ঠানটির প্রতিচ্ছবি নির্বাচন করুন</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">উপরের আইকনটি ট্যাপ করে দলগত চিত্র সেট করুন । আপনি যদি একটি ছবি সেট করতে না চান, তাহলে এই ধাপটি এড়িয়ে যাওয়ার জন্য আপনি সংরক্ষণ বোতামটি আঘাত করতে পারেন</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">উপরের আইকনটি ট্যাপ করে প্রতিষ্ঠানটির ছবি সেট করুন । আপনি যদি একটি ছবি সেট করতে না চান, তাহলে এই ধাপটি এড়িয়ে যাওয়ার জন্য আপনি সংরক্ষণ বোতামটি আঘাত করতে পারেন</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">আপনার প্রাথমিক ভাষার অনুবাদ চান না এমন ভাষা নির্ধারণ করুন</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">চ্যাট বার্তাসমূহ প্রেরণ এবং গ্রহণ করতে আপনি যে ভাষা ব্যবহার করবেন তা নির্ধারণ করুন</string>
+
+
+
+<string name="skip">ছাড়ুন</string>
+
+
+
+
+
+
+
+<string name="tap_here">এখানে টোকা দিন</string>
+
+<string name="terms_of_service">সেবার শর্তাবলী</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">যে মেসেজিং অ্যাপ রিয়েল টাইমে 60 টি + ভাষায় প্রবেশ করে</string>
+
+
+<string name="translated_from">ইংরেজি থেকে অনূদিত</string>
+<string name="translated_from_english">ইংরেজি থেকে অনূদিত</string>
+<string name="translated_messaging">অনূদিত মেসেজিং</string>
+
+
+<string name="understood_languages">বোধগম্য ভাষা</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">"আপনাকে সাইন আপ করার জন্য আমাদের শুধু আরো কিছু তথ্য প্রয়োজন</string>
+<string name="welcome_back">ফিরে আসার জন্য স্বাগত</string>
+
+<string name="yes">হ্যাঁ</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">আপনাকে দলে আমন্ত্রণ জানানো হয়েছে</string>
+<string name="you_have_been_invited_to_the_organization">"আপনাকে প্রতিষ্ঠানে আমন্ত্রণ জানানো হয়েছে</string>
+
+<string name="your_email_address"> আপনার ইমেল ঠিকানা</string>
+<string name="your_password">আপনার পাসওয়ার্ড</string>
+
+</resources>

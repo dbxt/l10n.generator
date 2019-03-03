@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="accept">Aċċetta</string>
+
+
+<string name="am">filgħodu</string>
+
+<string name="are_you_sure_you_want_to_delete_this_group">Żgur tixtieq tħassar dan il-grupp?</string>
+<string name="are_you_sure_you_want_to_invite">Żgur li tixtieq tistieden</string>
+<string name="are_you_sure_you_want_to_leave_this_group">Żgur li tixtieq tħalli dan il-grupp?</string>
+<string name="are_you_sure_you_want_to_sign_out">Żgur li tixtieq għall-iffirma l?</string>
+
+<string name="be_the_first_person_to_send_a_message_to_this_group">Kun l-ewwel persuna li tibgħat messaġġ lil dan il-grupp.</string>
+
+
+<string name="cancel">Ikkanċella</string>
+
+
+
+
+
+<string name="confirm_invitation">Ikkonferma l-istedina</string>
+<string name="confirm_password">Ikkonferma l-Password</string>
+
+<string name="contact_globechat">Ikkuntattja GlobeChat</string>
+
+<string name="create_account">Oħloq kont</string>
+<string name="create_group">Oħloq grupp</string>
+<string name="create_new">Oħloq Ġdid</string>
+<string name="create_new_group">Oħloq grupp ġdid</string>
+<string name="create_new_personal_organization_group">Oħloq grupp ġdid ta \'Organizzazzjoni Personali</string>
+<string name="create_organization">Oħloq organizzazzjoni</string>
+
+
+
+
+<string name="title_dashboard">Dashboard</string>
+<string name="decline">Tiċħad</string>
+<string name="delete">Ħassar il-</string>
+<string name="delete_group">Ħassar il-grupp</string>
+<string name="do_you_want_to_accept">Trid taċċetta?</string>
+
+
+<string name="enter_a_name_for_your_new_group">Daħħal isem għall-grupp ġdid tiegħek</string>
+<string name="enter_a_name_for_your_new_organization">Daħħal isem għall-organizzazzjoni ġdida tiegħek</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Daħħal l-email li ffirmajt ma \', jew l-indirizz elettroniku li trid tiffirma magħha.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Daħħal il-password li jiffirmaw fl.  Jekk dan ma jkunx inti jew tixtieq idħol bħala utent different.</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Daħħal il-password li jiffirmaw fl.  Jekk dan ma jkunx inti jew tixtieq idħol bħala utent differenti, tektek hawn.</string>
+
+
+
+
+
+<string name="filter_members">Il-Membri tal-filtru</string>
+
+<string name="first_name">Isem</string>
+
+
+<string name="get_started">Ibda</string>
+<string name="app_name"></string>
+<string name="globechat_users">GlobeChat Utenti</string>
+<string name="great_no_one_has_signed_up_with">Kbira! Ħadd ma ffirma ruħu magħha</string>
+
+<string name="group">Grupp</string>
+<string name="group_members">Membri tal-grupp</string>
+<string name="group_name">Isem tal-grupp</string>
+
+
+
+
+<string name="title_home">Id-dar</string>
+
+
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Jekk dan mhuwiex int jew li trid tiffirma bħala utent ieħor, ikkuntattja hawn.</string>
+
+
+<string name="in_personal_organization">Fl-organizzazzjoni personali</string>
+
+<string name="invalid_password">Kontroll invalidu</string>
+<string name="invalid_username_password">Username / password invalidu</string>
+<string name="invite_by_email">Jistieden bl-email</string>
+<string name="invite_members">Tistieden lill-Membri</string>
+<string name="invited_you_to_the_group">inti mistiedna għall-grupp</string>
+<string name="invited_you_to_the_organization">inti mistieden għall-organizzazzjoni</string>
+
+
+<string name="join_globechat">Ingħaqad GlobeChat</string>
+
+
+<string name="last_name">L-isem</string>
+
+<string name="leave">Leave</string>
+<string name="leave_group">Grupp ta \' leave</string>
+
+
+<string name="lobby">Daħla</string>
+<string name="location">Lokalità</string>
+<string name="log_in_to_globechat">Idħol fil-GlobeChat!</string>
+<string name="log_in_to_globechat_">Idħol fil-GlobeChat!</string>
+<string name="login_failed">In-nuqqas ta \'login</string>
+<string name="logout">Logout</string>
+
+
+
+<string name="manage_group">Immaniġġja l-grupp</string>
+<string name="manage_organization">Immaniġġja l-organizzazzjoni</string>
+<string name="members_in_">Membri fi</string>
+<string name="members_in_group">Membri fi Grupp</string>
+<string name="members_in_organization">Membri fl-organizzazzjoni</string>
+<string name="name">Isem</string>
+<string name="no">le</string>
+<string name="no_pending_invitations">Xejn</string>
+<string name="no_posts_yet">M\'hemmx postijiet għ</string>
+<string name="no_results">L-ebda riżultat</string>
+<string name="none">Xejn</string>
+
+<string name="title_notifications">In-notifiki</string>
+
+
+<string name="organization">Organizzazzjoni</string>
+<string name="organization_members">Membri ta \' organizzazzjoni</string>
+<string name="organization_name">Isem tal-organizzazzjoni</string>
+
+<string name="owner">Utenti Sid</string>
+
+
+<string name="pending_group_invitations">Grupp pendenti stediniet</string>
+<string name="pending_organization_invitations">Stediniet Organizzattivi Permanenti</string>
+
+
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Jekk jogħġbok daħħal password b\'tul ta \'mill-inqas 8</string>
+
+
+
+<string name="pm">wara nofsinhar</string>
+
+
+<string name="primary_language">Lingwa Primarja</string>
+<string name="privacy_policy">Politika tal-privatezza</string>
+
+
+
+
+
+<string name="save">Issejvja l-</string>
+<string name="search_by_email_address">Fittex mill-indirizz elettroniku</string>
+<string name="search_by_name_or_email">Fittex mill-isem jew indirizz elettroniku</string>
+<string name="search_for_users">Fittex għall-utenti</string>
+<string name="select_group_image">Agħżel grupp ta \' l-immaġni</string>
+
+<string name="select_language">Agħżel il-lingwa</string>
+<string name="select_languages">Agħżel Lingwi</string>
+<string name="select_organization_image">Agħżel l-immaġni tal-organizzazzjoni</string>
+
+
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Stabbilit grupp immaġni mill-għeluq ta \' l-ikona ta \' hawn fuq. Jekk int ma tridx li jiġu stabbiliti l-immaġni, inti tista tolqot Issejvja l-buttuna biex taqbeż dan il-pass</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Stabbilit immaġni tal-organizzazzjoni mill-għeluq ta \' l-ikona ta \' hawn fuq. Jekk int ma tridx li jiġu stabbiliti l-immaġni, inti tista tolqot Issejvja l-buttuna biex taqbeż dan il-pass</string>
+
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Issettja l-lingwa li ma tridx tiġi tradotta fil-lingwa ewlenija tiegħek.</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Issettja l-lingwa li tuża biex tibgħat u tirċievi messaġġi ta \'chat.</string>
+
+
+
+<string name="skip">Aqbeż</string>
+
+
+
+
+
+
+
+<string name="tap_here">għafas hawn</string>
+
+<string name="terms_of_service">It-termini tas-servizz</string>
+
+
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">L-applikazzjoni tal-messaġġi li tittraduċi f\'diversi lingwi 60+ f\'ħin reali.</string>
+
+
+<string name="translated_from">Tradott mill-Ingliż</string>
+<string name="translated_from_english">Tradott minn</string>
+<string name="translated_messaging">Messaġġi tradotti.</string>
+
+
+<string name="understood_languages">Lingwi nterpretati</string>
+
+
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Aħna biss jeħtieġu ftit aktar informazzjoni biex jiffirmaw inti.</string>
+<string name="welcome_back">Merħba lura</string>
+
+<string name="yes">Iva</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
+
+<string name="you_have_been_invited_to_the_group">Ġejt mistieden għall-grupp</string>
+<string name="you_have_been_invited_to_the_organization">Ġejt mistieden għall-organizzazzjoni</string>
+
+<string name="your_email_address">L-indirizz tal-email tiegħek</string>
+<string name="your_password">Il-password tiegħek</string>
+
+</resources>
