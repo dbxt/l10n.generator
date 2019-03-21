@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>אפריקנס</item>
+        <item>עֲרָבִית</item>
+        <item>בנגלה</item>
+        <item>בוסנית</item>
+        <item>בולגרית</item>
+        <item>קנטונזית</item>
+        <item>קטלאנית</item>
+        <item>סינית מופשטת</item>
+        <item>מסורת סינית</item>
+        <item>קרואטית</item>
+        <item>צ'כית</item>
+        <item>דַנִי</item>
+        <item>הוֹלַנדִי</item>
+        <item>אנגלית</item>
+        <item>אסטונית</item>
+        <item>פיג 'ינית</item>
+        <item>פיליפינית</item>
+        <item>פִינִית</item>
+        <item>צָרְפָתִית</item>
+        <item>גֶרמָנִיָת</item>
+        <item>יווני</item>
+        <item>קריאולית האיטי</item>
+        <item>עִברִית</item>
+        <item>הינדי</item>
+        <item>מונג דאו</item>
+        <item>הוּנגָרִי</item>
+        <item>איסלנדית</item>
+        <item>אינדונזית</item>
+        <item>אִיטַלְקִית</item>
+        <item>יַפָּנִית</item>
+        <item>סוואהילי</item>
+        <item>קוריאנית</item>
+        <item>לטבית</item>
+        <item>ליטאית</item>
+        <item>מלגזי</item>
+        <item>מלאית</item>
+        <item>מלטזית</item>
+        <item>נורווגית</item>
+        <item>פַּרסִית</item>
+        <item>פולני</item>
+        <item>פורטוגזית</item>
+        <item>קוארטרו אוטומי</item>
+        <item>רומנית</item>
+        <item>רוּסִי</item>
+        <item>סמואי</item>
+        <item>סרבית (קירילית)</item>
+        <item>סרבית (לטינית)</item>
+        <item>סלובקית</item>
+        <item>סלובנית</item>
+        <item>ספרדית</item>
+        <item>שוודית</item>
+        <item>טהיטי</item>
+        <item>טמילית</item>
+        <item>תאילנדית</item>
+        <item>טונגאן</item>
+        <item>טורקי</item>
+        <item>אוקראינית</item>
+        <item>אורדו</item>
+        <item>ויאטנמית</item>
+        <item>וולשית</item>
+        <item>יוקאטק מאיה</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

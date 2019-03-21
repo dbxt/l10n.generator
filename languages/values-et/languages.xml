@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>Afrikaans</item>
+        <item>Araabia keel</item>
+        <item>Bangla</item>
+        <item>Bosnia keel</item>
+        <item>Bulgaaria keel</item>
+        <item>Kantoni keel</item>
+        <item>Katalaani keel</item>
+        <item>Lihtsustatud hiina keel</item>
+        <item>Traditsiooniline hiina keel</item>
+        <item>Horvaadi keel</item>
+        <item>Tšehhi</item>
+        <item>Taani keel</item>
+        <item>Hollandi keel</item>
+        <item>Inglise</item>
+        <item>Eesti keel</item>
+        <item>Fidži</item>
+        <item>Filipino</item>
+        <item>Soome keel</item>
+        <item>Prantsuse keel</item>
+        <item>Saksa keel</item>
+        <item>Kreeka keel</item>
+        <item>Haiti kreoli</item>
+        <item>Heebrea keel</item>
+        <item>Hindi keeles</item>
+        <item>Hmongi Daw</item>
+        <item>Ungari keel</item>
+        <item>Icelandic</item>
+        <item>Indoneesia keel</item>
+        <item>Itaalia keel</item>
+        <item>Jaapani keel</item>
+        <item>Suahiili</item>
+        <item>Korea</item>
+        <item>Läti</item>
+        <item>Leedu keel</item>
+        <item>Madagasõ</item>
+        <item>Malai keel</item>
+        <item>Malta keel</item>
+        <item>Norra keel</item>
+        <item>Pärsia keel</item>
+        <item>Poola keel</item>
+        <item>Portugali keel</item>
+        <item>Queretaro Otomi</item>
+        <item>Rumeenia keel</item>
+        <item>Vene keel</item>
+        <item>Samoan</item>
+        <item>Serbia (kirillitsa)</item>
+        <item>Serbia (ladina keel)</item>
+        <item>Slovaki keel</item>
+        <item>Sloveeni keel</item>
+        <item>Hispaania keel</item>
+        <item>Rootsi keel</item>
+        <item>Tahitian</item>
+        <item>Tamil</item>
+        <item>Tai</item>
+        <item>Tongan</item>
+        <item>Türgi keel</item>
+        <item>Ukraina keel</item>
+        <item>Urdu</item>
+        <item>Vietnami keel</item>
+        <item>Kõmri keel</item>
+        <item>Yucatec Maya</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

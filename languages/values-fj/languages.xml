@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>Afrikaans</item>
+        <item>Arapea</item>
+        <item>Bangla</item>
+        <item>Bosnian</item>
+        <item>Bulgarian</item>
+        <item>Canton</item>
+        <item>Catalan</item>
+        <item>Jaina vakarawarawataki</item>
+        <item>Kena ivakarau dodonu na Jaina</item>
+        <item>Croatian</item>
+        <item>Czech</item>
+        <item>Mai Denmark</item>
+        <item>Dutch</item>
+        <item>Vosa vaka-Valagi</item>
+        <item>Estonian</item>
+        <item>Viti</item>
+        <item>Filipaini</item>
+        <item>Finnish</item>
+        <item>Varanise</item>
+        <item>Jamani</item>
+        <item>Kirisi</item>
+        <item>Vosataka na Haitian Creole</item>
+        <item>Iperiu</item>
+        <item>Idia</item>
+        <item>Hmong Daw</item>
+        <item>Hungary</item>
+        <item>Dikiseniri ni Iceland</item>
+        <item>Indonesian</item>
+        <item>tali</item>
+        <item>Japani</item>
+        <item>Swahili</item>
+        <item>Korea</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Malagasy</item>
+        <item>Malea</item>
+        <item>Maltese</item>
+        <item>Nowei</item>
+        <item>Persian</item>
+        <item>Poladi</item>
+        <item>Vosa vaka-Potukali</item>
+        <item>Mai Queretaro Otomi</item>
+        <item>Romanian</item>
+        <item>Rusia</item>
+        <item>Vaka-Samoa</item>
+        <item>Serbian (Cyrillic)</item>
+        <item>Serbian (Latin)</item>
+        <item>Slovak</item>
+        <item>Vosa Vakaslovenia</item>
+        <item>Vosa vaka-Sipeni</item>
+        <item>Suwiteni</item>
+        <item>Tahiti</item>
+        <item>Tamil</item>
+        <item>Tai</item>
+        <item>Toga</item>
+        <item>Turkeya</item>
+        <item>Ukrain</item>
+        <item>Urdu</item>
+        <item>Vietnam</item>
+        <item>Welesi</item>
+        <item>Yucatec Maya</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

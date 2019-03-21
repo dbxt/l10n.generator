@@ -1,0 +1,126 @@
+<resources>
+    <array name="language_display_names">
+        <item>Bangla</item>
+        <item>Orang Bosnia</item>
+        <item>Bulgaria</item>
+        <item>Kanton</item>
+        <item>Catalan</item>
+        <item>Bahasa Tiongkok yang disederhanakan</item>
+        <item>Cina tradisional</item>
+        <item>Orang Kroasia</item>
+        <item>Ceko</item>
+        <item>Denmark</item>
+        <item>Belanda</item>
+        <item>Inggris</item>
+        <item>Estonia</item>
+        <item>Fiji</item>
+        <item>Filipino</item>
+        <item>Finlandia</item>
+        <item>Perancis</item>
+        <item>Jerman</item>
+        <item>Yunani</item>
+        <item>Kreol Haiti</item>
+        <item>Ibrani</item>
+        <item>Hindi</item>
+        <item>Hmong Daw</item>
+        <item>Hongaria</item>
+        <item>Islandia</item>
+        <item>bahasa Indonesia</item>
+        <item>Italia</item>
+        <item>Jepang</item>
+        <item>Swahili</item>
+        <item>Korea</item>
+        <item>Latvia</item>
+        <item>Lithuania</item>
+        <item>Malagasi</item>
+        <item>Melayu</item>
+        <item>Malta</item>
+        <item>Norwegia</item>
+        <item>Persia</item>
+        <item>Polandia</item>
+        <item>Portugis</item>
+        <item>Queretaro Otomi</item>
+        <item>Rumania</item>
+        <item>Rusia</item>
+        <item>Samoan</item>
+        <item>Serbia (Cyrillic)</item>
+        <item>Bahasa Serbia (Latin)</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Spanyol</item>
+        <item>Swedia</item>
+        <item>Tahiti</item>
+        <item>Tamil</item>
+        <item>Thai</item>
+        <item>Tongan</item>
+        <item>Turki</item>
+        <item>Bahasa inggris</item>
+        <item>Bahasa Urdu</item>
+        <item>Vietnam</item>
+        <item>Welsh</item>
+        <item>Yucatec Maya</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

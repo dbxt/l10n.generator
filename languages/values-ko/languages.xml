@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>아프리카어</item>
+        <item>아라비아어</item>
+        <item>방글라데시어</item>
+        <item>보스니아어</item>
+        <item>불가리아어</item>
+        <item>광동어</item>
+        <item>카탈로니아어</item>
+        <item>중국어 간체</item>
+        <item>중국어 번체</item>
+        <item>크로아티아어</item>
+        <item>체코어</item>
+        <item>덴마크어</item>
+        <item>네덜란드어</item>
+        <item>영어</item>
+        <item>에스토니아어</item>
+        <item>피지어</item>
+        <item>필리핀어</item>
+        <item>핀란드어</item>
+        <item>프랑스어</item>
+        <item>독일어</item>
+        <item>그리스어</item>
+        <item>아이티 크리올어</item>
+        <item>히브리어</item>
+        <item>힌디어</item>
+        <item>흐몽 도우어</item>
+        <item>헝가리어</item>
+        <item>아이슬란드어</item>
+        <item>인도네이사어</item>
+        <item>이탈리아어</item>
+        <item>일본어</item>
+        <item>스와힐리어</item>
+        <item>한국어</item>
+        <item>라트비아어</item>
+        <item>리트아니아어</item>
+        <item>마다가스카르어</item>
+        <item>말레이시아어</item>
+        <item>몰타어</item>
+        <item>노르웨이어</item>
+        <item>페르시아어</item>
+        <item>폴란드어</item>
+        <item>포르투갈어</item>
+        <item>케레타로 토미어</item>
+        <item>루마니아어</item>
+        <item>러시아어</item>
+        <item>사모아어</item>
+        <item>세르비아어 (키릴 문자)</item>
+        <item>세르비아어 (라틴 문자)</item>
+        <item>슬로바키아어</item>
+        <item>슬로베니아어</item>
+        <item>스페인어</item>
+        <item>스웨덴어</item>
+        <item>타히티어</item>
+        <item>타밀어</item>
+        <item>태국어</item>
+        <item>통가어</item>
+        <item>터키어</item>
+        <item>우크라이나어</item>
+        <item>우르두어</item>
+        <item>베트남어</item>
+        <item>웨일스어</item>
+        <item>유카텍 마야어</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>Afrikaans</item>
+        <item>arabski</item>
+        <item>Bangla</item>
+        <item>bośniacki</item>
+        <item>bułgarski</item>
+        <item>Kantoński</item>
+        <item>Kataloński</item>
+        <item>Uproszczony chiński</item>
+        <item>Chiński tradycyjny</item>
+        <item>chorwacki</item>
+        <item>Czech</item>
+        <item>duński</item>
+        <item>holenderski</item>
+        <item>język angielski</item>
+        <item>estoński</item>
+        <item>Fidżi</item>
+        <item>Filipiński</item>
+        <item>fiński</item>
+        <item>Francuski</item>
+        <item>Niemiecki</item>
+        <item>grecki</item>
+        <item>Kreolski na Haiti</item>
+        <item>hebrajski</item>
+        <item>hinduski</item>
+        <item>Hmong Daw</item>
+        <item>język węgierski</item>
+        <item>islandzki</item>
+        <item>indonezyjski</item>
+        <item>Włoski</item>
+        <item>język japoński</item>
+        <item>Suahili</item>
+        <item>koreański</item>
+        <item>łotewski</item>
+        <item>litewski</item>
+        <item>malgaski</item>
+        <item>malajski</item>
+        <item>Maltański</item>
+        <item>norweski</item>
+        <item>perski</item>
+        <item>Polskie</item>
+        <item>portugalski</item>
+        <item>Queretaro Otomi</item>
+        <item>rumuński</item>
+        <item>Rosyjski</item>
+        <item>Samoański</item>
+        <item>Serbski (cyrylica)</item>
+        <item>Serbski (łacina)</item>
+        <item>słowacki</item>
+        <item>słoweński</item>
+        <item>hiszpański</item>
+        <item>szwedzki</item>
+        <item>tahitański</item>
+        <item>Tamil</item>
+        <item>tajski</item>
+        <item>Tongan</item>
+        <item>turecki</item>
+        <item>Ukraiński</item>
+        <item>Urdu</item>
+        <item>wietnamski</item>
+        <item>walijski</item>
+        <item>Język Maya</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

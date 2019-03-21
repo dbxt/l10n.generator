@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>আফ্রিকানরা</item>
+        <item>আরবি</item>
+        <item>বাংলা</item>
+        <item>বসনীয়</item>
+        <item>বুলগেরীয়</item>
+        <item>ক্যান্টোনিজ</item>
+        <item>কাতালান</item>
+        <item>চিনা সরলীকৃত</item>
+        <item>চিনা প্রথাগত</item>
+        <item>ক্রোয়েশীয়</item>
+        <item>চেক</item>
+        <item>ড্যানিশ</item>
+        <item>ডাচ</item>
+        <item> ইংরাজি</item>
+        <item>এস্তোনিয়ান</item>
+        <item>Fijian</item>
+        <item>ফিলিপিনো</item>
+        <item>ফিনিশ</item>
+        <item>ফরাসী</item>
+        <item>জার্মান</item>
+        <item>গ্রীক</item>
+        <item>হাইতিয়ান ক্রেওল</item>
+        <item>হিব্রু</item>
+        <item>হিন্দি</item>
+        <item>একখান দাউ</item>
+        <item>হাংগেরীয়</item>
+        <item>আইসল্যান্ডীয়</item>
+        <item>ইন্দোনেশীয়</item>
+        <item>ইতালীয়</item>
+        <item>জাপানী</item>
+        <item>সোয়াহিলি</item>
+        <item>কোরিয়ান</item>
+        <item>ল্যাটভীয়</item>
+        <item>লিথুয়ানীয়</item>
+        <item>মালাগাসী</item>
+        <item>মালয়</item>
+        <item>মল্টিয়</item>
+        <item>নরওয়েবাসী</item>
+        <item>পারসিক</item>
+        <item>পোলিশ</item>
+        <item>পর্তুগিজ</item>
+        <item>ক্যুরেটারো ওটোমি</item>
+        <item>রোমানীয়</item>
+        <item>রুশ</item>
+        <item>সামোয়ান</item>
+        <item>সার্বিয়ান (সিরিলিক)</item>
+        <item>সার্বিয়া (ল্যাটিন)</item>
+        <item>শ্লোভাক</item>
+        <item>শ্লোভেনীয়</item>
+        <item>স্প্যানিশ</item>
+        <item>সুইডিশ</item>
+        <item>তাহিতিয়ান</item>
+        <item>তামিল</item>
+        <item>থাই</item>
+        <item>ইউক্রেনীয়</item>
+        <item>তুর্কী</item>
+        <item>ইউক্রেনীয়</item>
+        <item>ঊর্দু</item>
+        <item>ভিয়েতনামী</item>
+        <item>ওয়েলশ</item>
+        <item>ইউক্যাটিক মায়া</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

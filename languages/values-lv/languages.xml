@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>Afrikandu</item>
+        <item>Arābu valoda</item>
+        <item>Bangla</item>
+        <item>Bosniešu</item>
+        <item>Bulgāru valoda</item>
+        <item>Kantonas</item>
+        <item>Katalāņu valoda</item>
+        <item>Ķīniešu vienkāršotā</item>
+        <item>Ķīniešu tradicionālā</item>
+        <item>Horvātu</item>
+        <item>Čehu valoda</item>
+        <item>Dāņu valoda</item>
+        <item>Holandiešu valodā</item>
+        <item>Angļu</item>
+        <item>Igauņu valoda</item>
+        <item>Fidži</item>
+        <item>Filipīniešu valoda</item>
+        <item>Somu valoda</item>
+        <item>Franču valoda</item>
+        <item>Vācu valoda</item>
+        <item>Grieķu valoda</item>
+        <item>Haiti krelole</item>
+        <item>Ivrits</item>
+        <item>Hindi</item>
+        <item>Hmong Daw</item>
+        <item>Ungāru valoda</item>
+        <item>Islandiešu valoda</item>
+        <item>Indonēziešu valoda</item>
+        <item>Itāļu valoda</item>
+        <item>Japāņu valodā</item>
+        <item>Svahilu</item>
+        <item>Korejiešu valoda</item>
+        <item>Latviešu</item>
+        <item>Lietuviešu valoda</item>
+        <item>Madagaskī</item>
+        <item>Malajiešu valoda</item>
+        <item>Maltiešu</item>
+        <item>Norvēģu valodā</item>
+        <item>Persiešu valoda</item>
+        <item>Poļu valoda</item>
+        <item>Portugāļu valoda</item>
+        <item>Queretaro Otomi</item>
+        <item>Rumāņu valoda</item>
+        <item>Krievu valoda</item>
+        <item>Samoa</item>
+        <item>Serbu (kirilicas)</item>
+        <item>Serbu (latīņu)</item>
+        <item>Slovāku valoda</item>
+        <item>Slovēņu valoda</item>
+        <item>Spāņu valoda</item>
+        <item>Zviedru</item>
+        <item>Tahitian</item>
+        <item>Tamils</item>
+        <item>Taju</item>
+        <item>Tonga</item>
+        <item>Turku</item>
+        <item>Ukraiņu valodā</item>
+        <item>Urdu</item>
+        <item>Vjetnamiešu</item>
+        <item>Velsiešu valoda</item>
+        <item>Yucatec Maya</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

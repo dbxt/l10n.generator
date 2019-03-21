@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>Afrikaans</item>
+        <item>Arabies</item>
+        <item>Bangla</item>
+        <item>Bosniese</item>
+        <item>Bulgaarse</item>
+        <item>Cantonese</item>
+        <item>Katalonië</item>
+        <item>Vereenvoudigde Chinees</item>
+        <item>Tradisionele Chinees</item>
+        <item>Kroatiese</item>
+        <item>Tsjeggië</item>
+        <item>Deens</item>
+        <item>Hollands</item>
+        <item>Engels</item>
+        <item>Estoniaanse</item>
+        <item>Fijian</item>
+        <item>Fillipyne</item>
+        <item>Finse</item>
+        <item>Franse</item>
+        <item>Duitse</item>
+        <item>Grieks</item>
+        <item>HaÔti Kreools</item>
+        <item>Hebreeus</item>
+        <item>Hindi</item>
+        <item>Hmong Daw</item>
+        <item>Hongaars</item>
+        <item>Icelandic</item>
+        <item>Indonesiese</item>
+        <item>Italiaans</item>
+        <item>Japannese</item>
+        <item>Kiswahili</item>
+        <item>Koreaanse</item>
+        <item>Lettiese</item>
+        <item>Litause</item>
+        <item>Malagasy</item>
+        <item>Maleisiese</item>
+        <item>Maltese</item>
+        <item>Noorweegse</item>
+        <item>Persiese</item>
+        <item>Pools</item>
+        <item>Portugese</item>
+        <item>Queretaro Otomi</item>
+        <item>Roemeense</item>
+        <item>Russiese</item>
+        <item>Samoan</item>
+        <item>Serbian (Cyrillic)</item>
+        <item>Serbian (Latin)</item>
+        <item>Slowakye</item>
+        <item>Sloweense</item>
+        <item>Spaans</item>
+        <item>Sweeds</item>
+        <item>Tahitian</item>
+        <item>Tamil</item>
+        <item>Thai</item>
+        <item>Tongan</item>
+        <item>Turkse</item>
+        <item>Ukranian</item>
+        <item>Oerdoe</item>
+        <item>ViÎtnamese</item>
+        <item>Walliese</item>
+        <item>Yucatec Maya</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>

@@ -1,0 +1,128 @@
+<resources>
+    <array name="language_display_names">
+        <item>afrikaans</item>
+        <item>arabe</item>
+        <item>Bangla</item>
+        <item>Bosniaque</item>
+        <item>bulgare</item>
+        <item>Cantonais</item>
+        <item>catalan</item>
+        <item>Chinois simplifié</item>
+        <item>Chinois traditionnel</item>
+        <item>croate</item>
+        <item>tchèque</item>
+        <item>danois</item>
+        <item>néerlandais</item>
+        <item>Anglais</item>
+        <item>estonien</item>
+        <item>Fidjien</item>
+        <item>Philippin</item>
+        <item>finlandais</item>
+        <item>français</item>
+        <item>allemand</item>
+        <item>grec</item>
+        <item>Créole haïtien</item>
+        <item>hébreu</item>
+        <item>hindi</item>
+        <item>Daw Hmong</item>
+        <item>hongrois</item>
+        <item>Islandais</item>
+        <item>indonésien</item>
+        <item>italien</item>
+        <item>Japonais</item>
+        <item>Swahili</item>
+        <item>coréen</item>
+        <item>letton</item>
+        <item>lituanien</item>
+        <item>malgache</item>
+        <item>malais</item>
+        <item>maltais</item>
+        <item>norvégien</item>
+        <item>persan</item>
+        <item>polonais</item>
+        <item>Portugais</item>
+        <item>Querétaro Otomi</item>
+        <item>roumain</item>
+        <item>russe</item>
+        <item>Samoan</item>
+        <item>Serbe (cyrillique)</item>
+        <item>Serbe (latin)</item>
+        <item>slovaque</item>
+        <item>slovène</item>
+        <item>Espanol</item>
+        <item>suédois</item>
+        <item>Tahitien</item>
+        <item>Tamil</item>
+        <item>thaïlandais</item>
+        <item>Tongan</item>
+        <item>turc</item>
+        <item>Ukrainien</item>
+        <item>Urdu</item>
+        <item>vietnamien</item>
+        <item>gallois</item>
+        <item>Yucatèque Maya</item>
+    </array>
+    <array name="language_values">
+        <item>af</item>
+        <item>ar</item>
+        <item>bn</item>
+        <item>bs</item>
+        <item>bg</item>
+        <item>yue</item>
+        <item>ca</item>
+        <item>zh-Hans</item>
+        <item>zh-Hant</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>et</item>
+        <item>fj</item>
+        <item>fil</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>el</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>mww</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>sw</item>
+        <item>ko</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>mg</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>nb</item>
+        <item>fa</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>otq</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sm</item>
+        <item>sr-Cyrl</item>
+        <item>sr-Latn</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sv</item>
+        <item>ty</item>
+        <item>ta</item>
+        <item>th</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+        <item>yua</item>
+    </array>
+</resources>
