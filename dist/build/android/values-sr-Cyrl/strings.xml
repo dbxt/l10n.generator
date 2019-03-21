@@ -1,201 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!-- AUTO-GENERATED -->
-<string name="accept">Accept = "Прихвати";</string>
-
-
-<string name="am">AM = "ујутро.";</string>
-
-<string name="are_you_sure_you_want_to_delete_this_group">Are you sure you want to delete this group? = "Желите ли заиста да избришете ову групу?";</string>
+<string name="accept">Прихвати</string>
+<string name="ago">пре</string>
+<string name="already_a_member">Већ сте члан</string>
+<string name="am">ујутро</string>
+<string name="app_name">GlobeChat</string>
+<string name="are_you_sure_you_want_to_delete_this_group">Желите ли заиста да избришете ову групу?</string>
 <string name="are_you_sure_you_want_to_invite">Сигурни сте да желите позвати</string>
 <string name="are_you_sure_you_want_to_leave_this_group">Сигурни сте да желите да оставите ове групе?</string>
-<string name="are_you_sure_you_want_to_sign_out">Are you sure you want to sign out? = "Желите ли заиста да се пријавите?";</string>
-
-<string name="be_the_first_person_to_send_a_message_to_this_group">Be the first person to send a message to this group. = "Biti prva osoba koja je slanje poruke u ovu grupu.";</string>
-
-
-<string name="cancel">Cancel = "Откажи";</string>
-
-
-
-
-
+<string name="are_you_sure_you_want_to_sign_out">Желите ли заиста да се пријавите?</string>
+<string name="be_the_first_person_to_send_a_message_to_this_group">Biti prva osoba koja je slanje poruke u ovu grupu</string>
+<string name="cancel">Откажи</string>
 <string name="confirm_invitation">Потврди позивницу</string>
+<string name="confirm_logout">Потврда пријављивања</string>
 <string name="confirm_password">Потврда лозинке</string>
-
 <string name="contact_globechat">Обратите се ГлобеЦхат</string>
-
-<string name="create_account">Create account = "Региструј се";</string>
-<string name="create_group">Create Group = "створити групу";</string>
-<string name="create_new">Create New = "створи ново";</string>
-<string name="create_new_group">Create New Group = "Креирајте нову групу";</string>
-<string name="create_new_personal_organization_group">Create new Personal Organization group = "креирајте нову личну организациону групу";</string>
+<string name="contact_sales">Contact Sales</string>
+<string name="create_account">Региструј се</string>
+<string name="create_group">створити групу</string>
+<string name="create_new">створи ново</string>
+<string name="create_new_group">Креирајте нову групу</string>
+<string name="create_new_personal_organization_group">креирајте нову личну организациону групу</string>
 <string name="create_organization">Креирај организацију</string>
-
-
-
-
-<string name="title_dashboard">Контролне табле</string>
-<string name="decline">Decline = "Одбити";</string>
+<string name="current_members">Тренутни чланови</string>
+<string name="decline">Одбити</string>
 <string name="delete">Избришете</string>
 <string name="delete_group">Избриши групу</string>
-<string name="do_you_want_to_accept">Do you want to accept? = "Ti hoćeš da prihvati";</string>
-
-
-<string name="enter_a_name_for_your_new_group">Enter a name for your new group = "Унесите име за нову групу";</string>
-<string name="enter_a_name_for_your_new_organization">Enter a name for your new organization = "Unesite ime za vašu novu organizaciju.";</string>
-<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Enter the email you signed up with, or the email address you want to sign up with. = "Унесите име е-поште с којом сте се пријавили или име е-поште са којом желите да се пријавите.";</string>
-<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user = "Унесите лозинку да бисте се пријавили. Ако то нисте ви или желите да се пријавите као други корисник";</string>
-<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user, tap here. = "Унесите лозинку да бисте се пријавили. Ако то нисте ви или желите да се пријавите као други корисник, додирните овде.";</string>
-
-
-
-
-
+<string name="do_you_want_to_accept">Ti hoćeš da prihvati</string>
+<string name="edit_group">Faasao vaega</string>
+<string name="enter_a_name_for_your_new_group">Унесите име за нову групу</string>
+<string name="enter_a_name_for_your_new_organization">Unesite ime za vašu novu organizaciju</string>
+<string name="enter_password_twice">Унесите нову лозинку два пута</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Унесите име е-поште с којом сте се пријавили или име е-поште са којом желите да се пријавите</string>
+<string name="enter_valid_password">Унесите важећу лозинку</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Унесите лозинку да бисте се пријавили. Ако то нисте ви или желите да се пријавите као други корисник</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Унесите лозинку да бисте се пријавили. Ако то нисте ви или желите да се пријавите као други корисник, додирните овде</string>
+<string name="failed_to_change_password">Промена лозинке није успело!</string>
+<string name="failed_to_request_email_verification">Затражите е-пошту потврде није успело!</string>
+<string name="failed_to_validate_password_reset_request">Провери ваљаност захтев за поновно постављање лозинке није успјело</string>
+<string name="failed_to_verify_email">Провјерите е-маил није успело!</string>
 <string name="filter_members">Чланови филтера</string>
-
-<string name="first_name">First name = "Име";</string>
-
-
-<string name="get_started">Get Started = "Почети";</string>
-<string name="app_name"></string>
-<string name="globechat_users">GlobeChat Users = "ГлобеЦхат корисници";</string>
-<string name="great_no_one_has_signed_up_with">Great! No one has signed up with = "Велики! Нико се није пријавио";</string>
-
+<string name="first_name">Име</string>
+<string name="get_started">Почети</string>
+<string name="globechat_users">ГлобеЦхат корисници</string>
+<string name="great_no_one_has_signed_up_with">Велики! Нико се није пријавио</string>
 <string name="group">група</string>
 <string name="group_members">Чланови групе </string>
-<string name="group_name">Group Name = "Име групе";</string>
-
-
-
-
-<string name="title_home">Дом</string>
-
-
-<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">If this is not you or you want to sign in as a different user, tap here. = "Ако то нисте ви или желите да се пријавите као другог корисника, додирните овде.";</string>
-
-
-<string name="in_personal_organization">In personal organization = "У личној организацији";</string>
-
-<string name="invalid_password">Invalid password = "Неважећа лозинка";</string>
-<string name="invalid_username_password">Invalid username/ password = "Погрешно корисничко име / лозинка";</string>
+<string name="group_name">Име групе</string>
+<string name="if_forgot_password">Afai ua galo lau uputatala, oomi iinei e talosaga se toe setiina le uputatala</string>
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Ако то нисте ви или желите да се пријавите као другог корисника, додирните овде</string>
+<string name="if_you_forgot_your_password">Ако сте заборавили своју лозинку</string>
+<string name="in_personal_organization">У личној организацији</string>
+<string name="invalid_password">Неважећа лозинка</string>
+<string name="invalid_username_password">Погрешно корисничко име / лозинка</string>
 <string name="invite_by_email">Позвати путем е-поште</string>
 <string name="invite_members">Позвао чланове</string>
-<string name="invited_you_to_the_group">invited you to the group = "ФФ вас позива у групу";</string>
+<string name="invited_you_to_the_group">ФФ вас позива у групу</string>
 <string name="invited_you_to_the_organization">Позвани сте на организацију</string>
-
-
-<string name="join_globechat">Join GlobeChat! = "Придружи се глобецхат!";</string>
-
-
-<string name="last_name">Last name = "Презиме";</string>
-
-<string name="leave">Leave = "Ostavi";</string>
+<string name="join_globechat">Придружи се глобецхат!</string>
+<string name="langiage_zh-Hant">Традиционални кинески</string>
+<string name="language_af">Африкаанс</string>
+<string name="language_ar">Арапски</string>
+<string name="language_bg">Бугарски</string>
+<string name="language_bn">Бангла</string>
+<string name="language_bs">Босански</string>
+<string name="language_ca">Каталонски</string>
+<string name="language_cs">Чешки</string>
+<string name="language_cy">Велшки</string>
+<string name="language_da">Дански</string>
+<string name="language_de">Немачки</string>
+<string name="language_el">Грчки</string>
+<string name="language_en">енглески језик</string>
+<string name="language_es">Шпански</string>
+<string name="language_et">Естонски</string>
+<string name="language_fa">Персијски</string>
+<string name="language_fi">Фински</string>
+<string name="language_fil">Филипино</string>
+<string name="language_fj">Фијиан</string>
+<string name="language_fr">Француски</string>
+<string name="language_he">Хебрејски</string>
+<string name="language_hi">Хинди</string>
+<string name="language_hr">Хрватски</string>
+<string name="language_ht">Хаићански креол</string>
+<string name="language_hu">Мађарски</string>
+<string name="language_id">Индонежански</string>
+<string name="language_is">Исландски</string>
+<string name="language_it">Италијан</string>
+<string name="language_ja">Јапански</string>
+<string name="language_ko">корејски</string>
+<string name="language_lt">Литвански</string>
+<string name="language_lv">Латвијски</string>
+<string name="language_mg">Малагаси</string>
+<string name="language_ms">Малајски</string>
+<string name="language_mt">Малтезе</string>
+<string name="language_mww">Госпоро Хмонга</string>
+<string name="language_nb">Норвегиан</string>
+<string name="language_nl">Холандски</string>
+<string name="language_otq">Qуеретаро Отоми</string>
+<string name="language_pl">Пољски</string>
+<string name="language_pt">Португалски</string>
+<string name="language_ro">Румунски</string>
+<string name="language_ru">Румунски</string>
+<string name="language_sk">Словачки</string>
+<string name="language_sl">Словеначки</string>
+<string name="language_sm">Самоански</string>
+<string name="language_sr-Cyrl">Српски језик (Ћирилица)</string>
+<string name="language_sr-Latn">Сербиан (Латин)</string>
+<string name="language_sv">Шведски</string>
+<string name="language_sw">свахили</string>
+<string name="language_ta">Тамилски</string>
+<string name="language_te">телугу</string>
+<string name="language_th">Тајландски</string>
+<string name="language_tlh">Клингонски</string>
+<string name="language_to">Тонган</string>
+<string name="language_tr">Турски</string>
+<string name="language_ty">Тахитиан</string>
+<string name="language_uk">украјински</string>
+<string name="language_ur">Урду</string>
+<string name="language_vi">Вијетнамски</string>
+<string name="language_yua">Yуцатец Маyа</string>
+<string name="language_yue">Кантонски</string>
+<string name="language_zh-Hans">Кинески поједностављени</string>
+<string name="last_name">Презиме</string>
+<string name="leave">Ostavi</string>
 <string name="leave_group">Одсуство групе</string>
-
-
-<string name="lobby">Lobby = "Лобију";</string>
-<string name="location">Location = "Локација";</string>
-<string name="log_in_to_globechat">Log in to GlobeChat! = "Пријавите се на ГлобеЦхат!";</string>
-<string name="log_in_to_globechat_">Log in to GlobeChat! = "Пријавите се на ГлобеЦхат!";</string>
-<string name="login_failed">Login failed = "Неуспела Пријава";</string>
-<string name="logout">Logout = "Одјавити се";</string>
-
-
-
-<string name="manage_group">Manage Group = "Управљај групом";</string>
-<string name="manage_organization">Manage Organization = "Управљај организацијом";</string>
+<string name="loading">Учитавање</string>
+<string name="lobby">Лобију</string>
+<string name="location">Локација</string>
+<string name="log_in_to_globechat">Пријавите се на ГлобеЦхат!</string>
+<string name="log_in_to_globechat_">Пријавите се на ГлобеЦхат!</string>
+<string name="log_in_with_new_password">Ако још нисте пријављени, сада можете евидентирати код нове лозинке</string>
+<string name="login_failed">Неуспела Пријава</string>
+<string name="logout">Одјавити се</string>
+<string name="manage_group">Управљај групом</string>
+<string name="manage_organization">Управљај организацијом</string>
 <string name="members_in_">чланови у</string>
-<string name="members_in_group">Members in Group = "Чланови у групи";</string>
-<string name="members_in_organization">Members in Organization = "Чланови у организацији";</string>
-<string name="name">Name = "Име";</string>
-<string name="no">No = "не";</string>
-<string name="no_pending_invitations">No pending invitations = "Нема позива на чекању";</string>
-<string name="no_posts_yet">No posts yet. = "Još nema bandera.";</string>
-<string name="no_results">No results = "Nema rezultata.";</string>
-<string name="none">None = "Ниједан";</string>
-
+<string name="members_in_group">Чланови у групи</string>
+<string name="members_in_organization">Чланови у организацији</string>
+<string name="name">Име</string>
+<string name="no">не</string>
+<string name="no_pending_invitations">Нема позива на чекању</string>
+<string name="no_posts_yet">Još nema bandera</string>
+<string name="no_results">Nema rezultata</string>
+<string name="none">Ниједан</string>
+<string name="ok">У реду</string>
+<string name="open">Отворена</string>
+<string name="open_group">Отварање групе</string>
+<string name="organization">организација</string>
+<string name="organization_members">Чланови организације</string>
+<string name="organization_name">Назив организације</string>
+<string name="original_message">Оригинална порука</string>
+<string name="owner">Власник</string>
+<string name="password">Лозинка</string>
+<string name="password_set_failed">Није могуће поставити лозинку!</string>
+<string name="password_updated">Лозинка је ажуриран!</string>
+<string name="pending_group_invitations">Необрађени позиви групе</string>
+<string name="pending_invitations">Имате неодговорене позивнице!</string>
+<string name="pending_invitations_view_now">Иекају те нове позивнице.  Желите ли сада да их прегледате?</string>
+<string name="pending_organization_invitations">Neobrađeni organizacije pozivnice</string>
+<string name="personal_accounts_are_allowed">Личних налога је дозвољено 5 корисницима бесплатно. Кликните на дугме испод да затражите информације на наше премиум услуге за разговор са више корисника.</string>
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Молимо унесите лозинку дужине најмање 8 карактера</string>
+<string name="please_try_again_later">Покушајте поново касније.</string>
+<string name="pm">поподне</string>
+<string name="primary_language">Примарни језик</string>
+<string name="privacy_policy">Politika privatnosti</string>
+<string name="reset_password">Поништавање лозинке</string>
+<string name="reset_password_for">Поништите лозинку</string>
+<string name="resetting_password">Поништавање лозинке&#8230;</string>
+<string name="save">Sačuvaj</string>
+<string name="search_by_email_address">Претрага по е-адреси</string>
+<string name="search_by_name_or_email">Pretraži po imenu ili e-poruci</string>
+<string name="search_for_users">потражите кориснике</string>
+<string name="select_group_image">Избор слике групе</string>
+<string name="select_language">Изаберите језик</string>
+<string name="select_languages">изаберите језике</string>
+<string name="select_organization_image">Izaberite organizaciju slika</string>
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Поставите слику групе тако што ћете додирнути горњу икону. Ако не желите да поставите слику, можете да притисните дугме "Сачувај" да бисте прескочили овај корак</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Поставите слику организације тако што ћете додирнути горњу икону. Ако не желите да поставите слику, можете да притисните дугме "Сачувај" да бисте прескочили овај корак</string>
+<string name="set_password">Постављање лозинке</string>
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Подесите језик који не желите превести на свој примарни језик</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Подесите језик који ћете користити за слање и примање порука за ћаскање</string>
+<string name="show_original">Прикажи оригиналне</string>
+<string name="show_translated">Представа је преведен</string>
+<string name="sign_out">Пријављивање</string>
+<string name="sign_up_more_info">Само нам треба мало више информација да бисте се пријавили!</string>
+<string name="skip">Preskoči</string>
+<string name="tap_here">Кликни тамо</string>
+<string name="tap_here_password_reset">Тапните на дугме да бисте затражили за поништавање лозинке</string>
+<string name="terms_of_service">Uslovi usluge</string>
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Апликација која је глобални за размену порука, која тренутно преводи поруке на више од 60 језика</string>
+<string name="title_dashboard">Контролне табле</string>
+<string name="title_home">Дом</string>
 <string name="title_notifications">Обавештења</string>
-
-
-<string name="organization">Organization = "организација";</string>
-<string name="organization_members">Organization Members = "Чланови организације";</string>
-<string name="organization_name">Organization Name = "Назив организације";</string>
-
-<string name="owner">Owner = "Власник";</string>
-
-
-<string name="pending_group_invitations">Pending Group Invitations = "Необрађени позиви групе";</string>
-<string name="pending_organization_invitations">Pending Organization Invitations = "Neobrađeni organizacije pozivnice.";</string>
-
-
-<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Please enter a password that is at least 8 characters in length. = "Молимо унесите лозинку дужине најмање 8 карактера.";</string>
-
-
-
-<string name="pm">PM = "поподне.";</string>
-
-
-<string name="primary_language">Primary Language = "Примарни језик";</string>
-<string name="privacy_policy">Privacy Policy = "Politika privatnosti";</string>
-
-
-
-
-
-<string name="save">Save = "Sačuvaj";</string>
-<string name="search_by_email_address">Search by email address = "Претрага по е-адреси";</string>
-<string name="search_by_name_or_email">Search by name or email = "Pretraži po imenu ili e-poruci";</string>
-<string name="search_for_users">Search for users = "потражите кориснике";</string>
-<string name="select_group_image">Select Group Image = "Избор слике групе";</string>
-
-<string name="select_language">Select language = "Изаберите језик";</string>
-<string name="select_languages">Select Languages = "изаберите језике";</string>
-<string name="select_organization_image">Select organization image = "Izaberite organizaciju slika.";</string>
-
-
-<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set group image by tapping the icon above. If you don’t want to set an image, you can hit the save button to skip this step = "Поставите слику групе тако што ћете додирнути горњу икону. Ако не желите да поставите слику, можете да притисните дугме "Сачувај" да бисте прескочили овај корак";</string>
-<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set organization image by tapping the icon above. If you don’t want to set an image, you can hit the save button to skip this step = "Поставите слику организације тако што ћете додирнути горњу икону. Ако не желите да поставите слику, можете да притисните дугме "Сачувај" да бисте прескочили овај корак";</string>
-
-<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Set the language you do not want translated to your primary language. = "Подесите језик који не желите превести на свој примарни језик.";</string>
-<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Set the language you will use to send and receive chat messages. = "Подесите језик који ћете користити за слање и примање порука за ћаскање.";</string>
-
-
-
-<string name="skip">Skip = "Preskoči";</string>
-
-
-
-
-
-
-
-<string name="tap_here">tap here = "Кликни тамо";</string>
-
-<string name="terms_of_service">Terms of Service = "Uslovi usluge";</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">The messaging app that translates into 60+ languages in real time. = "Апликација за размену порука која се преводи у 60+ језика у реалном времену.";</string>
-
-
-<string name="translated_from">Translated from English = "Преведено са енглеског";</string>
-<string name="translated_from_english">Translated from = "Преведено са";</string>
-<string name="translated_messaging">Translated messaging. = "Преведене поруке.";</string>
-
-
-<string name="understood_languages">Understood Languages = "Разумео језике";</string>
-
-
-<string name="we_just_need_a_little_more_info_to_sign_you_up">We just need a little more info to sign you up. = "Потребно нам је само још информација да бисте се пријавили.";</string>
-<string name="welcome_back">Welcome back = "Добродошли назад";</string>
-
-<string name="yes">Yes = "Да";</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="translated_from">Преведено са енглеског</string>
+<string name="translated_from_english">Преведено са</string>
+<string name="translated_messaging">Преведене поруке</string>
+<string name="understood_languages">Разумео језике</string>
+<string name="validating_password_reset_request">Провери ваљаности захтев за поновно постављање лозинке</string>
+<string name="we_just_need_a_little_more_info_to_sign_you_up">Потребно нам је само још информација да бисте се пријавили</string>
+<string name="welcome_back">Добродошли назад</string>
+<string name="yes">Да</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">још!  Само нам треба мало више информација да бисте се пријавили!</string>
 <string name="you_have_been_invited_to_the_group">Позвани сте у групу</string>
-<string name="you_have_been_invited_to_the_organization">You have been invited to the organization = "Pozvani ste na organizaciju.";</string>
+<string name="you_have_been_invited_to_the_organization">Pozvani ste na organizaciju</string>
+<string name="your_email_address">Ваша емаил адреса</string>
+<string name="your_password">Твоја лозинка</string>
 
-<string name="your_email_address">Your email address = "Ваша емаил адреса";</string>
-<string name="your_password">Your password = "Твоја лозинка";</string>
 
+<string name="password_reset_request_sent">Захтев послат за поништавање лозинке!</string>
+<string name="failed_to_request_password_reset">Затражите поништавање лозинке није успело!</string>
+<string name="please_check_your_email_and_click_the_link">Провјерите ваш емаил и кликните на везу.</string>
+<string name="requesting_password_reset">Захтева за поништавање лозинке&#8230;</string>
+<string name="verify_email">Провјерите Е-маил</string>
+<string name="resend_verification">Поновно слање потврде</string>
+<string name="a_verification_email_was_sent_to_you">Емаил са верификације је послата. Кликните на везу у тој е-поруци да бисте се вратили у ГлобеЦхат и заврши регистрација.</string>
+<string name="requesting_email_verification">Тражи е-пошту потврде&#8230;</string>
 </resources>

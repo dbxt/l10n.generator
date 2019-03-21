@@ -1,201 +1,219 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!-- AUTO-GENERATED -->
-<string name="accept">Accept = "ยอมรับ";</string>
-
-
-<string name="am">AM = "AM";</string>
-
-<string name="are_you_sure_you_want_to_delete_this_group">Are you sure you want to delete this group? = "คุณแน่ใจหรือไม่ว่าคุณต้องการที่จะลบกลุ่มนี้";</string>
+<string name="accept">ยอมรับ</string>
+<string name="ago">แล้ว</string>
+<string name="already_a_member">ఇప్పటికే ఒక సభ్యుడు</string>
+<string name="am">AM</string>
+<string name="app_name">GlobeChat</string>
+<string name="are_you_sure_you_want_to_delete_this_group">คุณแน่ใจหรือไม่ว่าคุณต้องการที่จะลบกลุ่มนี้</string>
 <string name="are_you_sure_you_want_to_invite">คุณแน่ใจหรือไม่ว่าคุณต้องการเชิญ</string>
 <string name="are_you_sure_you_want_to_leave_this_group">คุณแน่ใจหรือไม่ว่าคุณต้องการออกจากกลุ่มนี้</string>
-<string name="are_you_sure_you_want_to_sign_out">Are you sure you want to sign out? = "คุณแน่ใจหรือไม่ว่าคุณต้องการออกจากระบบ";</string>
-
-<string name="be_the_first_person_to_send_a_message_to_this_group">Be the first person to send a message to this group. = "เป็นคนแรกที่จะส่งข้อความถึงกลุ่มนี้";</string>
-
-
-<string name="cancel">Cancel = "ยก เลิก";</string>
-
-
-
-
-
+<string name="are_you_sure_you_want_to_sign_out">คุณแน่ใจหรือไม่ว่าคุณต้องการออกจากระบบ</string>
+<string name="be_the_first_person_to_send_a_message_to_this_group">เป็นคนแรกที่จะส่งข้อความถึงกลุ่มนี้</string>
+<string name="cancel">ยก เลิก</string>
 <string name="confirm_invitation">ยืนยันการเชิญ</string>
+<string name="confirm_logout">ยืนยันการลงชื่อออก</string>
 <string name="confirm_password">ยืนยันรหัสผ่าน</string>
-
-<string name="contact_globechat">Contact GlobeChat = "ติดต่อ GlobeChat";</string>
-
-<string name="create_account">Create account = "สร้างบัญชี";</string>
-<string name="create_group">Create Group = "สร้างกลุ่ม";</string>
-<string name="create_new">Create New = "สร้างใหม่";</string>
-<string name="create_new_group">Create New Group = "สร้างกลุ่มใหม่";</string>
-<string name="create_new_personal_organization_group">Create new Personal Organization group = "สร้างกลุ่มองค์กรส่วนตัวใหม่";</string>
+<string name="contact_globechat">ติดต่อ GlobeChat</string>
+<string name="contact_sales">ติดต่อฝ่ายขาย</string>
+<string name="create_account">สร้างบัญชี</string>
+<string name="create_group">สร้างกลุ่ม</string>
+<string name="create_new">สร้างใหม่</string>
+<string name="create_new_group">สร้างกลุ่มใหม่</string>
+<string name="create_new_personal_organization_group">สร้างกลุ่มองค์กรส่วนตัวใหม่</string>
 <string name="create_organization">สร้างองค์กร</string>
-
-
-
-
-<string name="title_dashboard">แด ชบอร์ด</string>
-<string name="decline">Decline = "ปฏิเสธ";</string>
+<string name="current_members">สมาชิกปัจจุบัน</string>
+<string name="decline">ปฏิเสธ</string>
 <string name="delete">ลบ</string>
 <string name="delete_group">ลบกลุ่ม</string>
-<string name="do_you_want_to_accept">Do you want to accept? = "ต้องการยอมรับหรือไม่";</string>
-
-
-<string name="enter_a_name_for_your_new_group">Enter a name for your new group = "ป้อนชื่อสำหรับกลุ่มใหม่ของคุณ";</string>
-<string name="enter_a_name_for_your_new_organization">Enter a name for your new organization = "กรอกชื่อสำหรับองค์กรใหม่";</string>
-<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Enter the email you signed up with, or the email address you want to sign up with. = "กรอกอีเมลที่ลงชื่อเข้าใช้หรือที่จะใช้สำหรับลงชื่อเข้าใช้";</string>
-<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user = "ป้อนรหัสผ่านของคุณเพื่อลงชื่อเข้าใช้ หากไม่ใช่คุณหรือคุณต้องการเข้าสู่ระบบในฐานะผู้ใช้อื่นให้แตะที่นี่";</string>
-<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Enter your password to sign in to GlobeChat.  If this is not you or you want to sign in as a different user, tap here. = "ป้อนรหัสผ่านของคุณเพื่อลงชื่อเข้าใช้ หากไม่ใช่คุณหรือคุณต้องการเข้าสู่ระบบในฐานะผู้ใช้อื่นให้แตะที่นี่";</string>
-
-
-
-
-
+<string name="do_you_want_to_accept">ต้องการยอมรับหรือไม่</string>
+<string name="edit_group">แก้ไขกลุ่ม</string>
+<string name="enter_a_name_for_your_new_group">ป้อนชื่อสำหรับกลุ่มใหม่ของคุณ</string>
+<string name="enter_a_name_for_your_new_organization">กรอกชื่อสำหรับองค์กรใหม่</string>
+<string name="enter_password_twice">กรุณาใส่รหัสผ่านใหม่ของคุณสองครั้ง</string>
+<string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">กรอกอีเมลที่ลงชื่อเข้าใช้หรือที่จะใช้สำหรับลงชื่อเข้าใช้</string>
+<string name="enter_valid_password">กรุณาใส่รหัสผ่านที่ถูกต้อง</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">ป้อนรหัสผ่านของคุณเพื่อลงชื่อเข้าใช้ หากไม่ใช่คุณหรือคุณต้องการเข้าสู่ระบบในฐานะผู้ใช้อื่นให้แตะที่นี่</string>
+<string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">ป้อนรหัสผ่านของคุณเพื่อลงชื่อเข้าใช้ หากไม่ใช่คุณหรือคุณต้องการเข้าสู่ระบบในฐานะผู้ใช้อื่นให้แตะที่นี่</string>
+<string name="failed_to_change_password">ไม่สามารถเปลี่ยนรหัสผ่านได้!</string>
+<string name="failed_to_request_email_verification">ไม่สามารถขอรับการยืนยันทาง อีเมล์ ได้!</string>
+<string name="failed_to_validate_password_reset_request">ไม่สามารถตรวจสอบการร้องขอการตั้งค่ารหัสผ่านใหม่</string>
+<string name="failed_to_verify_email">ไม่สามารถตรวจสอบการส่งเมล์!</string>
 <string name="filter_members">กรองสมาชิก</string>
-
-<string name="first_name">First name = "ชื่อจริง";</string>
-
-
-<string name="get_started">Get Started = "เริ่มใช้งาน";</string>
-<string name="app_name"></string>
-<string name="globechat_users">GlobeChat Users = "ผู้ใช้งานโกลบแชท";</string>
-<string name="great_no_one_has_signed_up_with">Great! No one has signed up with = "ที่ดี! ไม่มีใครลงชื่อสมัครใช้";</string>
-
+<string name="first_name">ชื่อจริง</string>
+<string name="get_started">เริ่มใช้งาน</string>
+<string name="globechat_users">ผู้ใช้งานโกลบแชท</string>
+<string name="great_no_one_has_signed_up_with">ที่ดี! ไม่มีใครลงชื่อสมัครใช้</string>
 <string name="group">กลุ่ม</string>
 <string name="group_members">สมาชิกของกลุ่ม </string>
-<string name="group_name">Group Name = "ชื่อกลุ่ม";</string>
-
-
-
-
-<string name="title_home">บ้าน</string>
-
-
-<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">If this is not you or you want to sign in as a different user, tap here. = "หากนี่ไม่ใช่คุณหรือต้องการเข้าใช้งานด้วยชื่อผู้ใช้งานอื่น กดที่นี่";</string>
-
-
-<string name="in_personal_organization">In personal organization = "องค์กรส่วนตัว";</string>
-
-<string name="invalid_password">Invalid password = "รหัสผ่านไม่ถูกต้อง";</string>
-<string name="invalid_username_password">Invalid username/ password = "ชื่อผู้ใช้งานหรืรหัสผ่านไม่ถูกต้อง";</string>
+<string name="group_name">ชื่อกลุ่ม</string>
+<string name="if_forgot_password">หากคุณลืมรหัสผ่านให้แตะที่นี่เพื่อขอรีเซ็ตรหัสผ่าน</string>
+<string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">หากนี่ไม่ใช่คุณหรือต้องการเข้าใช้งานด้วยชื่อผู้ใช้งานอื่น กดที่นี่</string>
+<string name="if_you_forgot_your_password">หากคุณลืมรหัสผ่าน</string>
+<string name="in_personal_organization">องค์กรส่วนตัว</string>
+<string name="invalid_password">รหัสผ่านไม่ถูกต้อง</string>
+<string name="invalid_username_password">ชื่อผู้ใช้งานหรืรหัสผ่านไม่ถูกต้อง</string>
 <string name="invite_by_email">เชิญทาง e-mail</string>
 <string name="invite_members">เชิญสมาชิก</string>
-<string name="invited_you_to_the_group">invited you to the group = "เชิญคุณเข้ากลุ่ม";</string>
+<string name="invited_you_to_the_group">iเชิญคุณเข้ากลุ่ม</string>
 <string name="invited_you_to_the_organization">เชิญคุณไปยังองค์กร</string>
-
-
-<string name="join_globechat">Join GlobeChat! = "เข้าร่วม GlobeChat";</string>
-
-
-<string name="last_name">Last name = "นามสกุล";</string>
-
-<string name="leave">Leave = "ออก";</string>
+<string name="join_globechat">เข้าร่วม GlobeChat</string>
+<string name="langiage_zh-Hant">ภาษาจีนตัวเต็ม</string>
+<string name="language_af">ภาษาแอฟริคานส์</string>
+<string name="language_ar">ภาษาอารบิก</string>
+<string name="language_bg">ภาษาบัลแกเรีย</string>
+<string name="language_bn">ภาษาบังกลา</string>
+<string name="language_bs">ภาษาบอสเนียน</string>
+<string name="language_ca">ภาษาแคทาแลน</string>
+<string name="language_cs">ภาษาเช็ก</string>
+<string name="language_cy">ภาษาเวลส์</string>
+<string name="language_da">ภาษาเดนิช</string>
+<string name="language_de">ภาษาเยอรมัน</string>
+<string name="language_el">ภาษากรีก</string>
+<string name="language_en">ภาษาอังกฤษ</string>
+<string name="language_es">ภาษาสเปน</string>
+<string name="language_et">ภาษาเอสโตเนีย</string>
+<string name="language_fa">ภาษาเปอร์เชียน</string>
+<string name="language_fi">ภาษาฟินนิช</string>
+<string name="language_fil">ภาษาฟิลิปปินส์</string>
+<string name="language_fj">ภาษาฟีจี</string>
+<string name="language_fr">ภาษาฝรั่งเศส</string>
+<string name="language_he">ภาษาฮีบรู</string>
+<string name="language_hi">ภาษาฮินดู</string>
+<string name="language_hr">ภาษาโครเอเชีย</string>
+<string name="language_ht">ภาษาเฮติ</string>
+<string name="language_hu">ภาษาฮังกาเรียน</string>
+<string name="language_id">ภาษาอินโดนีเซีย</string>
+<string name="language_is">อซ์แลนด์</string>
+<string name="language_it">ภาษาอิตาเลียน</string>
+<string name="language_ja">ภาษาญี่ปุ่น</string>
+<string name="language_ko">ภาษาเกาหลี</string>
+<string name="language_lt">ภาษาลิทัวเนีย</string>
+<string name="language_lv">ภาษาลัตเวีย</string>
+<string name="language_mg">ภาษามาลากาซี</string>
+<string name="language_ms">ภาษามาเลย์</string>
+<string name="language_mt">ภาษามอลตา</string>
+<string name="language_mww">ภาษาม้ง</string>
+<string name="language_nb">ภาษานอร์เวย์</string>
+<string name="language_nl">ภาษาดัตช์</string>
+<string name="language_otq">ภาษาเควเรตาโร</string>
+<string name="language_pl">ภาษาโปแลนด์</string>
+<string name="language_pt">ภาษาโปรตุกีส</string>
+<string name="language_ro">ภาษาโรมาเนีย</string>
+<string name="language_ru">ภาษารัสเซีย</string>
+<string name="language_sk">ภาษาสโลวาเกีย</string>
+<string name="language_sl">ภาษาสโลวีเนีย</string>
+<string name="language_sm">ภาษาซามัว</string>
+<string name="language_sr-Cyrl">ภาษาเซอร์เบีย (Cyrillic)</string>
+<string name="language_sr-Latn">ภาษาเซอร์เบีย (ลาติน)</string>
+<string name="language_sv">ภาษาสวีเดน</string>
+<string name="language_sw">สะวาฮิลี่</string>
+<string name="language_ta">ภาษาทมิฬ</string>
+<string name="language_te">เทลูกู</string>
+<string name="language_th">ภาษาไทย</string>
+<string name="language_tlh">ภาษาคลิงงอน</string>
+<string name="language_to">ภาษาตองงา</string>
+<string name="language_tr">ภาษาตุรกี</string>
+<string name="language_ty">ภาษาตาฮิติ</string>
+<string name="language_uk">ภาษายูเครน</string>
+<string name="language_ur">ภาษาอูรดู</string>
+<string name="language_vi">ภาษาเวียดนาม</string>
+<string name="language_yua">ภาษาโยคาเทก มายาร์</string>
+<string name="language_yue">ภาษาจีนกวางตุ้ง</string>
+<string name="language_zh-Hans">ภาษาจีนกลาง</string>
+<string name="last_name">นามสกุล</string>
+<string name="leave">ออก</string>
 <string name="leave_group">ออกจากกลุ่ม</string>
-
-
-<string name="lobby">Lobby = "ล็อบบี้";</string>
-<string name="location">Location = "ตำแหน่ง";</string>
-<string name="log_in_to_globechat">Log in to GlobeChat! = "็ล็อคอินโกลบแชท";</string>
-<string name="log_in_to_globechat_">Log in to GlobeChat! = "็ล็อคอินโกลบแชท";</string>
-<string name="login_failed">Login failed = "ล็อคอินล้มเหลว";</string>
-<string name="logout">Logout = "ลงชื่อออก";</string>
-
-
-
-<string name="manage_group">Manage Group = "จัดการกลุ่ม";</string>
-<string name="manage_organization">Manage Organization = "จัดการองค์กร";</string>
+<string name="loading">การโหลด</string>
+<string name="lobby">ล็อบบี้</string>
+<string name="location">ตำแหน่ง</string>
+<string name="log_in_to_globechat">"็ล็อคอินโกลบแชท</string>
+<string name="log_in_to_globechat_">"็ล็อคอินโกลบแชท</string>
+<string name="log_in_with_new_password">หากยังไม่ได้เข้าสู่ระบบคุณสามารถเข้าสู่ระบบด้วยรหัสผ่านใหม่ของคุณได้แล้ว</string>
+<string name="login_failed">ล็อคอินล้มเหลว</string>
+<string name="logout">ลงชื่อออก</string>
+<string name="manage_group">จัดการกลุ่ม</string>
+<string name="manage_organization">จัดการองค์กร</string>
 <string name="members_in_">สมาชิกใน"</string>
-<string name="members_in_group">Members in Group = "สมาชิกในกลุ่ม";</string>
-<string name="members_in_organization">Members in Organization = "สมาชิกในองค์กร";</string>
-<string name="name">Name = "ชื่อ";</string>
-<string name="no">No = "ไม่ใช่";</string>
-<string name="no_pending_invitations">No pending invitations = "ไม่มีคำเชิญ";</string>
-<string name="no_posts_yet">No posts yet. = "ยังไม่มีโพส";</string>
-<string name="no_results">No results = "ไม่มีผลลัพธ์";</string>
-<string name="none">None = "ไม่มี";</string>
-
+<string name="members_in_group">สมาชิกในกลุ่ม</string>
+<string name="members_in_organization">สมาชิกในองค์กร</string>
+<string name="name">ชื่อ</string>
+<string name="no">ไม่ใช่</string>
+<string name="no_pending_invitations">ไม่มีคำเชิญ</string>
+<string name="no_posts_yet">ยังไม่มีโพส</string>
+<string name="no_results">ไม่มีผลลัพธ์</string>
+<string name="none">ไม่มี</string>
+<string name="ok">ตกลง, ได้</string>
+<string name="open">เปิด</string>
+<string name="open_group">เปิดกลุ่ม</string>
+<string name="organization">องค์กร</string>
+<string name="organization_members">สมาชิกองค์กร</string>
+<string name="organization_name">ชื่อองค์กร</string>
+<string name="original_message">ข้อความต้นฉบับ</string>
+<string name="owner">เจ้าของ</string>
+<string name="password">รหัสผ่าน</string>
+<string name="password_set_failed">ไม่สามารถตั้งรหัสผ่าน!</string>
+<string name="password_updated">รหัสผ่านที่ปรับปรุง!</string>
+<string name="pending_group_invitations">คำเชิญกลุ่มที่ค้างอยู่</string>
+<string name="pending_invitations">คุณมีคำเชิญที่ไม่ได้ตอบ!</string>
+<string name="pending_invitations_view_now">มีคำเชิญใหม่รอคุณอยู่  คุณต้องการที่จะดูพวกเขาเดี๋ยวนี้หรือไม่</string>
+<string name="pending_organization_invitations">รอคำเชิญจากองค์กร</string>
+<string name="personal_accounts_are_allowed">บัญชีส่วนบุคคลได้รับอนุญาตให้ใช้งานได้5คนฟรี คลิกปุ่มด้านล่างเพื่อขอข้อมูลเกี่ยวกับบริการระดับพรีเมี่ยมของเราเพื่อแชทกับผู้ใช้มากขึ้น</string>
+<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">โปรดกรอกรหัสผ่านไม่ต่ำกว่า8ตัวอักษร</string>
+<string name="please_try_again_later">กรุณาลองอีกครั้งในภายหลัง</string>
+<string name="pm">PM</string>
+<string name="primary_language">ภาษาหลัก</string>
+<string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+<string name="reset_password">รีเซ็ตรหัสผ่าน</string>
+<string name="reset_password_for">รีเซ็ตรหัสผ่านสำหรับ</string>
+<string name="resetting_password">การรีเซ็ตรหัสผ่าน &#8230;</string>
+<string name="save">บันทึก</string>
+<string name="search_by_email_address">ค้นหาตามที่อยู่ทางเมล</string>
+<string name="search_by_name_or_email">ค้นหาจากชื่อหรืออีเมล</string>
+<string name="search_for_users">ค้นหาผู้ใช้</string>
+<string name="select_group_image">เลือกรูปภาพกลุ่ม</string>
+<string name="select_language">เลือกภาษา</string>
+<string name="select_languages">เลือกภาษา</string>
+<string name="select_organization_image">เลือกภาพสำหรับองค์กร</string>
+<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">ตั้งค่าภาพกลุ่มโดยการแตะที่ไอคอนด้านบน ถ้าคุณไม่ต้องการที่จะตั้งรูปภาพคุณสามารถกดปุ่มบันทึกเพื่อข้ามขั้นตอนนี้</string>
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">ตั้งค่ารูปภาพองค์กรโดยการแตะที่ไอคอนด้านบน ถ้าคุณไม่ต้องการที่จะตั้งรูปภาพคุณสามารถกดปุ่มบันทึกเพื่อข้ามขั้นตอนนี้</string>
+<string name="set_password">ตั้งรหัสผ่าน</string>
+<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">ตั้งค่าภาษาที่ไม่ต้องการให้แปลเป็นภาษาหลัก</string>
+<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">ตั้งค่าภาษาที่ใช้ในการส่งและรับข้อความสนทนา</string>
+<string name="show_original">แสดงต้นฉบับ</string>
+<string name="show_translated">แสดงที่แปลแล้ว</string>
+<string name="sign_out">ออกจากระบบ</string>
+<string name="sign_up_more_info">เราเพียงแค่ต้องการข้อมูลเพิ่มเติมเล็กๆน้อยๆที่จะลงทะเบียนคุณขึ้น!</string>
+<string name="skip">ข้าม</string>
+<string name="tap_here">แตะที่นี่</string>
+<string name="tap_here_password_reset">แตะที่นี่เพื่อขอรีเซ็ตรหัสผ่าน</string>
+<string name="terms_of_service">เงื่อนไขการให้บริการ</string>
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">แอปการส่งข้อความส่วนกลางที่จะแปลข่าวสารในภาษาที่มากกว่า๖๐ในทันที</string>
+<string name="title_dashboard">แด ชบอร์ด</string>
+<string name="title_home">บ้าน</string>
 <string name="title_notifications">แจ้ง เตือน</string>
-
-
-<string name="organization">Organization = "องค์กร";</string>
-<string name="organization_members">Organization Members = "สมาชิกองค์กร";</string>
-<string name="organization_name">Organization Name = "ชื่อองค์กร";</string>
-
-<string name="owner">Owner = "เจ้าของ";</string>
-
-
-<string name="pending_group_invitations">Pending Group Invitations = "คำเชิญกลุ่มที่ค้างอยู่";</string>
-<string name="pending_organization_invitations">Pending Organization Invitations = "รอคำเชิญจากองค์กร";</string>
-
-
-<string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Please enter a password that is at least 8 characters in length. = "โปรดกรอกรหัสผ่านไม่ต่ำกว่า8ตัวอักษร";</string>
-
-
-
-<string name="pm">PM = "PM";</string>
-
-
-<string name="primary_language">Primary Language = "ภาษาหลัก";</string>
-<string name="privacy_policy">Privacy Policy = "นโยบายความเป็นส่วนตัว";</string>
-
-
-
-
-
-<string name="save">Save = "บันทึก";</string>
-<string name="search_by_email_address">Search by email address = "ค้นหาตามที่อยู่ทางเมล";</string>
-<string name="search_by_name_or_email">Search by name or email = "ค้นหาจากชื่อหรืออีเมล";</string>
-<string name="search_for_users">Search for users = "ค้นหาผู้ใช้";</string>
-<string name="select_group_image">Select Group Image = "เลือกรูปภาพกลุ่ม";</string>
-
-<string name="select_language">Select language = "เลือกภาษา";</string>
-<string name="select_languages">Select Languages = "เลือกภาษา";</string>
-<string name="select_organization_image">Select organization image = "เลือกภาพสำหรับองค์กร";</string>
-
-
-<string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set group image by tapping the icon above. If you don\'t want to set an image, you can hit the save button to skip this step = "ตั้งค่าภาพกลุ่มโดยการแตะที่ไอคอนด้านบน ถ้าคุณไม่ต้องการที่จะตั้งรูปภาพคุณสามารถกดปุ่มบันทึกเพื่อข้ามขั้นตอนนี้";</string>
-<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set organization image by tapping the icon above. If you don\'t want to set an image, you can hit the save button to skip this step = "ตั้งค่ารูปภาพองค์กรโดยการแตะที่ไอคอนด้านบน ถ้าคุณไม่ต้องการที่จะตั้งรูปภาพคุณสามารถกดปุ่มบันทึกเพื่อข้ามขั้นตอนนี้";</string>
-
-<string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Set the language you do not want translated to your primary language. = "ตั้งค่าภาษาที่ไม่ต้องการให้แปลเป็นภาษาหลัก";</string>
-<string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Set the language you will use to send and receive chat messages. = "ตั้งค่าภาษาที่ใช้ในการส่งและรับข้อความสนทนา";</string>
-
-
-
-<string name="skip">Skip = "ข้าม";</string>
-
-
-
-
-
-
-
-<string name="tap_here">tap here = "แตะที่นี่";</string>
-
-<string name="terms_of_service">Terms of Service = "เงื่อนไขการให้บริการ";</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">The messaging app that translates into 60+ languages in real time. = "แอพพลิเคชั่นข้อความที่แปลภาษาได้มากกว่า 60 ภาษาได้ในทันที";</string>
-
-
-<string name="translated_from">Translated from English = "แปลจากภาษาอังกฤษ";</string>
-<string name="translated_from_english">Translated from = "แปลจาก";</string>
-<string name="translated_messaging">Translated messaging. = "ข้อความที่ถูกแปล";</string>
-
-
-<string name="understood_languages">Understood Languages = "ภาษาที่เข้าใจ";</string>
-
-
-<string name="we_just_need_a_little_more_info_to_sign_you_up">We just need a little more info to sign you up. = "ต้องการข้อมูลเพิ่มเติมเพื่อลงชื่อใช้งาน";</string>
-<string name="welcome_back">Welcome back = "ยินดีต้อนรับอีกครั้ง";</string>
-
-<string name="yes">Yes = "ใช่";</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="translated_from">แปลจากภาษาอังกฤษ</string>
+<string name="translated_from_english">แปลจาก</string>
+<string name="translated_messaging">ข้อความที่ถูกแปล</string>
+<string name="understood_languages">ภาษาที่เข้าใจ</string>
+<string name="validating_password_reset_request">การตรวจสอบคำขอรีเซ็ตรหัสผ่าน</string>
+<string name="we_just_need_a_little_more_info_to_sign_you_up">ต้องการข้อมูลเพิ่มเติมเพื่อลงชื่อใช้งาน</string>
+<string name="welcome_back">ยินดีต้อนรับอีกครั้ง</string>
+<string name="yes">ใช่</string>
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">ยัง!  เราเพียงแค่ต้องการข้อมูลเพิ่มเติมเล็กๆน้อยๆที่จะลงทะเบียนคุณขึ้น!</string>
 <string name="you_have_been_invited_to_the_group">คุณได้รับเชิญไปยังกลุ่ม</string>
-<string name="you_have_been_invited_to_the_organization">You have been invited to the organization = "คุณถูกเชิญเข้าองค์กร";</string>
+<string name="you_have_been_invited_to_the_organization">คุณถูกเชิญเข้าองค์กร</string>
+<string name="your_email_address">อีเมลของคุณ</string>
+<string name="your_password">รหัสผ่านของคุณ</string>
 
-<string name="your_email_address">Your email address = "อีเมลของคุณ";</string>
-<string name="your_password">Your password = "รหัสผ่านของคุณ";</string>
 
+<string name="password_reset_request_sent">ส่งคำขอรีเซ็ตรหัสผ่าน!</string>
+<string name="failed_to_request_password_reset">ล้มเหลวในการร้องขอการรีเซ็ตรหัสผ่าน!</string>
+<string name="please_check_your_email_and_click_the_link">กรุณาตรวจสอบทาง อีเมล ของคุณและคลิกที่ลิงก์</string>
+<string name="requesting_password_reset">การร้องขอการรีเซ็ตรหัสผ่าน &#8230;</string>
+<string name="verify_email">ตรวจสอบ อีเมล</string>
+<string name="resend_verification">ส่งการยืนยันอีกครั้ง</string>
+<string name="a_verification_email_was_sent_to_you">มีการส่งเมลยืนยันถึงคุณ โปรดคลิกที่ลิงค์ใน e-mail ที่จะกลับไป GlobeChat และเสร็จสิ้นการลงทะเบียนของคุณ</string>
+<string name="requesting_email_verification">ร้องขอการยืนยันทางเมล &#8230;</string>
 </resources>

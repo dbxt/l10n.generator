@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">Aanvaar</string>
-
-
+<string name="ago">gelede</string>
+<string name="already_a_member">Reeds \'n lid</string>
 <string name="am">V.M.</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group"> Is jy seker jy wil hierdie groep?</string>
 <string name="are_you_sure_you_want_to_invite">Is jy seker jy wil nooi</string>
 <string name="are_you_sure_you_want_to_leave_this_group">Is jy seker jy wil hierdie groep verlaat?</string>
 <string name="are_you_sure_you_want_to_sign_out">Is jy seker jy wil teken?</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">Wees die eerste persoon want n boodskap na hierdie groep toe stuurrdie groep.</string>
-
-
 <string name="cancel">kanselleer</string>
-
-
-
-
-
 <string name="confirm_invitation">Uitnodiging bevestig</string>
+<string name="confirm_logout">Bevestig uitteken</string>
 <string name="confirm_password">Bevestig wagwoord</string>
-
 <string name="contact_globechat">Kontak GlobeChat</string>
-
+<string name="contact_sales">Kontak verkope</string>
 <string name="create_account">Skep rekening</string>
 <string name="create_group">Skep groep</string>
 <string name="create_new">Skep nuwe</string>
 <string name="create_new_group">Skep nuwe groep</string>
 <string name="create_new_personal_organization_group">Skep nuwe persoonlike organisasie groep</string>
 <string name="create_organization">Organisasie skep</string>
-
-
-
-
-<string name="title_dashboard">Paneelbord</string>
+<string name="current_members">Huidige lede</string>
 <string name="decline">Afname</string>
 <string name="delete">Skrap</string>
 <string name="delete_group">Skrap groep</string>
 <string name="do_you_want_to_accept">Wil jy aanvaar?</string>
-
-
+<string name="edit_group">Redigeer groep</string>
 <string name="enter_a_name_for_your_new_group">Tik \'n naam vir jou nuwe groep</string>
 <string name="enter_a_name_for_your_new_organization">Tik \'n naam vir jou nuwe organisasie</string>
+<string name="enter_password_twice">Tik asseblief twee keer jou nuwe wagwoord</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Tik die e-pos wat jy onderteken met, of die e-pos adres jy wil inteken met.</string>
+<string name="enter_valid_password">Tik asseblief \'n geldige wagwoord</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Tik jou wagwoord om by Globechat in te teken. As dit nie jy is nie, of jy as \'n ander verbruiker wil inteken</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Tik jou wagwoord om by Globechat in te teken. As dit nie jy is nie, of jy as \'n ander verbruiker wil inteken, tik hier</string>
-
-
-
-
-
+<string name="failed_to_change_password">Kon nie die wagwoord verander nie!</string>
+<string name="failed_to_request_email_verification">Kon nie versoek e-pos verifikasie!</string>
+<string name="failed_to_validate_password_reset_request">Kon nie die wagwoord terugstel versoek valideer</string>
+<string name="failed_to_verify_email">Het misluk om te verifieer e-pos!</string>
 <string name="filter_members">Filter lede</string>
-
 <string name="first_name">Voornaam</string>
-
-
 <string name="get_started">Begin</string>
-<string name="app_name"></string>
 <string name="globechat_users">GlobeChat verbruikers</string>
 <string name="great_no_one_has_signed_up_with">Groot! Niemand het aangemeld met</string>
-
 <string name="group">Groep</string>
 <string name="group_members">Lede van die groep</string>
 <string name="group_name">Groep Naam</string>
-
-
-
-
-<string name="title_home">Huis</string>
-
-
+<string name="if_forgot_password">As jy jou wagwoord vergeet, tik hier versoek \'n wagwoord terugstel.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">As dit nie jy is nie, of jy as \'n ander verbruiker wil inteken, tik hier.nteken, tik hier</string>
-
-
+<string name="if_you_forgot_your_password">As jy jou wagwoord vergeet</string>
 <string name="in_personal_organization">In persoonlike organisasie</string>
-
 <string name="invalid_password">Ongeldige wagwoord</string>
 <string name="invalid_username_password">Ongeldige verbruikersnaam / wagwoord</string>
 <string name="invite_by_email">Nooi per e-pos</string>
 <string name="invite_members">Nooi lede</string>
 <string name="invited_you_to_the_group">het jou uitgenooi aan die groep</string>
 <string name="invited_you_to_the_organization">het jou uitgenooi na die organisasie</string>
-
-
 <string name="join_globechat">Sluit aan!</string>
-
-
+<string name="langiage_zh-Hant">Tradisionele Chinees</string>
+<string name="language_af">Afrikaans</string>
+<string name="language_ar">Arabies</string>
+<string name="language_bg">Bulgaarse</string>
+<string name="language_bn">Bangla</string>
+<string name="language_bs">Bosniese</string>
+<string name="language_ca">Katalonië</string>
+<string name="language_cs">Tsjeggië</string>
+<string name="language_cy">Walliese</string>
+<string name="language_da">Deens</string>
+<string name="language_de">Duitse</string>
+<string name="language_el">Grieks</string>
+<string name="language_en">Engels</string>
+<string name="language_es">Spaans</string>
+<string name="language_et">Estoniaanse</string>
+<string name="language_fa">Persiese</string>
+<string name="language_fi">Finse</string>
+<string name="language_fil">Fillipyne</string>
+<string name="language_fj">Fijian</string>
+<string name="language_fr">Franse</string>
+<string name="language_he">Hebreeus</string>
+<string name="language_hi">Hindi</string>
+<string name="language_hr">Kroatiese</string>
+<string name="language_ht">HaÔti Kreools</string>
+<string name="language_hu">Hongaars</string>
+<string name="language_id">Indonesiese</string>
+<string name="language_is">Icelandic</string>
+<string name="language_it">Italiaans</string>
+<string name="language_ja">Japannese</string>
+<string name="language_ko">Koreaanse</string>
+<string name="language_lt">Litause</string>
+<string name="language_lv">Lettiese</string>
+<string name="language_mg">Malagasy</string>
+<string name="language_ms">Maleisiese</string>
+<string name="language_mt">Maltese</string>
+<string name="language_mww">Hmong Daw</string>
+<string name="language_nb">Noorweegse</string>
+<string name="language_nl">Hollands</string>
+<string name="language_otq">Queretaro Otomi</string>
+<string name="language_pl">Pools</string>
+<string name="language_pt">Portugese</string>
+<string name="language_ro">Roemeense</string>
+<string name="language_ru">Russiese</string>
+<string name="language_sk">Slowakye</string>
+<string name="language_sl">Sloweense</string>
+<string name="language_sm">Samoan</string>
+<string name="language_sr-Cyrl">Serbian (Cyrillic)</string>
+<string name="language_sr-Latn">Serbian (Latin)</string>
+<string name="language_sv">Sweeds</string>
+<string name="language_sw">Swahili</string>
+<string name="language_ta">Tamil</string>
+<string name="language_te">Teloegoe</string>
+<string name="language_th">Thai</string>
+<string name="language_tlh">Klingon</string>
+<string name="language_to">Tongan</string>
+<string name="language_tr">Turkse</string>
+<string name="language_ty">Tahitian</string>
+<string name="language_uk">Ukranian</string>
+<string name="language_ur">Oerdoe</string>
+<string name="language_vi">ViÎtnamese</string>
+<string name="language_yua">Yucatec Maya</string>
+<string name="language_yue">Cantonese</string>
+<string name="language_zh-Hans">Vereenvoudigde Chinees</string>
 <string name="last_name">Van</string>
-
 <string name="leave">Afskeid</string>
 <string name="leave_group">Laat groep</string>
-
-
+<string name="loading">Laai tans</string>
 <string name="lobby">Lobby</string>
 <string name="location">Lokasie</string>
 <string name="log_in_to_globechat">Teken om</string>
 <string name="log_in_to_globechat_">Teken om</string>
+<string name="log_in_with_new_password">As jy nog nie aangeteken nog, jy kan nou teken aan met jou nuwe wagwoord</string>
 <string name="login_failed">Inteken het misluk</string>
 <string name="logout">Uit Teken</string>
-
-
-
 <string name="manage_group">Groep bestuur</string>
 <string name="manage_organization">Organisasie bestuur</string>
 <string name="members_in_">Lede in</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">Nog geen commentaar</string>
 <string name="no_results">Geen resultate nie</string>
 <string name="none">Geen</string>
-
-<string name="title_notifications">Kennisgewings</string>
-
-
+<string name="ok">Oukei</string>
+<string name="open">Oop</string>
+<string name="open_group">Oop groep</string>
 <string name="organization">Organisasie</string>
 <string name="organization_members">Organisasie lede</string>
 <string name="organization_name">Organisasie naam</string>
-
+<string name="original_message">Oorspronklike boodskap</string>
 <string name="owner">Eienaar</string>
-
-
+<string name="password">Pagwoord</string>
+<string name="password_set_failed">Kan nie \'n wagwoord opstel!</string>
+<string name="password_updated">Wagwoord bygewerk!</string>
 <string name="pending_group_invitations">Hangende groep uitnodigings</string>
+<string name="pending_invitations">U het onbeantwoorde uitnodigings!</string>
+<string name="pending_invitations_view_now">Daar wag nuwe uitnodigings. Wil jy dit nou sien?</string>
 <string name="pending_organization_invitations">Hangende organisasie uitnodigings</string>
-
-
+<string name="personal_accounts_are_allowed">Persoonlike rekeninge is 5 gebruikers gratis toegelaat. Klik die knoppie hieronder te versoek inligting oor ons premium dienste om te gesels met meer gebruikers.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Tik asseblief \'n wagwoord wat ten minste 8 karakters lank is</string>
-
-
-
+<string name="please_try_again_later">Probeer asseblief weer later</string>
 <string name="pm">N.M.</string>
-
-
 <string name="primary_language">Eerste Taal</string>
 <string name="privacy_policy">Privaatheids Polis</string>
-
-
-
-
-
+<string name="reset_password">Stel wagwoord terug</string>
+<string name="reset_password_for">Die wagwoord vir herstel</string>
+<string name="resetting_password">Herstel tans wagwoord&#8230;</string>
 <string name="save">Save</string>
 <string name="search_by_email_address">Soek per e-pos adres</string>
 <string name="search_by_name_or_email">besoek volgens naam of e-pos</string>
 <string name="search_for_users">Traûite korisnike</string>
-<string name="select_group_image">Kies groep beeld</string>
-
+<string name="select_group_image">reset_password_for</string>
 <string name="select_language">Kies taal</string>
 <string name="select_languages">Kies Tale</string>
 <string name="select_organization_image">Kies organisasie beeld</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Click die icon bo om jou groep beeld te stel. As jy nie n beeld wil stel nie, click die "save" icon om hierdie stap oor te slaan</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Click die icon bo om jou organisasie beeld te stel. As jy nie n beeld wil stel nie, click die "save" icon om hierdie stap oor te slaan</string>
-
+<string name="set_password">Stel wagwoord</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Stel die taal wat jy nie wil he moet na jou eerste taal toe vertaal word nie</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Stel die taal wat jy sal gebruik om chat boodskape te stuur en om te ontvang</string>
-
-
-
+<string name="show_original">Wys oorspronklike</string>
+<string name="show_translated">Wys vertaalde</string>
+<string name="sign_out">Teken uit</string>
+<string name="sign_up_more_info">Ons moet net \'n bietjie meer info kry voor dat jy aangeteken kan word.</string>
 <string name="skip">Slaan oor</string>
-
-
-
-
-
-
-
 <string name="tap_here">Tik hier</string>
-
+<string name="tap_here_password_reset">tik hier om \'n wagwoord terugstel versoek</string>
 <string name="terms_of_service">Terme van diens</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Die werelds boodskapdiens app wat daadelik in meer as 60 tale vertaal</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Die globale Boodskapdiens-toepassing wat onmiddellik boodskappe in meer as 60 tale vertaal</string>
+<string name="title_dashboard">Paneelbord</string>
+<string name="title_home">Huis</string>
+<string name="title_notifications">Kennisgewings</string>
 <string name="translated_from">Vertaal uit</string>
 <string name="translated_from_english">Vertaal uit Engels</string>
 <string name="translated_messaging">Boodskapdiens Vertaal</string>
-
-
 <string name="understood_languages">Verstande Tale</string>
-
-
+<string name="validating_password_reset_request">Valideer tans wagwoord terugstel versoek</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">Ons moet net \'n bietjie meer info kry voor dat jy aangeteken kan word</string>
 <string name="welcome_back">Welkom terug</string>
-
 <string name="yes">Ja</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">nog!  Ons moet net \'n bietjie meer inligting om in te teken jy!</string>
 <string name="you_have_been_invited_to_the_group">Jy is genooi om die groep</string>
 <string name="you_have_been_invited_to_the_organization">Jy is na die organisasie toe genooi</string>
-
 <string name="your_email_address">E-Pos</string>
 <string name="your_password">wagwoord</string>
 
+
+<string name="password_reset_request_sent">Wagwoord terugstel versoek gestuur!</string>
+<string name="failed_to_request_password_reset">Kon nie versoek wagwoord terugstel nie!</string>
+<string name="please_check_your_email_and_click_the_link">Kontroleer jou e-pos en klik op die skakel.</string>
+<string name="requesting_password_reset">Versoek wagwoord terugstel&#8230;</string>
+<string name="verify_email">Verifieer e-pos</string>
+<string name="resend_verification">Herstuur verifikasie</string>
+<string name="a_verification_email_was_sent_to_you">N verifikasie e-pos aan u gestuur is. Klik asseblief die skakel in die e-pos aan terug na GlobeChat en voltooi jou registrasie.</string>
+<string name="requesting_email_verification">E-pos verifikasie, versoek&#8230;</string>
 </resources>

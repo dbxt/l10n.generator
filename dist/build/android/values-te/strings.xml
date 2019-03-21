@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">అంగీకరించలేదు</string>
-
-
+<string name="ago">క్రితం</string>
+<string name="already_a_member">ఇప్పటికే ఒక సభ్యుడు</string>
 <string name="am">నేను</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">ఈ గ్రూపును మీరు కచ్చితంగా డిలీట్ చేయాలని అనుకుంటున్నారా?</string>
 <string name="are_you_sure_you_want_to_invite">మీరు కచ్చితంగా ఆహ్వానించాలని అనుకుంటున్నారా?</string>
 <string name="are_you_sure_you_want_to_leave_this_group">ఈ గ్రూపును విడిచిపెట్టాలని మీరు కచ్చితంగా అనుకుంటున్నారా?</string>
 <string name="are_you_sure_you_want_to_sign_out">మీరు ఖచ్చితంగా సైన్ అవుట్ చేయాలని అనుకుంటున్నారా?</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">ఈ గ్రూపుకు సందేశాన్ని పంపిన మొదటి వ్యక్తి కానుంది.</string>
-
-
 <string name="cancel">రద్దు</string>
-
-
-
-
-
 <string name="confirm_invitation">ఆహ్వానాన్ని ధృవీకరించు</string>
+<string name="confirm_logout">సైన్ అవుట్ ధృవీకరించండి</string>
 <string name="confirm_password">ధృవీకరణ పాస్ వర్డ్</string>
-
 <string name="contact_globechat">గ్లోబెచాట్ ను సంప్రదించండి</string>
-
+<string name="contact_sales">కాంటాక్ట్ సేల్స్</string>
 <string name="create_account">ఖాతాను సృష్టించండి</string>
 <string name="create_group">సమూహాన్ని సృష్టించు</string>
 <string name="create_new">కొత్త సృష్టించు</string>
 <string name="create_new_group">కొత్త సమూహాన్ని సృష్టించండి</string>
 <string name="create_new_personal_organization_group">కొత్త వ్యక్తిగత సంస్థ సమూహాన్ని సృష్టించండి</string>
 <string name="create_organization">సంస్థను సృష్టించండి</string>
-
-
-
-
-<string name="title_dashboard">డాష్ బోర్డ్</string>
+<string name="current_members">ప్రస్తుత సభ్యులు</string>
 <string name="decline">క్షీణత</string>
 <string name="delete">డిలీట్</string>
 <string name="delete_group">సమూహాన్ని తొలగించు</string>
 <string name="do_you_want_to_accept">మీరు అంగీకరించదలిచారా?</string>
-
-
+<string name="edit_group">సమూహాన్ని సంకలనం</string>
 <string name="enter_a_name_for_your_new_group">మీ కొత్త గ్రూపుకు ఒక పేరును నమోదు చేయండి</string>
 <string name="enter_a_name_for_your_new_organization">మీ కొత్త ఆర్గనైజేషన్ కొరకు ఒక పేరు ఎంటర్ చేయండి</string>
+<string name="enter_password_twice">దయచేసి మీ కొత్త పాస్ వర్డ్ ని రెండుసార్లు నమోదు చేయండి</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">మీరు సైన్ అప్ చేసిన ఇమెయిల్ ను నమోదు చేయండి లేదా మీరు సంతకం చేయాలని అనుకుంటున్న ఇమెయిల్ చిరునామా.</string>
+<string name="enter_valid_password">దయచేసి చెల్లుబాటు అయ్యే పాస్ వర్డ్ నమోదు చేయండి</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">గ్లోబెచాట్ కు సైన్ ఇన్ చేయడం కొరకు మీ పాస్ వర్డ్ నమోదు చేయండి.  ఒకవేళ ఇది మీరు లేదా వేరే యూజర్ గా సైన్ ఇన్ చేయాలని అనుకున్నట్లయితే</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">గ్లోబెచాట్ కు సైన్ ఇన్ చేయడం కొరకు మీ పాస్ వర్డ్ నమోదు చేయండి.  ఒకవేళ ఇది మీరు లేదా వేరే యూజర్ గా సైన్ ఇన్ చేయాలని అనుకున్నట్లయితే, ఇక్కడ తట్టండి.</string>
-
-
-
-
-
+<string name="failed_to_change_password">పాస్ వర్డ్ మార్చడం విఫలమైంది</string>
+<string name="failed_to_request_email_verification">ఇమెయిల్ వెరిఫికేషన్ అభ్యర్థన విఫలమైంది</string>
+<string name="failed_to_validate_password_reset_request">అనుమతిపద రీసెట్ అభ్యర్థన ప్రామాణీకరించడం విఫలమైంది</string>
+<string name="failed_to_verify_email">ఇమెయిల్ వెరిఫై చేయడం విఫలమైంది</string>
 <string name="filter_members">ఫిల్టర్ సభ్యులు</string>
-
 <string name="first_name">మొదటి పేరు</string>
-
-
 <string name="get_started">మొదలు పెట్టు</string>
-<string name="app_name"></string>
 <string name="globechat_users">గ్లోబెచాట్ యూజర్లు</string>
 <string name="great_no_one_has_signed_up_with">గొప్ప! తో ఎవరూ సంతకం చేయలేదు</string>
-
 <string name="group">గ్రూప్</string>
 <string name="group_members">బృంద సభ్యులు </string>
 <string name="group_name">సమూహం పేరు</string>
-
-
-
-
-<string name="title_home">ఇంటికి</string>
-
-
+<string name="if_forgot_password">మీరు మీ అనుమతిపదాన్ని మర్చిపోయినట్లయితే, అనుమతిపదం రీసెట్ అభ్యర్థన కోసం ఇక్కడ నొక్కండి.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">ఒకవేళ ఇది మీరు లేదా వేరే యూజర్ గా సైన్ ఇన్ చేయాలని అనుకున్నట్లయితే, ఇక్కడ తట్టండి.</string>
-
-
+<string name="if_you_forgot_your_password">మీరు మీ అనుమతిపదాన్ని మర్చిపోయినట్లయితే</string>
 <string name="in_personal_organization">పర్సనల్ ఆర్గనైజేషన్ లో</string>
-
 <string name="invalid_password">చెల్లని అనుమతిపదం</string>
 <string name="invalid_username_password">చెల్లని వినియోగదారు పేరు/అనుమతిపదం</string>
 <string name="invite_by_email">ఇమెయిల్ ద్వారా ఆహ్వానించండి</string>
 <string name="invite_members">సభ్యులను ఆహ్వానించు</string>
 <string name="invited_you_to_the_group">మిమ్మల్ని గ్రూపుకు ఆహ్వానించారు</string>
 <string name="invited_you_to_the_organization">మిమ్మల్ని సంస్థకు ఆహ్వానించారు</string>
-
-
 <string name="join_globechat">గ్లోబేచాట్ లో చేరండి!</string>
-
-
+<string name="langiage_zh-Hant">సాంప్రదాయ చైనీస్</string>
+<string name="language_af">ఆఫ్రికాన్స్</string>
+<string name="language_ar">అరబిక్</string>
+<string name="language_bg">బల్గేరియన్</string>
+<string name="language_bn">దూరదర్శన్</string>
+<string name="language_bs">బోస్నియన్</string>
+<string name="language_ca">కాటలాన్</string>
+<string name="language_cs">చెక్</string>
+<string name="language_cy">వెల్ష్</string>
+<string name="language_da">డానిష్</string>
+<string name="language_de">జర్మన్</string>
+<string name="language_el">గ్రీకు</string>
+<string name="language_en">ఇంగ్లీష్</string>
+<string name="language_es">స్పానిష్</string>
+<string name="language_et">ఎస్టోనియన్</string>
+<string name="language_fa">పర్షియన్</string>
+<string name="language_fi">ఫిన్నిష్</string>
+<string name="language_fil">ఫిలిపినో</string>
+<string name="language_fj">ఫిజియన్</string>
+<string name="language_fr">ఫ్రెంచ్</string>
+<string name="language_he">హిబ్రూ</string>
+<string name="language_hi">హిందీ</string>
+<string name="language_hr">క్రొయేషియన్</string>
+<string name="language_ht">హైతియన్ క్రియోల్</string>
+<string name="language_hu">హంగేరియన్</string>
+<string name="language_id">ఇండోనేషియన్</string>
+<string name="language_is">ఐస్‌లాండిక్</string>
+<string name="language_it">ఇటాలియన్</string>
+<string name="language_ja">జపనీస్</string>
+<string name="language_ko">కొరియన్</string>
+<string name="language_lt">లిథుయేనియన్</string>
+<string name="language_lv">లాత్వియన్</string>
+<string name="language_mg">మలక్</string>
+<string name="language_ms">మాలే</string>
+<string name="language_mt">మాల్టీస్</string>
+<string name="language_mww">హ్మాంగ్ దాయ్</string>
+<string name="language_nb">నార్వేజియన్</string>
+<string name="language_nl">డచ్</string>
+<string name="language_otq">క్వినేతరో ఓటోమి</string>
+<string name="language_pl">పోలిష్</string>
+<string name="language_pt">పోర్చుగీసు</string>
+<string name="language_ro">రొమేనియన్</string>
+<string name="language_ru">రష్యన్</string>
+<string name="language_sk">స్లోవాక్</string>
+<string name="language_sl">స్లోవేనియన్</string>
+<string name="language_sm">సమోసాలకు</string>
+<string name="language_sr-Cyrl">సెర్బియన్ (సిరిలిక్)</string>
+<string name="language_sr-Latn">సెర్బియన్ (లాటిన్)</string>
+<string name="language_sv">స్వీడిష్</string>
+<string name="language_sw">స్వాహిలి</string>
+<string name="language_ta">తమిళం</string>
+<string name="language_te">తెలుగు</string>
+<string name="language_th">థాయ్</string>
+<string name="language_tlh">క్లింగంపల్లి</string>
+<string name="language_to">టోగాన్</string>
+<string name="language_tr">టర్కిష్</string>
+<string name="language_ty">తాహిర్</string>
+<string name="language_uk">ఉక్రేనియన్</string>
+<string name="language_ur">ఉర్దూ</string>
+<string name="language_vi">వియత్నమీస్</string>
+<string name="language_yua">యుకైక్షణ మయ</string>
+<string name="language_yue">కాంటోనీస్</string>
+<string name="language_zh-Hans">సరళీకృత చైనీస్</string>
 <string name="last_name">చివరి పేరు</string>
-
 <string name="leave">వదిలి</string>
 <string name="leave_group">సమూహాన్ని వదలండి</string>
-
-
+<string name="loading">లోడింగ్</string>
 <string name="lobby">లాబీకి</string>
 <string name="location">లొకేషన్</string>
 <string name="log_in_to_globechat">గ్లోబేచాట్ లో లాగిన్ అవ్వండి!</string>
 <string name="log_in_to_globechat_">గ్లోబేచాట్ లో లాగిన్ అవ్వండి!</string>
+<string name="log_in_with_new_password">మీరు ఇంకా లాగిన్ చేయలేదు ఉంటే, మీరు ఇప్పుడు మీ కొత్త పాస్వర్డ్ను లాగిన్ చేయవచ్చు</string>
 <string name="login_failed">లాగిన్ విఫలమైంది</string>
 <string name="logout">లాగౌట్</string>
-
-
-
 <string name="manage_group">సమూహాన్ని నిర్వహించండి</string>
 <string name="manage_organization">సంస్థను నిర్వహించండి</string>
 <string name="members_in_">లో సభ్యులుగా</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">ఇంకా పోస్టులు లేవు.</string>
 <string name="no_results">ఎలాంటి ఫలితాలు</string>
 <string name="none">ఏదీ</string>
-
-<string name="title_notifications">నోటిఫికేషన్లు</string>
-
-
+<string name="ok">సరే</string>
+<string name="open">ఓపెన్</string>
+<string name="open_group">ఓపెన్ గ్రూప్</string>
 <string name="organization">సంస్థ</string>
 <string name="organization_members">సంస్థ సభ్యులు</string>
 <string name="organization_name">ఆర్గనైజేషన్ పేరు</string>
-
+<string name="original_message">అసలైన సందేశం</string>
 <string name="owner">యజమాని</string>
-
-
+<string name="password">పాస్ వర్డ్</string>
+<string name="password_set_failed">పాస్ వర్డ్ సెట్ చేయలేం!</string>
+<string name="password_updated">పాస్ వర్డ్ నవీకరించబడింది!</string>
 <string name="pending_group_invitations">పెండింగ్ గ్రూప్ ఆహ్వానాలు</string>
+<string name="pending_invitations">మీకు జవాబు లేని ఆహ్వానాలు!</string>
+<string name="pending_invitations_view_now">మీ కొరకు కొత్త ఆహ్వానాలు వేచి ఉన్నాయి.  మీరు ఇప్పుడు వాటిని వీక్షించాలని అనుకుంటున్నారా?</string>
 <string name="pending_organization_invitations">పెండింగ్ సంస్థకు ఆహ్వానాలు</string>
-
-
+<string name="personal_accounts_are_allowed">వ్యక్తిగత ఖాతాలకు 5 వినియోగదారులు ఉచితంగా అనుమతించారు. మరిన్ని వినియోగదారులతో చాట్ చేయడానికి మా ప్రీమియం సేవలపై సమాచారాన్ని అభ్యర్థించడానికి దిగువ బటన్ క్లిక్ చేయండి.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">కనీసం 8 క్యారెక్టర్ల పొడవు ఉన్న పాస్ వర్డ్ ని దయచేసి ఎంటర్ చేయండి.</string>
-
-
-
+<string name="please_try_again_later">దయచేసి తరువాత మళ్లీ ప్రయత్నించండి</string>
 <string name="pm">సీఎం</string>
-
-
 <string name="primary_language">ప్రాథమిక భాష</string>
 <string name="privacy_policy">గోప్యతా విధానం</string>
-
-
-
-
-
+<string name="reset_password">రీసెట్ పాస్వర్డ్</string>
+<string name="reset_password_for">కోసం అనుమతిపదాన్ని తిరిగి అమర్చు</string>
+<string name="resetting_password">అనుమతిపదం రీసెట్&#8230;</string>
 <string name="save">సేవ్</string>
 <string name="search_by_email_address">ఇమెయిల్ చిరునామా ద్వారా శోధన</string>
 <string name="search_by_name_or_email">పేరు లేదా ఇమెయిల్ ద్వారా శోధించండి</string>
 <string name="search_for_users">వినియోగదారుల కోసం శోధన</string>
 <string name="select_group_image">సమూహం చిత్తరువు ఎంచు</string>
-
 <string name="select_language">భాషను ఎంచు</string>
 <string name="select_languages">భాషలను ఎంచు</string>
 <string name="select_organization_image">సంస్థ చిత్తరువు ఎంచుకోండి</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">పైనున్న సూక్ష్మచిత్రంపై తట్టడం ద్వారా గ్రూపు ఇమేజ్ సెట్ చేయండి. ఒకవేళ మీరు ఒక ఇమేజ్ సెట్ చేయాలని అనుకున్నట్లయితే, ఈ దశను స్కిప్ చేయడం కొరకు మీరు సేవ్ బటన్ ని కొట్టవచ్చు.</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">పైనున్న సూక్ష్మచిత్రంపై తట్టడం ద్వారా ఆర్గనైజేషన్ ఇమేజ్ సెట్ చేయండి. ఒకవేళ మీరు ఒక ఇమేజ్ సెట్ చేయాలని అనుకున్నట్లయితే, ఈ దశను స్కిప్ చేయడం కొరకు మీరు సేవ్ బటన్ ని కొట్టవచ్చు.</string>
-
+<string name="set_password">అనుమతిపదం అమర్చు</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">మీ ప్రాథమిక భాషకు అనువదించవద్దు అనే భాషను అమర్చండి.</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">చాట్ సందేశాలను పంపడం మరియు అందుకోవడం కొరకు మీరు ఉపయోగించే భాషను సెట్ చేయండి.</string>
-
-
-
+<string name="show_original">అసలు చూపించు</string>
+<string name="show_translated">అనువదించి చూపించు</string>
+<string name="sign_out">సైన్ అవుట్</string>
+<string name="sign_up_more_info">మేము మీరు సైన్ అప్ చేయడానికి కొద్దిగా మరింత సమాచారం అవసరం!</string>
 <string name="skip">మాడుగుల</string>
-
-
-
-
-
-
-
 <string name="tap_here">ఇక్కడ నొక్కండి</string>
-
+<string name="tap_here_password_reset">పాస్ వర్డ్ రీసెట్ అభ్యర్థన కొరకు ఇక్కడ తట్టండి</string>
 <string name="terms_of_service">సేవా నిబంధనలు</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">రియల్ టైమ్ లో 60 + లాంగ్వేజెస్ లోకి అనువాదం చేసే మెసేజింగ్ యాప్.</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">60 కంటే ఎక్కువ భాషల్లో సందేశాలను తక్షణమే అనువాదం చేసే గ్లోబల్ మెసేజింగ్ యాప్</string>
+<string name="title_dashboard">డాష్ బోర్డ్</string>
+<string name="title_home">ఇంటికి</string>
+<string name="title_notifications">నోటిఫికేషన్లు</string>
 <string name="translated_from">నుండి అనువదించబడింది</string>
 <string name="translated_from_english">ఆంగ్లం నుండి అనువదించబడింది</string>
 <string name="translated_messaging">అనువదించిన మెసేజింగ్.</string>
-
-
 <string name="understood_languages">అర్థమైన భాషలు</string>
-
-
+<string name="validating_password_reset_request">అనుమతిపదం రీసెట్ అభ్యర్థనను ధ్రువీకరించడం</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">మేము మీరు సైన్ అప్ చేయడానికి కొద్దిగా మరింత సమాచారం అవసరం.</string>
 <string name="welcome_back">పునఃస్వాగతం</string>
-
 <string name="yes">అవును</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">అయినా!  మేము మీరు సైన్ అప్ చేయడానికి కొద్దిగా మరింత సమాచారం అవసరం!</string>
 <string name="you_have_been_invited_to_the_group">మీరు గ్రూపుకు ఆహ్వానించబడ్డారు</string>
 <string name="you_have_been_invited_to_the_organization">మీరు ఆర్గనైజేషన్ కు ఆహ్వానించబడ్డారు</string>
-
 <string name="your_email_address">మీ ఇమెయిల్ చిరునామాను</string>
 <string name="your_password">మీ అనుమతిపదం</string>
 
+
+<string name="password_reset_request_sent">పాస్ వర్డ్ రీసెట్ అభ్యర్థన పంపబడింది</string>
+<string name="failed_to_request_password_reset">పాస్వర్డ్ రీసెట్ అభ్యర్థన విఫలమైంది!</string>
+<string name="please_check_your_email_and_click_the_link">దయచేసి మీ ఇమెయిల్ చెక్ చేయండి మరియు లింక్ మీద క్లిక్ చేయండి.</string>
+<string name="requesting_password_reset">అనుమతిపదం రీసెట్ కోరుతోంది&#8230;</string>
+<string name="verify_email">ఇమెయిల్ ను నిర్ధారించుకుని</string>
+<string name="resend_verification">ధృవీకరణ తిరిగి పంపు</string>
+<string name="a_verification_email_was_sent_to_you">మీకు ఒక ధృవీకరణ ఇమెయిల్ పంపబడింది. గ్లోబెచాట్ కు తిరిగి వచ్చి మీ రిజిస్ట్రేషన్ ను పూర్తి చేయడానికి ఆ ఈమెయిల్ లోని లింక్ ను క్లిక్ చెయ్యండి.</string>
+<string name="requesting_email_verification">ఇమెయిల్ వెరిఫికేషన్ కోరుతోంది&#8230;</string>
 </resources>

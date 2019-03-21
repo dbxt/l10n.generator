@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">Pieņemt</string>
-
-
+<string name="ago">Pirms</string>
+<string name="already_a_member">Jau ir dalībvalsts</string>
 <string name="am">Am</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">Vai tiešām vēlaties izdzēst šo grupu?</string>
 <string name="are_you_sure_you_want_to_invite">Vai tiešām vēlaties uzaicināt</string>
 <string name="are_you_sure_you_want_to_leave_this_group">Vai tiešām vēlaties pamest šo grupu?</string>
 <string name="are_you_sure_you_want_to_sign_out">Vai tiešām vēlaties izrakstīties?</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">Esi pirmais, kas sūta ziņu šai grupai.</string>
-
-
 <string name="cancel">Atcelt</string>
-
-
-
-
-
 <string name="confirm_invitation">Apstiprināt uzaicinājumu</string>
+<string name="confirm_logout">Apstiprināt Izrakstīties</string>
 <string name="confirm_password">Apstipriniet paroli</string>
-
 <string name="contact_globechat">Kontakti GlobeChat</string>
-
+<string name="contact_sales">Sazināties ar Sales</string>
 <string name="create_account">Izveidot profilu</string>
 <string name="create_group">Izveidot grupu</string>
 <string name="create_new">Izveidot jaunu</string>
 <string name="create_new_group">Izveidot jaunu grupu</string>
 <string name="create_new_personal_organization_group">Izveidojiet jaunu personisko organizāciju grupu</string>
 <string name="create_organization">Izveidot organizāciju</string>
-
-
-
-
-<string name="title_dashboard">Paneļa</string>
+<string name="current_members">Pašreizējie dalībnieki</string>
 <string name="decline">Samazināt</string>
 <string name="delete">Dzēst</string>
 <string name="delete_group">Dzēst grupu</string>
 <string name="do_you_want_to_accept">Vai jūs vēlaties pieņemt?</string>
-
-
+<string name="edit_group">Rediģēt grupu</string>
 <string name="enter_a_name_for_your_new_group">Ievadiet jaunās grupas nosaukumu</string>
 <string name="enter_a_name_for_your_new_organization">Ievadiet jaunās organizācijas nosaukumu</string>
+<string name="enter_password_twice">Lūdzu, ievadiet jauno paroli divas reizes</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Ievadiet e-pasta adresi, ar kuru esat pierakstījies, vai e-pasta adresi, ar kuru vēlaties pieteikties.</string>
+<string name="enter_valid_password">Lūdzu, ievadiet derīgu paroli</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Ievadiet paroli, lai pierakstītos.  Ja tas nav jūs vai vēlaties pierakstīties kā cits lietotājs</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Ievadiet paroli, lai pierakstītos.  Ja tas nav jūs vai vēlaties pierakstīties kā cits lietotājs, pieskarieties šeit.</string>
-
-
-
-
-
+<string name="failed_to_change_password">Neizdevās nomainīt paroli!</string>
+<string name="failed_to_request_email_verification">Neizdevās pieprasīt e-pasta pārbaudi!</string>
+<string name="failed_to_validate_password_reset_request">Neizdevās validēt paroles atiestatīšanas pieprasījumu.</string>
+<string name="failed_to_verify_email">Neizdevās verificēt e-pastu.</string>
 <string name="filter_members">Filtrēt dalībniekus</string>
-
 <string name="first_name">Vārds</string>
-
-
 <string name="get_started">Sāc</string>
-<string name="app_name"></string>
 <string name="globechat_users">GlobeChat lietotāji</string>
 <string name="great_no_one_has_signed_up_with">Lieliski! Neviens nav pierakstījies</string>
-
 <string name="group">Grupa</string>
 <string name="group_members">Grupas dalībnieki</string>
 <string name="group_name">Grupas nosaukums</string>
-
-
-
-
-<string name="title_home">Mājas</string>
-
-
+<string name="if_forgot_password">Ja esat aizmirsis paroli, pieskarieties šeit, lai pieprasītu paroles atiestatīšanu.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Ja tas nav jūs vai vēlaties pierakstīties kā citam lietotājam, pieskarieties šeit.</string>
-
-
+<string name="if_you_forgot_your_password">Ja esat aizmirsis savu paroli</string>
 <string name="in_personal_organization">Personiskajā organizācijā</string>
-
 <string name="invalid_password">Nepareiza parole</string>
 <string name="invalid_username_password">Nepareizs lietotājvārds / parole</string>
 <string name="invite_by_email">Uzaicināt pa e-pastu</string>
 <string name="invite_members">Uzaicināt deputātus</string>
 <string name="invited_you_to_the_group">aicināja jūs uz grupu</string>
 <string name="invited_you_to_the_organization">uzaicinājis jūs uz organizāciju</string>
-
-
 <string name="join_globechat">Pievienojies GlobeChat!</string>
-
-
+<string name="langiage_zh-Hant">Ķīniešu tradicionālā</string>
+<string name="language_af">Afrikandu</string>
+<string name="language_ar">Arābu valoda</string>
+<string name="language_bg">Bulgāru valoda</string>
+<string name="language_bn">Bangla</string>
+<string name="language_bs">Bosniešu</string>
+<string name="language_ca">Katalāņu valoda</string>
+<string name="language_cs">Čehu valoda</string>
+<string name="language_cy">Velsiešu valoda</string>
+<string name="language_da">Dāņu valoda</string>
+<string name="language_de">Vācu valoda</string>
+<string name="language_el">Grieķu valoda</string>
+<string name="language_en">Angļu</string>
+<string name="language_es">Spāņu valoda</string>
+<string name="language_et">Igauņu valoda</string>
+<string name="language_fa">Persiešu valoda</string>
+<string name="language_fi">Somu valoda</string>
+<string name="language_fil">Filipīniešu valoda</string>
+<string name="language_fj">Fidži</string>
+<string name="language_fr">Franču valoda</string>
+<string name="language_he">Ivrits</string>
+<string name="language_hi">Hindi</string>
+<string name="language_hr">Horvātu</string>
+<string name="language_ht">Haiti krelole</string>
+<string name="language_hu">Ungāru valoda</string>
+<string name="language_id">Indonēziešu valoda</string>
+<string name="language_is">Islandiešu valoda</string>
+<string name="language_it">Itāļu valoda</string>
+<string name="language_ja">Japāņu valodā</string>
+<string name="language_ko">Korejiešu valoda</string>
+<string name="language_lt">Lietuviešu valoda</string>
+<string name="language_lv">Latviešu</string>
+<string name="language_mg">Madagaskī</string>
+<string name="language_ms">Malajiešu valoda</string>
+<string name="language_mt">Maltiešu</string>
+<string name="language_mww">Hmong Daw</string>
+<string name="language_nb">Norvēģu valodā</string>
+<string name="language_nl">Holandiešu valodā</string>
+<string name="language_otq">Queretaro Otomi</string>
+<string name="language_pl">Poļu valoda</string>
+<string name="language_pt">Portugāļu valoda</string>
+<string name="language_ro">Rumāņu valoda</string>
+<string name="language_ru">Krievu valoda</string>
+<string name="language_sk">Slovāku valoda</string>
+<string name="language_sl">Slovēņu valoda</string>
+<string name="language_sm">Samoa</string>
+<string name="language_sr-Cyrl">Serbu (kirilicas)</string>
+<string name="language_sr-Latn">Serbu (latīņu)</string>
+<string name="language_sv">Zviedru</string>
+<string name="language_sw">Svahilu</string>
+<string name="language_ta">Tamils</string>
+<string name="language_te">Telugu</string>
+<string name="language_th">Taju</string>
+<string name="language_tlh">Klingons</string>
+<string name="language_to">Tonga</string>
+<string name="language_tr">Turku</string>
+<string name="language_ty">Tahitian</string>
+<string name="language_uk">Ukraiņu valodā</string>
+<string name="language_ur">Urdu</string>
+<string name="language_vi">Vjetnamiešu</string>
+<string name="language_yua">Yucatec Maya</string>
+<string name="language_yue">Kantonas</string>
+<string name="language_zh-Hans">Ķīniešu vienkāršotā</string>
 <string name="last_name">Uzvārds</string>
-
 <string name="leave">Atstājiet</string>
 <string name="leave_group">Atvaļinājumu grupa</string>
-
-
+<string name="loading">Iekraušanas</string>
 <string name="lobby">Vestibilā</string>
 <string name="location">Atrašanās vieta</string>
 <string name="log_in_to_globechat">Piesakieties GlobeChat</string>
 <string name="log_in_to_globechat_">Piesakieties GlobeChat</string>
+<string name="log_in_with_new_password">Ja vēl neesat pieteicies, varat pieteikties ar savu jauno paroli</string>
 <string name="login_failed">Pieslēgšanās neizdevās</string>
 <string name="logout">Izlogoties</string>
-
-
-
 <string name="manage_group">Pārvaldīt grupas</string>
 <string name="manage_organization">Pārvaldīt organizācijas</string>
 <string name="members_in_">Deputāti</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">Vēl nav nevienas ziņas.</string>
 <string name="no_results">Nav rezultātu</string>
 <string name="none">Nav</string>
-
-<string name="title_notifications">Paziņojumus</string>
-
-
+<string name="ok">labi</string>
+<string name="open">Atvērt</string>
+<string name="open_group">Atvērt grupu</string>
 <string name="organization">Organizācija</string>
 <string name="organization_members">Organizācijas dalībnieki</string>
 <string name="organization_name">Organizācijas nosaukums</string>
-
+<string name="original_message">Sākotnējais ziņojums</string>
 <string name="owner">Īpašnieks</string>
-
-
+<string name="password">Paroli</string>
+<string name="password_set_failed">Nevar iestatīt paroli!</string>
+<string name="password_updated">Parole atjaunota!</string>
 <string name="pending_group_invitations">Gaidoši grupas ielūgumi</string>
+<string name="pending_invitations">Jums ir neatbildēti ielūgumi!</string>
+<string name="pending_invitations_view_now">Ir jauni ielūgumi gaida jūs.  Vai vēlaties tās apskatīt tūlīt?</string>
 <string name="pending_organization_invitations">Organizācijas ielūgumi, kas gaida organizāciju</string>
-
-
+<string name="personal_accounts_are_allowed">Personiskie konti ir atļauti bez maksas 5 lietotājiem. Noklikšķiniet uz šīs pogas, lai pieprasītu informāciju par mūsu augstākās klases pakalpojumiem, lai tērzētu ar vairāk lietotājiem.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Lūdzu, ievadiet paroli, kuras garums ir vismaz 8 rakstzīmes.</string>
-
-
-
+<string name="please_try_again_later">Vēlāk, lūdzu, mēģiniet vēlreiz</string>
 <string name="pm">Pm</string>
-
-
 <string name="primary_language">Dzimtā valoda</string>
 <string name="privacy_policy">Privātuma politika</string>
-
-
-
-
-
+<string name="reset_password">Atiestatīt paroli</string>
+<string name="reset_password_for">Atiestatīt paroli</string>
+<string name="resetting_password">Tiek atiestatot paroli&#8230;</string>
 <string name="save">Saglabāt</string>
 <string name="search_by_email_address">Meklēt pēc e-pasta adreses</string>
 <string name="search_by_name_or_email">Meklēt pēc vārda vai e-pasta</string>
 <string name="search_for_users">Meklēt lietotājus</string>
 <string name="select_group_image">Select Group Image</string>
-
 <string name="select_language">Izvēlēties valodu</string>
 <string name="select_languages">Izvēlēties valodu</string>
 <string name="select_organization_image">Atlasiet organizācijas tēlu</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Iestatiet grupas attēlu, pieskaroties augstāk norādītajai ikonai. Ja nevēlaties iestatīt attēlu, varat hit pogu Saglabāt, lai izlaistu šo darbību.</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Lai uzstādītu organizācijas attēlu, pieskarieties augstāk norādītajai ikonai. Ja nevēlaties iestatīt attēlu, varat hit pogu Saglabāt, lai izlaistu šo darbību.</string>
-
+<string name="set_password">Iestatīt paroli</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Iestatiet valodu, kuru nevēlaties tulkot savā galvenajā valodā.</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Iestatiet valodu, kuru izmantosit tērzēšanas ziņu sūtīšanai un saņemšanai.</string>
-
-
-
+<string name="show_original">Rādīt oriģinālu</string>
+<string name="show_translated">Rādīt tulkoto</string>
+<string name="sign_out">IzRakstīties</string>
+<string name="sign_up_more_info">Mums vienkārši vajag nedaudz vairāk info parakstīt jums up!</string>
 <string name="skip">Izlaist</string>
-
-
-
-
-
-
-
 <string name="tap_here">pieskarieties šeit</string>
-
+<string name="tap_here_password_reset">Pieskarieties šeit, lai pieprasītu paroles atiestatīšanas</string>
 <string name="terms_of_service">Pakalpojumu sniegšanas noteikumi</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Ziņojumapmaiņas lietotne, kas reāllaikā pārveido vairāk nekā 60 valodās.</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Globālā ziņojumapmaiņas App, kas uzreiz tulko ziņojumus vairāk nekā 60 valodās</string>
+<string name="title_dashboard">Paneļa</string>
+<string name="title_home">Mājas</string>
+<string name="title_notifications">Paziņojumus</string>
 <string name="translated_from">Tulkots no angļu valodas</string>
 <string name="translated_from_english">Tulkots no</string>
 <string name="translated_messaging">Pārveidota ziņapmaiņa.</string>
-
-
 <string name="understood_languages">Izprot valodas</string>
-
-
+<string name="validating_password_reset_request">Validējot paroles atiestatīšanas pieprasījumu</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">Mums vienkārši vajag nedaudz vairāk informācijas, lai jūs parakstītu.</string>
 <string name="welcome_back">Esiet sveicināti</string>
-
 <string name="yes">jā</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">Vēl!  Mums vienkārši vajag nedaudz vairāk info parakstīt jums up!</string>
 <string name="you_have_been_invited_to_the_group">Jūs esat uzaicināts uz grupu</string>
 <string name="you_have_been_invited_to_the_organization">Jūs esat uzaicināts uz organizāciju</string>
-
 <string name="your_email_address">Tava epasta adrese</string>
 <string name="your_password">Tava parole</string>
 
+
+<string name="password_reset_request_sent">Paroles atiestatīšanas pieprasījums nosūtīts!</string>
+<string name="failed_to_request_password_reset">Neizdevās pieprasīt paroles atiestatīšanu!</string>
+<string name="please_check_your_email_and_click_the_link">Lūdzu, pārbaudiet savu e-pastu un noklikšķiniet uz saites.</string>
+<string name="requesting_password_reset">Tiek pieprasīts atiestatīt paroli&#8230;</string>
+<string name="verify_email">Verificēt e-pastu</string>
+<string name="resend_verification">Atkārtoti nosūtīt verificēšanu</string>
+<string name="a_verification_email_was_sent_to_you">Jums tika nosūtīta verifikācijas e-pasta adrese. Lūdzu, noklikšķiniet uz saites, ka e-pastu, lai atgrieztos GlobeChat un pabeigt savu reģistrāciju.</string>
+<string name="requesting_email_verification">Pieprasa e-pasta pārbaudi&#8230;</string>
 </resources>

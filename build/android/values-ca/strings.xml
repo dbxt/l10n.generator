@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">Accepta</string>
-
-
+<string name="ago">fa</string>
+<string name="already_a_member">Ja un membre</string>
 <string name="am">matÌ</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">Esteu segur que voleu suprimir aquest grup?</string>
 <string name="are_you_sure_you_want_to_invite">Esteu segur que voleu convidar</string>
 <string name="are_you_sure_you_want_to_leave_this_group">Esteu segur que voleu deixar aquest grup?</string>
 <string name="are_you_sure_you_want_to_sign_out">Esteu segur que voleu tancar la sessió?</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">Sigues la primera persona en enviar un missatge a aquest grup</string>
-
-
 <string name="cancel">Cancel·la</string>
-
-
-
-
-
 <string name="confirm_invitation">Confirmar la invitació</string>
+<string name="confirm_logout">Confirmar tanca la sessió</string>
 <string name="confirm_password">Confirmar contrasenya</string>
-
 <string name="contact_globechat">Contactar amb GlobeChat</string>
-
+<string name="contact_sales">Vendes contactes</string>
 <string name="create_account">Crear compte</string>
 <string name="create_group">Crea un grup</string>
 <string name="create_new">Nom del grup</string>
 <string name="create_new_group">Crea un grup nou</string>
 <string name="create_new_personal_organization_group">Crea un nou grup d\'organitzaciÛ personal</string>
 <string name="create_organization">Crear l\'organització</string>
-
-
-
-
-<string name="title_dashboard">Quadre de comandament</string>
+<string name="current_members">Membres actuals</string>
 <string name="decline">DisminuciÛ</string>
 <string name="delete">Suprimir</string>
 <string name="delete_group">Suprimeix el grup</string>
 <string name="do_you_want_to_accept">Voleu acceptar?</string>
-
-
+<string name="edit_group">Edita grup</string>
 <string name="enter_a_name_for_your_new_group">IntroduÔu un nom per al nou grup</string>
 <string name="enter_a_name_for_your_new_organization">IntroduÔu un nom per a la vostra nova organitzaciÛ</string>
+<string name="enter_password_twice">Introduïu la nova contrasenya dues vegades</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">IntroduÔu el correu electrÚnic amb el qual us heu inscrit o l\'adreÁa de correu electrÚnic amb la qual voleu inscriure\'s</string>
+<string name="enter_valid_password">Si us plau, introduïu una contrasenya vàlida</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">IntroduÔu la vostra contrasenya per iniciar la sessiÛ.  Si aixÚ no Ès vostË o si voleu iniciar la sessiÛ com un altre usuari, premeu aquÌ</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">IntroduÔu la vostra contrasenya per iniciar la sessiÛ.  Si aixÚ no Ès vostË o si voleu iniciar la sessiÛ com un altre usuari</string>
-
-
-
-
-
+<string name="failed_to_change_password">Fracassat per canviar la contrasenya!</string>
+<string name="failed_to_request_email_verification">No ha pogut sol·licitar la verificació del correu electrònic!</string>
+<string name="failed_to_validate_password_reset_request">Fracassava a validar la petició de reinicialització de contrasenya</string>
+<string name="failed_to_verify_email">No ha pogut verificar e-mail!</string>
 <string name="filter_members">Filtre membres</string>
-
 <string name="first_name">Nom</string>
-
-
 <string name="get_started">ComenÁar</string>
-<string name="app_name"></string>
 <string name="globechat_users">Usuaris GlobeChat</string>
 <string name="great_no_one_has_signed_up_with">Genial Ning˙ no s\'ha registrat</string>
-
 <string name="group">Grup</string>
 <string name="group_members">Membres del grup </string>
 <string name="group_name">Nom del grup</string>
-
-
-
-
-<string name="title_home">Casa</string>
-
-
+<string name="if_forgot_password">Si heu oblidat la contrasenya, premeu aquí per demanar una reinicialització de contrasenya.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Si aixÚ no Ès o voleu iniciar sessiÛ com a usuari diferent, toqueu aquÌ</string>
-
-
+<string name="if_you_forgot_your_password">Si heu oblidat la contrasenya</string>
 <string name="in_personal_organization">En organitzaciÛ personal</string>
-
 <string name="invalid_password">Contrasenya inv‡lida</string>
 <string name="invalid_username_password">Nom d\'usuari / contrasenya no v‡lid</string>
 <string name="invite_by_email">Convidar per correu electrònic</string>
 <string name="invite_members">Convidaran</string>
 <string name="invited_you_to_the_group">us va convidar al grup</string>
 <string name="invited_you_to_the_organization">convidat a l\'organització</string>
-
-
 <string name="join_globechat">Uneix-te a GlobeChat</string>
-
-
+<string name="langiage_zh-Hant">XinËs tradicional</string>
+<string name="language_af">Afrikaans</string>
+<string name="language_ar">¿rab</string>
+<string name="language_bg">B˙lgar</string>
+<string name="language_bn">Bangla</string>
+<string name="language_bs">Bosnio</string>
+<string name="language_ca">Catal‡</string>
+<string name="language_cs">Txec</string>
+<string name="language_cy">Gal∑lËs</string>
+<string name="language_da">DanËs</string>
+<string name="language_de">Alemany</string>
+<string name="language_el">Grec</string>
+<string name="language_en">AnglËs</string>
+<string name="language_es">Espanyol</string>
+<string name="language_et">Estoni‡</string>
+<string name="language_fa">Persa</string>
+<string name="language_fi">FinlandËs</string>
+<string name="language_fil">FilipÌ</string>
+<string name="language_fj">Fiji‡</string>
+<string name="language_fr">FrancËs</string>
+<string name="language_he">Hebreu</string>
+<string name="language_hi">Hindi</string>
+<string name="language_hr">Croat</string>
+<string name="language_ht">Crioll haitiano</string>
+<string name="language_hu">HongarËs</string>
+<string name="language_id">Indonesi</string>
+<string name="language_is">islandËs</string>
+<string name="language_it">Itali‡</string>
+<string name="language_ja">JaponËs</string>
+<string name="language_ko">Core‡</string>
+<string name="language_lt">Litu‡</string>
+<string name="language_lv">LetÛ</string>
+<string name="language_mg">Malgache</string>
+<string name="language_ms">Malai</string>
+<string name="language_mt">MaltËs</string>
+<string name="language_mww">»tnia hmong que Daw</string>
+<string name="language_nb">Noruec</string>
+<string name="language_nl">HolandËs</string>
+<string name="language_otq">Queretaro otomÌ</string>
+<string name="language_pl">PolonËs</string>
+<string name="language_pt">PortuguËs</string>
+<string name="language_ro">RomanËs</string>
+<string name="language_ru">Rus</string>
+<string name="language_sk">Eslovac</string>
+<string name="language_sl">EslovË</string>
+<string name="language_sm">Samo‡</string>
+<string name="language_sr-Cyrl">Serbi (cirÌl∑lic)</string>
+<string name="language_sr-Latn">Serbi (llatÌ)</string>
+<string name="language_sv">Suec</string>
+<string name="language_sw">Suahili</string>
+<string name="language_ta">Tamil</string>
+<string name="language_te">Telugu</string>
+<string name="language_th">TailandËs</string>
+<string name="language_tlh">Klingon</string>
+<string name="language_to">Tongan</string>
+<string name="language_tr">Turc</string>
+<string name="language_ty">TahitÌ</string>
+<string name="language_uk">UcraÔnËs</string>
+<string name="language_ur">Urd</string>
+<string name="language_vi">Vietnamita</string>
+<string name="language_yua">Yucatec Maya</string>
+<string name="language_yue">CantonËs</string>
+<string name="language_zh-Hans">XinËs simplificat</string>
 <string name="last_name">Cognom</string>
-
 <string name="leave">Deixar</string>
 <string name="leave_group">Deixa el grup</string>
-
-
+<string name="loading">Càrrega</string>
 <string name="lobby">VestÌbul</string>
 <string name="location">UbicaciÛ</string>
 <string name="log_in_to_globechat">Inicieu la sessiÛ a GlobeChat</string>
 <string name="log_in_to_globechat_">Inicieu la sessiÛ a GlobeChat</string>
+<string name="log_in_with_new_password">Si vostè encara no han iniciat encara, vostè pot ara accedir amb la contrasenya nova</string>
 <string name="login_failed">Error a l\'iniciar sessiÛ</string>
 <string name="logout">Tancar sessiÛ</string>
-
-
-
 <string name="manage_group">Gestionar el grup</string>
 <string name="manage_organization">Gestionar l\'organitzaciÛ</string>
 <string name="members_in_">Membres en</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">Encara no hi ha publicacions</string>
 <string name="no_results">Sense resultats</string>
 <string name="none">Cap</string>
-
-<string name="title_notifications">Notificacions</string>
-
-
+<string name="ok">Correcte</string>
+<string name="open">Obert</string>
+<string name="open_group">Grup obert</string>
 <string name="organization">organitzaciÛ</string>
 <string name="organization_members">Membres de l\'organitzaciÛ</string>
 <string name="organization_name">Nom de l\'organitzaciÛ</string>
-
+<string name="original_message">Missatge original</string>
 <string name="owner">Propietari</string>
-
-
+<string name="password">Contrasenya</string>
+<string name="password_set_failed">No es pot posar contrasenya!</string>
+<string name="password_updated">Contrasenya actualitzat!</string>
 <string name="pending_group_invitations">Grup pendent invitacions</string>
+<string name="pending_invitations">Tenen sense resposta invitacions!</string>
+<string name="pending_invitations_view_now">Hi ha noves invitacions esperant.  Voleu visualitzar-los ara?</string>
 <string name="pending_organization_invitations">Invitacions d\'organitzaciÛ pendents</string>
-
-
+<string name="personal_accounts_are_allowed">Comptes personals pigall 5 usuaris de franc. Feu clic al botó de sota per demanar informació sobre els nostres serveis premium per xerrar amb més usuaris.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">IntroduÔu una contrasenya de 8 car‡cters com a mÌnim</string>
-
-
-
+<string name="please_try_again_later">Intenteu-ho més tard</string>
 <string name="pm">nit</string>
-
-
 <string name="primary_language">Idioma principal</string>
 <string name="privacy_policy">PolÌtica de privacitat</string>
-
-
-
-
-
+<string name="reset_password">Restablir contrasenya</string>
+<string name="reset_password_for">La contrasenya</string>
+<string name="resetting_password">Restablir la contrasenya&#8230;</string>
 <string name="save">Desa</string>
 <string name="search_by_email_address">Cerca per adreça d\'e-mail</string>
 <string name="search_by_name_or_email">Cerca per nom o e-mail</string>
 <string name="search_for_users">Cerca usuaris</string>
 <string name="select_group_image">Seleccioneu grup imatge</string>
-
 <string name="select_language">Escolliu l\'idioma</string>
 <string name="select_languages">Selecciona idiomes</string>
 <string name="select_organization_image">Selecciona la imatge de l\'organitzaciÛ</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Imatge de grup conjunt donant copets la icona. Si no voleu posar una imatge, pot colpir el salvar botÛ per saltar aquest pas</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Posar imatge organitzaciÛ donant copets la icona. Si no voleu posar una imatge, pot colpir el salvar botÛ per saltar aquest pas</string>
-
+<string name="set_password">Conjunt de contrasenya</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Estableix l\'idioma que no vols traduir al vostre idioma principal</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Estableix l\'idioma que utilitzareu per enviar i rebre missatges de xat</string>
-
-
-
+<string name="show_original">Mostra l\'Original</string>
+<string name="show_translated">Mostra el traduït</string>
+<string name="sign_out">Tanca la sessió</string>
+<string name="sign_up_more_info">Només necessitem una mica més d\'informació per registrar-vos.</string>
 <string name="skip">Omet</string>
-
-
-
-
-
-
-
 <string name="tap_here">premeu aquÌ</string>
-
+<string name="tap_here_password_reset">Premeu aquí per demanar una reinicialització de contrasenya</string>
 <string name="terms_of_service">Condicions del servei</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">L\'aplicaciÛ de missatgeria que es tradueix en 60 idiomes mÈs en temps real</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">L\'app de missatgeria global que tradueix instantàniament missatges en més de 60 idiomes</string>
+<string name="title_dashboard">Quadre de comandament</string>
+<string name="title_home">Casa</string>
+<string name="title_notifications">Notificacions</string>
 <string name="translated_from">TraduÔt de</string>
 <string name="translated_from_english">TraduÔt de l\'anglËs</string>
 <string name="translated_messaging">Missatgeria traduÔda</string>
-
-
 <string name="understood_languages">Lleng¸es enteses</string>
-
-
+<string name="validating_password_reset_request">Petició de reinicialització de contrasenya de validació</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">NomÈs necessitem una mica mÈs d\'informaciÛ per registrar-vos</string>
 <string name="welcome_back">Benvingut de nou</string>
-
 <string name="yes">SÌ</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">encara!  Només necessitem una mica més informació signar!</string>
 <string name="you_have_been_invited_to_the_group">Vostè ha estat convidat al grup</string>
 <string name="you_have_been_invited_to_the_organization">Has estat convidat a l\'organitzaciÛ</string>
-
 <string name="your_email_address">la teva adreÁa de correu electrÚnic</string>
 <string name="your_password">La teva contrasenya</string>
 
+
+<string name="password_reset_request_sent">Enviar petició de reinicialització de contrasenya!</string>
+<string name="failed_to_request_password_reset">No ha pogut sol·licitar la reinicialització de contrasenya!</string>
+<string name="please_check_your_email_and_click_the_link">Si us plau revisa el teu email i faci clic l\'enllaç.</string>
+<string name="requesting_password_reset">Que demana reinicialització de la contrasenya&#8230;</string>
+<string name="verify_email">Verificar E-mail</string>
+<string name="resend_verification">Enviar la verificació</string>
+<string name="a_verification_email_was_sent_to_you">Un correu electrònic de verificació va ser enviat a vostè. Feu clic a l\'enllaç del missatge per tornar a GlobeChat i completar el teu registre.</string>
+<string name="requesting_email_verification">Sol·licitar la verificació del correu electrònic&#8230;</string>
 </resources>

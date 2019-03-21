@@ -1,7 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df0f95c5-f093-45b4-b299-ab91051e6ca6" name="Default Changelist" comment="" />
+    <list default="true" id="df0f95c5-f093-45b4-b299-ab91051e6ca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/l10n-generator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/l10n-generator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-af/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-af/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ar/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-ar/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-bg/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-bg/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-bn/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-bn/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-bs/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-bs/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ca/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-ca/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-cs/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-cs/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-cy/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-cy/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-da /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-de/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-de/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-el/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-el/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-es /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-et/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-et/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-fa/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-fa/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-fi/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-fi/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-fil /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-fj/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-fj/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-fr /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-he /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-hi /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-hr/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-hr/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ht/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-ht/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-hu /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-id/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-id/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-is/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-is/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-it /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ja /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ko /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-lt/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-lt/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-lv/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-lv/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-mg/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-mg/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ms/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-ms/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-mt/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-mt/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-mww/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-mww/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-nb/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-nb/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-nl/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-nl/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-otq/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-otq/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-pl /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-pt/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-pt/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ro /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ru /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-sk /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-sl /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-sm/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-sm/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-sr-Cyrl/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-sr-Cyrl/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-sr-Latn/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-sr-Latn/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-sv/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-sv/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-sw/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-sw/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ta/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-ta/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-te/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-te/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-th/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-th/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-to /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-tr/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-tr/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ty/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-ty/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-uk /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-ur /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-vi /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-yua/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-yua/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-yue/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-yue/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-zh-Hans/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-zh-Hans/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/android/values-zh-Hant/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/android/values-zh-Hant/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/af.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/af.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ar.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ar.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/bg.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/bg.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/bn.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/bn.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/bs.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/bs.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ca.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ca.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/cs.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/cs.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/cy.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/cy.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/da.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/da.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/de.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/de.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/el.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/el.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/es.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/es.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/et.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/et.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/fa.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/fa.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/fi.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/fi.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/fil.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/fil.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/fj.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/fj.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/fr.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/fr.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/he.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/he.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/hi.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/hi.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/hr.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/hr.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ht.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ht.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/hu.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/hu.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/id.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/id.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/is.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/is.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/it.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/it.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ja.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ja.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ko.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ko.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/lt.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/lt.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/lv.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/lv.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/mg.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/mg.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ms.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ms.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/mt.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/mt.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/mww.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/mww.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/nb.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/nb.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/nl.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/nl.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/otq.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/otq.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/pl.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/pl.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/pt.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/pt.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ro.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ro.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ru.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ru.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/sk.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/sk.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/sl.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/sl.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/sm.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/sm.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/sr-Cyrl.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/sr-Cyrl.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/sr-Latn.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/sr-Latn.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/sv.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/sv.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/sw.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/sw.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ta.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ta.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/te.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/te.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/th.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/th.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/to.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/to.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/tr.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/tr.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ty.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ty.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/uk.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/uk.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/ur.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/ur.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/vi.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/vi.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/yua.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/yua.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/yue.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/yue.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/zh-Hans.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/zh-Hans.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/ios/zh-Hant.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../build/ios/zh-Hant.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-af/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-af/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ar/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-ar/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-bg/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-bg/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-bn/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-bn/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-bs/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-bs/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ca/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-ca/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-cs/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-cs/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-cy/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-cy/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-da /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-de/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-de/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-el/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-el/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-es /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-et/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-et/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-fa/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-fa/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-fi/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-fi/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-fil /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-fj/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-fj/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-fr /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-he /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-hi /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-hr/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-hr/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ht/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-ht/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-hu /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-id/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-id/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-is/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-is/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-it /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ja /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ko /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-lt/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-lt/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-lv/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-lv/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-mg/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-mg/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ms/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-ms/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-mt/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-mt/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-mww/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-mww/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-nb/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-nb/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-nl/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-nl/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-otq/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-otq/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-pl /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-pt/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-pt/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ro /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ru /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-sk /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-sl /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-sm/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-sm/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-sr-Cyrl/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-sr-Cyrl/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-sr-Latn/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-sr-Latn/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-sv/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-sv/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-sw/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-sw/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ta/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-ta/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-te/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-te/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-th/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-th/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-to /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-tr/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-tr/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ty/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-ty/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-uk /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-ur /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-vi /strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-yua/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-yua/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-yue/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-yue/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-zh-Hans/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-zh-Hans/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/android/values-zh-Hant/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/android/values-zh-Hant/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/af.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/af.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ar.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ar.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/bg.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/bg.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/bn.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/bn.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/bs.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/bs.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ca.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ca.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/cs.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/cs.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/cy.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/cy.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/da.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/da.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/de.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/de.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/el.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/el.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/es.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/es.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/et.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/et.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/fa.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/fa.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/fi.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/fi.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/fil.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/fil.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/fj.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/fj.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/fr.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/fr.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/he.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/he.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/hi.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/hi.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/hr.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/hr.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ht.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ht.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/hu.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/hu.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/id.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/id.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/is.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/is.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/it.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/it.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ja.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ja.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ko.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ko.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/lt.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/lt.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/lv.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/lv.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/mg.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/mg.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ms.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ms.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/mt.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/mt.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/mww.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/mww.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/nb.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/nb.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/nl.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/nl.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/otq.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/otq.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/pl.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/pl.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/pt.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/pt.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ro.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ro.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ru.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ru.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/sk.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/sk.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/sl.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/sl.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/sm.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/sm.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/sr-Cyrl.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/sr-Cyrl.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/sr-Latn.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/sr-Latn.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/sv.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/sv.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/sw.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/sw.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ta.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ta.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/te.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/te.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/th.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/th.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/to.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/to.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/tr.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/tr.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ty.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ty.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/uk.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/uk.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/ur.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/ur.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/vi.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/vi.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/yua.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/yua.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/yue.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/yue.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/zh-Hans.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/zh-Hans.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/build/ios/zh-Hant.lproj/Localizable.strings" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/build/ios/zh-Hant.lproj/Localizable.strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,33 +269,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
+        <entry file="file://$PROJECT_DIR$/../index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="542">
+              <caret line="499" column="57" selection-start-line="499" selection-start-column="57" selection-end-line="499" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/ios/bn.lproj/Localizable.strings">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/android/values-bg/strings.xml">
+        <entry file="file://$PROJECT_DIR$/../build/android/values-ms/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+            <state relative-caret-position="200">
+              <caret line="181" column="84" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build/ios/af.lproj/Localizable.strings">
+        <entry file="file://$PROJECT_DIR$/../build/ios/ms.lproj/Localizable.strings">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="275">
+              <caret line="184" column="65" selection-start-line="184" selection-start-column="65" selection-end-line="184" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../validator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../node_modules/localize-spreadsheet-bot/core/Line.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-465" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../node_modules/localize-spreadsheet-bot/core/Writer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-495" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../node_modules/localize-spreadsheet-bot/core/Transformer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-480">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../validator.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="297" column="9" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -62,13 +362,19 @@
       <find>ios</find>
       <find>build/</find>
       <find>&quot;build/</find>
+      <find>/strings</find>
+      <find>Set languages you do not want translated to your primary</find>
     </findStrings>
     <replaceStrings>
       <replace>.</replace>
       <replace>transformer.save(&quot;build/ios/</replace>
       <replace>android</replace>
       <replace>&quot;build/android/</replace>
+      <replace>/strings</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -76,13 +382,19 @@
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/../.gitignore" />
+        <option value="$PROJECT_DIR$/../build/android/values-af/strings.xml" />
+        <option value="$PROJECT_DIR$/../validator.js" />
+        <option value="$PROJECT_DIR$/../package.json" />
+        <option value="$PROJECT_DIR$/../index.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3839" />
+    <option name="x" value="-1" />
+    <option name="y" value="1080" />
     <option name="width" value="1922" />
-    <option name="height" value="1081" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -94,26 +406,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="l10n-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="l10n-generator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="l10n-generator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="l10n-generator" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="l10n-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="l10n-generator" type="462c0819:PsiDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="l10n-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="l10n-generator" type="462c0819:PsiDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
               <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="af.lproj" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,11 +428,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="11.10.0" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -158,21 +464,24 @@
       <updated>1551578112882</updated>
       <workItem from="1551578116014" duration="2659000" />
       <workItem from="1551587927887" duration="13737000" />
+      <workItem from="1552025492351" duration="6388000" />
+      <workItem from="1552069118773" duration="8526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16396000" />
+    <option name="totallyTimeSpent" value="31310000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3839" y="0" width="1922" height="1081" extended-state="6" />
+    <frame x="-1" y="1080" width="1922" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -180,7 +489,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33903742" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -191,101 +500,162 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/af.lproj/Localizable.strings">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nl.lproj/Localizable.strings">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fr.lproj/Localizable.strings">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.../path-types.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ar.lproj/Localizable.strings">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/fr.lproj/Localizable.strings">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/localize-spreadsheet-bot/index.js">
+    <entry file="file://$PROJECT_DIR$/af.lproj/Localizable.strings" />
+    <entry file="file://$PROJECT_DIR$/nl.lproj/Localizable.strings" />
+    <entry file="file://$PROJECT_DIR$/fr.lproj/Localizable.strings" />
+    <entry file="file://$PROJECT_DIR$/../../l10n-generator./path-types.js" />
+    <entry file="file://$PROJECT_DIR$/ar.lproj/Localizable.strings" />
+    <entry file="file://$PROJECT_DIR$/dist/fr.lproj/Localizable.strings" />
+    <entry file="file://$PROJECT_DIR$/../node_modules/localize-spreadsheet-bot/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="26" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
+    <entry file="file://$PROJECT_DIR$/../.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/google-spreadsheet/index.js">
+    <entry file="file://$PROJECT_DIR$/../node_modules/google-spreadsheet/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/ar.lproj/Localizable.strings">
+    <entry file="file://$PROJECT_DIR$/build/ar.lproj/Localizable.strings" />
+    <entry file="file://$PROJECT_DIR$/build/path-types.js" />
+    <entry file="file://$PROJECT_DIR$/build/af.lproj/Localizable.strings" />
+    <entry file="file://$PROJECT_DIR$/build/android/af.lproj/Localizable.strings" />
+    <entry file="file://$PROJECT_DIR$/../.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/path-types.js">
+    <entry file="file://$PROJECT_DIR$/../build/ios/bn.lproj/Localizable.strings">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/af.lproj/Localizable.strings">
+    <entry file="file://$PROJECT_DIR$/../build/ios/es.lproj/Localizable.strings">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="113" column="16" lean-forward="true" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/android/af.lproj/Localizable.strings">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="190" lean-forward="true" selection-start-line="190" selection-end-line="190" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/ios/bn.lproj/Localizable.strings">
+    <entry file="file://$PROJECT_DIR$/../build/ios/ar.lproj/Localizable.strings">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/android/values-bg/strings.xml">
+    <entry file="file://$PROJECT_DIR$/../build/ios/bg.lproj/Localizable.strings">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/android/values-es/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+        <state relative-caret-position="15">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/ios/af.lproj/Localizable.strings">
+    <entry file="file://$PROJECT_DIR$/../secrets/client_secret.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/android/values-ar/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="-1154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/android/values-bg/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1109">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/android/values-bn/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/android/values-bs/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/localize-spreadsheet-bot/core/Line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/localize-spreadsheet-bot/core/Writer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../validator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/android/values-af/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/ios/af.lproj/Localizable.strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../node_modules/localize-spreadsheet-bot/core/Transformer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../validator.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="297" column="9" selection-start-line="297" selection-start-column="9" selection-end-line="297" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="499" column="57" selection-start-line="499" selection-start-column="57" selection-end-line="499" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/android/values-ms/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="181" column="84" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build/ios/ms.lproj/Localizable.strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="184" column="65" selection-start-line="184" selection-start-column="65" selection-end-line="184" selection-end-column="65" />
         </state>
       </provider>
     </entry>

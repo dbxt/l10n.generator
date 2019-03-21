@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">Mä hä</string>
-
-
+<string name="ago">Xí thogi</string>
+<string name="already_a_member">Ya bi Maxte</string>
 <string name="am">AM</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">¿confirma da ne da hñäki ya nuna ar Hmunts\'i?</string>
 <string name="are_you_sure_you_want_to_invite">¿Xi pädi xi hño ya da gi invitar ma?</string>
 <string name="are_you_sure_you_want_to_leave_this_group">¿\'Bu̲i pädi xi hño ya da gi abandonar nuna ar Hmunts\'i?</string>
 <string name="are_you_sure_you_want_to_sign_out">¿\'Bu̲i pädi xi hño ya da gi cerrar ar sesión?</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">To ar ndui ya jä\'i jar pe̲hni \'nar \'me̲hni jar nuna ar Hmunts\'i.</string>
-
-
 <string name="cancel">Cancelar</string>
-
-
-
-
-
 <string name="confirm_invitation">Confirmar nts\'ohni ko</string>
+<string name="confirm_logout">Confirmar cerrar sesión</string>
 <string name="confirm_password">Confirmar contraseña</string>
-
 <string name="contact_globechat">Entrar contacto GlobeChat</string>
-
+<string name="contact_sales">Contacto ventas</string>
 <string name="create_account">Da t\'ot\'e Gi pede</string>
 <string name="create_group">Da t\'ot\'e ya Hmunts\'i</string>
 <string name="create_new">da t\'ot\'e \'nar nueva</string>
 <string name="create_new_group">Da t\'ot\'e ar \'ra\'yo je̲ya ar Hmunts\'i</string>
 <string name="create_new_personal_organization_group">Da t\'ot\'e ya \'ra\'yo Hmunts\'i ya hmunts\'i ya jä\'i</string>
 <string name="create_organization">Da t\'ot\'e ya Hmunts\'i</string>
-
-
-
-
-<string name="title_dashboard">Tablero</string>
+<string name="current_members">Ya Maxte actuales</string>
 <string name="decline">Disminución ar ar</string>
 <string name="delete">Da hñäki</string>
 <string name="delete_group">Da hñäki ya Hmunts\'i</string>
 <string name="do_you_want_to_accept">¿Nu\'i gí mä hä?</string>
-
-
+<string name="edit_group">Editar Hmunts\'i</string>
 <string name="enter_a_name_for_your_new_group">Escriba \'nar thuuhu pa ár \'ra\'yo Hmunts\'i</string>
 <string name="enter_a_name_for_your_new_organization">Introduzca \'nar thuuhu pa ár \'ra\'yo Hmunts\'i</string>
+<string name="enter_password_twice">Jaki ar mäte, introduzca ár \'ra\'yo contraseña yoho ya \'nandi</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Introduzca ar email da wa jar \'mui correo electrónico nä\'ä gi firmar pa mañä ko.</string>
+<string name="enter_valid_password">Jaki ar mäte, introduzca \'nar contraseña válida</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Ingrese ár contraseña pa da du\'mi ya sesión. Nu\'bu̲ Hingar gí wa ne da du\'mi sesión komongu \'nar usuario diferente, pulse nuwa.</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Ingrese ár contraseña pa da du\'mi ya sesión. Nu\'bu̲ Hingar gí wa ne da du\'mi sesión komongu \'nar usuario diferente, pulse nuwa.</string>
-
-
-
-
-
+<string name="failed_to_change_password">Error ar mpa̲ti ar contraseña!</string>
+<string name="failed_to_request_email_verification">Hingi ar himbí da \'yadi ar verificación correo electrónico!</string>
+<string name="failed_to_validate_password_reset_request">Hingi ar himbí validar zohni \'nehe restablecimiento contraseña</string>
+<string name="failed_to_verify_email">Ar error ja ar comprobar ar correo electrónico!</string>
 <string name="filter_members">Filtrar ya jä\'i</string>
-
 <string name="first_name">Ar thuhuu ar primera</string>
-
-
 <string name="get_started">Comience</string>
-<string name="app_name"></string>
 <string name="globechat_users">Usuarios ar GlobeChat.</string>
 <string name="great_no_one_has_signed_up_with">Excelente! Ni xa xki \'yot\'e ko ar</string>
-
 <string name="group">Ar Hmunts\'i</string>
 <string name="group_members">Maxte jar Hmunts\'i</string>
 <string name="group_name">Thuhuu ar Hmunts\'i</string>
-
-
-
-
-<string name="title_home">Nguu</string>
-
-
+<string name="if_forgot_password">Nu\'bu̲ olvidó ár contraseña, toque nuwa pa da \'yadi \'nar restablecimiento contraseña.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Nu\'bu̲ hingi gehna ge\'e wa gi da du\'mi sesión komongu \'nar usuario diferente, pulse nuwa.</string>
-
-
+<string name="if_you_forgot_your_password">Nu\'bu̲ olvidó ár contraseña</string>
 <string name="in_personal_organization">Jar Hmunts\'i ya jä\'i</string>
-
 <string name="invalid_password">Contraseña hingi válida</string>
 <string name="invalid_username_password">Invalid username yá password.</string>
 <string name="invite_by_email">Invitar ya correo electrónico</string>
 <string name="invite_members">Invitar ya jä\'i</string>
 <string name="invited_you_to_the_group">ga invita \'na jar Hmunts\'i.</string>
 <string name="invited_you_to_the_organization">ts\'ohni jar Hmunts\'i</string>
-
-
 <string name="join_globechat">Unir ga ma GlobeChat!</string>
-
-
+<string name="langiage_zh-Hant">Txino pa mahä\'mu̲</string>
+<string name="language_af">Afrikaans</string>
+<string name="language_ar">Árabe</string>
+<string name="language_bg">Búlgaro</string>
+<string name="language_bn">Bangla</string>
+<string name="language_bs">Bosnio</string>
+<string name="language_ca">Catalán</string>
+<string name="language_cs">Checo</string>
+<string name="language_cy">Galés</string>
+<string name="language_da">Danés</string>
+<string name="language_de">Alemän</string>
+<string name="language_el">Griego</string>
+<string name="language_en">Ra ingles</string>
+<string name="language_es">Hñämfo̲</string>
+<string name="language_et">Estonio</string>
+<string name="language_fa">Persa</string>
+<string name="language_fi">Finlandés</string>
+<string name="language_fil">Filipino</string>
+<string name="language_fj">Fiji</string>
+<string name="language_fr">Francés</string>
+<string name="language_he">Hebreo</string>
+<string name="language_hi">Hindi</string>
+<string name="language_hr">Croata</string>
+<string name="language_ht">Criollo Haitiano</string>
+<string name="language_hu">Húngaro</string>
+<string name="language_id">Indonesio</string>
+<string name="language_is">Islandés</string>
+<string name="language_it">Italiano</string>
+<string name="language_ja">Japonés</string>
+<string name="language_ko">Coreano</string>
+<string name="language_lt">Lituano</string>
+<string name="language_lv">Letón</string>
+<string name="language_mg">Malgache</string>
+<string name="language_ms">Malayo</string>
+<string name="language_mt">Maltés</string>
+<string name="language_mww">Hmong Daw</string>
+<string name="language_nb">Noruego</string>
+<string name="language_nl">Holandés</string>
+<string name="language_otq">Maxei ñäñho</string>
+<string name="language_pl">Polaco</string>
+<string name="language_pt">Portugués</string>
+<string name="language_ro">Rumano</string>
+<string name="language_ru">Ruso</string>
+<string name="language_sk">Eslovaco</string>
+<string name="language_sl">Esloveno</string>
+<string name="language_sm">Samoano</string>
+<string name="language_sr-Cyrl">Serbian (Cyrillic)</string>
+<string name="language_sr-Latn">Serbian (Latin)</string>
+<string name="language_sv">Sueco</string>
+<string name="language_sw">Swahili</string>
+<string name="language_ta">Tamil</string>
+<string name="language_te">Telugu</string>
+<string name="language_th">Tailandés</string>
+<string name="language_tlh">Klingon</string>
+<string name="language_to">Tonga</string>
+<string name="language_tr">Turco</string>
+<string name="language_ty">Tahitian</string>
+<string name="language_uk">Ucraniano</string>
+<string name="language_ur">Urdu</string>
+<string name="language_vi">Vietnamita</string>
+<string name="language_yua">Yucateco Maya</string>
+<string name="language_yue">Cantonesa</string>
+<string name="language_zh-Hans">Txino simplificado</string>
 <string name="last_name">Mbo̲xu̲thuhuu</string>
-
 <string name="leave">Licencia</string>
 <string name="leave_group">Abandonar Hmunts\'i</string>
-
-
+<string name="loading">Carga</string>
 <string name="lobby">Vestíbulo</string>
 <string name="location">Ja yá \'mui</string>
 <string name="log_in_to_globechat">Da du\'mi ya sesión jar GlobeChat.!</string>
 <string name="log_in_to_globechat_">Da du\'mi ya sesión jar GlobeChat.!</string>
+<string name="log_in_with_new_password">Nu\'bu̲ aún mi hingi xka iniciado sesión, nu\'bya dar tsa̲ da du\'mi sesión ko ya \'ra\'yo ir contraseña</string>
 <string name="login_failed">Fallado ar login</string>
 <string name="logout">Njot\'i sesión</string>
-
-
-
 <string name="manage_group">Administrar Hmunts\'i</string>
 <string name="manage_organization">Administrar Hmunts\'i</string>
 <string name="members_in_">ya jä\'i ar</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">Otho ar entradas Tobe.</string>
 <string name="no_results">Otho ar resultados</string>
 <string name="none">Ninguno</string>
-
-<string name="title_notifications">Notificaciones</string>
-
-
+<string name="ok">Hmödi</string>
+<string name="open">Abierto</string>
+<string name="open_group">Abrir Hmunts\'i</string>
 <string name="organization">Hmunts\'i</string>
 <string name="organization_members">Maxte jar Hmunts\'i</string>
 <string name="organization_name">Thuuhu jar Hmunts\'i</string>
-
+<string name="original_message">Me̲hni pa original</string>
 <string name="owner">Propietario</string>
-
-
+<string name="password">Contraseña</string>
+<string name="password_set_failed">Hingi ar to da t\'ot\'e ar contraseña!</string>
+<string name="password_updated">Contraseña actualizada!</string>
 <string name="pending_group_invitations">Invitaciones ya Hmunts\'i pendientes</string>
+<string name="pending_invitations">Gi invitaciones hinda respuesta!</string>
+<string name="pending_invitations_view_now">Bu̲i ya \'ra\'yo invitaciones ga esperando.  ¿Bí ne ga nu\'i ya nu\'bya?</string>
 <string name="pending_organization_invitations">Invitaciones pendientes jar Hmunts\'i</string>
-
-
+<string name="personal_accounts_are_allowed">Cuentas thuhuse̲ ar permiten ar 5 usuarios dets\'e gratuita. \'Yot\'e clic jar botón ya abajo pa da \'yadi ungumfädi dige HMUNTS\'UJE \'befi Premium pa chatear ko mäs usuarios.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Escriba \'nar contraseña ge ir \'me̲t\'o menu 8 caracteres longitud.</string>
-
-
-
+<string name="please_try_again_later">Jaki japi ar nuevo mäs xti nde</string>
 <string name="pm">BÍ</string>
-
-
 <string name="primary_language">Ar hñä primario</string>
 <string name="privacy_policy">Nt\'eje privacidad</string>
-
-
-
-
-
+<string name="reset_password">Da t\'ot\'e contraseña</string>
+<string name="reset_password_for">Restablezca ar contraseña pa</string>
+<string name="resetting_password">Restablecimiento ar contraseña&#8230;</string>
 <string name="save">Salvar</string>
 <string name="search_by_email_address">Honi ya \'mui correo electrónico</string>
 <string name="search_by_name_or_email">Honi ya thuuhu wa correo electrónico</string>
 <string name="search_for_users">Nthoni ya usuarios</string>
 <string name="select_group_image">Seleccionar ar tsita Hmunts\'i</string>
-
 <string name="select_language">Seleccionar ar hñä</string>
 <string name="select_languages">seleccionar ya hñä</string>
 <string name="select_organization_image">Selecciona ar tsita jar Hmunts\'i</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Configure ar tsita ar Hmunts\'i tocando ar icono ar mañä. Nu\'bu̲ hingi ne da t\'ot\'e \'nar tsita, pe golpear ar botón Guardar pa omitir nuna bi thogi</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Defina ar tsita Hmunts\'i tocando ar icono ar mañä. Nu\'bu̲ hingi ne da t\'ot\'e \'nar tsita, pe golpear ar botón Guardar pa omitir nuna bi thogi</string>
-
+<string name="set_password">Da t\'ot\'e contraseña</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Configurar ar hñä hingi gi traducido ár hñäse̲.</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Configurar ar hñä japu\'befi pa pe̲hni ne ga hä mensajes chat.</string>
-
-
-
+<string name="show_original">Mostrar original</string>
+<string name="show_translated">Mostrar traducido</string>
+<string name="sign_out">Cerrar sesión</string>
+<string name="sign_up_more_info">Ho̲ntho necesitamos \'naxtu̲i mäs ar ungumfädi pa ga inscribir!</string>
 <string name="skip">SKIP</string>
-
-
-
-
-
-
-
 <string name="tap_here">Pulse nuwa</string>
-
+<string name="tap_here_password_reset">Pulse nuwa pa da \'yadi \'nar restablecimiento contraseña</string>
 <string name="terms_of_service">Nkohi hontho</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Ár nt\'ot\'e mensajería ne da traduce jar 60 ya hñä jar pa real.</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Ár nt\'ot\'e mensajería global da traduce instantáneamente mensajes jar mäs ar 60 ar hñä</string>
+<string name="title_dashboard">Tablero</string>
+<string name="title_home">Nguu</string>
+<string name="title_notifications">Notificaciones</string>
 <string name="translated_from">Traducido ar ingles</string>
 <string name="translated_from_english">traducido ar ar</string>
 <string name="translated_messaging">Gi \'rats\'u̲hñä ko mensajes.</string>
-
-
 <string name="understood_languages">Entendido ya hñä</string>
-
-
+<string name="validating_password_reset_request">Validar ar nu\'bu da \'yadi restablecimiento contraseña</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">Ho̲ntho necesitamos \'naxtu̲i mäs ungumfädi pa da inscribir gi.</string>
 <string name="welcome_back">Hogu̲ntso̲ho̲</string>
-
 <string name="yes">Hä</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">Tobe Gar bätsitho!  Ho̲ntho necesitamos \'naxtu̲i mäs ar ungumfädi pa ga inscribir!</string>
 <string name="you_have_been_invited_to_the_group">Nu\'i gí xi xi ts\'ohni da ar Hmunts\'i</string>
-<string name="you_have_been_invited_to_the_organization">You have been invited to the organization = "Xa ts\'ohni jar Hmunts\'i.";</string>
+<string name="you_have_been_invited_to_the_organization">Xa ts\'ohni jar Hmunts\'i</string>
+<string name="your_email_address">Ár \'mui correo electrónico</string>
+<string name="your_password">Ár contraseña</string>
 
-<string name="your_email_address">Your email address = "Ár \'mui correo electrónico";</string>
-<string name="your_password">Your password = "Ár contraseña";</string>
 
+<string name="password_reset_request_sent">Nu\'bu da \'yadi restablecimiento contraseña enviada!</string>
+<string name="failed_to_request_password_reset">Hingi ar himbí da \'yadi restablecimiento contraseña!</string>
+<string name="please_check_your_email_and_click_the_link">Jaki ar mäte, compruebe ár correo electrónico ne \'yot\'e clic ja ar enlace.</string>
+<string name="requesting_password_reset">Solicitando restablecimiento contraseña&#8230;</string>
+<string name="verify_email">Compruebe ar correo electrónico</string>
+<string name="resend_verification">Reenviar verificación</string>
+<string name="a_verification_email_was_sent_to_you">Bí envió \'nar correo electrónico verificación. Jaki ar mäte, \'yot\'e clic ja ar enlace Nunu̲ correo electrónico pa volver GlobeChat ne completar ár registro.</string>
+<string name="requesting_email_verification">Solicitando verificación correo electrónico&#8230;</string>
 </resources>

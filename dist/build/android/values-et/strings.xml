@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">Nõustun</string>
-
-
+<string name="ago">Tagasi</string>
+<string name="already_a_member">Juba liikmesriik</string>
 <string name="am">hommikul</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">Kas soovite kindlasti selle rühma kustutada?</string>
 <string name="are_you_sure_you_want_to_invite">Kas soovite kindlasti kutsuda</string>
 <string name="are_you_sure_you_want_to_leave_this_group">Kas soovite kindlasti selle rühma jätta?</string>
 <string name="are_you_sure_you_want_to_sign_out">Kas soovite kindlasti välja logida?</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">Ole esimene inimene, kes saadab selle grupi kohta sõnumi.</string>
-
-
 <string name="cancel">Tühistada</string>
-
-
-
-
-
 <string name="confirm_invitation">Kinnita kutse</string>
+<string name="confirm_logout">Kinnita Logi välja</string>
 <string name="confirm_password">Parooli kinnitamine</string>
-
 <string name="contact_globechat">Kontakt GlobeChat</string>
-
+<string name="contact_sales">Kontakt Müük</string>
 <string name="create_account">Loo konto</string>
 <string name="create_group">Loo rühm</string>
 <string name="create_new">luua uusi</string>
 <string name="create_new_group">Loo uus rühm</string>
 <string name="create_new_personal_organization_group">Loo uus isikliku korralduse grupp</string>
 <string name="create_organization">Organisatsiooni loomine</string>
-
-
-
-
-<string name="title_dashboard">Armatuurlaua</string>
+<string name="current_members">Praegused liikmed</string>
 <string name="decline">Langema</string>
 <string name="delete">Kustutada</string>
 <string name="delete_group">Kustuta rühm</string>
 <string name="do_you_want_to_accept">Kas soovite aktsepteerida?</string>
-
-
+<string name="edit_group">Redigeeri gruppi</string>
 <string name="enter_a_name_for_your_new_group">Sisestage uue rühma nimi</string>
 <string name="enter_a_name_for_your_new_organization">Sisestage oma uue organisatsiooni nimi</string>
+<string name="enter_password_twice">Palun sisestage oma uus parool kaks korda</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Sisestage registreeritud e-posti aadress või e-posti aadress, millega soovite registreeruda.</string>
+<string name="enter_valid_password">Palun sisestage kehtiv parool</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Sisestage sisselogimiseks oma parool.  Kui see ei ole teie või soovite sisse logida teise kasutajana, koputage siia.</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Sisestage sisselogimiseks oma parool.  Kui see ei ole teie või soovite sisse logida teise kasutajana, koputage siia.</string>
-
-
-
-
-
+<string name="failed_to_change_password">Parooli muutmine nurjus!</string>
+<string name="failed_to_request_email_verification">E-posti kinnitamise taotlemine nurjus!</string>
+<string name="failed_to_validate_password_reset_request">Parooli lähtestamise taotluse kinnitamine nurjus</string>
+<string name="failed_to_verify_email">E-posti kinnitamine nurjus!</string>
 <string name="filter_members">Filtreeri liikmeid</string>
-
 <string name="first_name">Eesnimi</string>
-
-
 <string name="get_started">Alustama</string>
-<string name="app_name"></string>
 <string name="globechat_users">GlobeChat kasutajad</string>
 <string name="great_no_one_has_signed_up_with">Suurepärane! Keegi ei ole sisse loginud</string>
-
 <string name="group">Rühma</string>
 <string name="group_members">Grupi liikmed</string>
 <string name="group_name">Rühma nimi</string>
-
-
-
-
-<string name="title_home">Kodu</string>
-
-
+<string name="if_forgot_password">Kui unustasite parooli, toksake siin, et taotleda parooli lähtestamist.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Kui see pole teie või soovite sisse logida teise kasutajana, puudutage siit.</string>
-
-
+<string name="if_you_forgot_your_password">Kui unustasite oma parooli</string>
 <string name="in_personal_organization">Isiklikus korras</string>
-
 <string name="invalid_password">Vale parool</string>
 <string name="invalid_username_password">Vale kasutajanimi / parool</string>
 <string name="invite_by_email">Kutsu e-posti teel</string>
 <string name="invite_members">Kutsu liikmeid</string>
 <string name="invited_you_to_the_group">kutsus teid gruppi</string>
 <string name="invited_you_to_the_organization">kutsus teid organisatsiooni</string>
-
-
 <string name="join_globechat">Liitu GlobeChat!</string>
-
-
+<string name="langiage_zh-Hant">Traditsiooniline hiina keel</string>
+<string name="language_af">Afrikaans</string>
+<string name="language_ar">Araabia keel</string>
+<string name="language_bg">Bulgaaria keel</string>
+<string name="language_bn">Bangla</string>
+<string name="language_bs">Bosnia keel</string>
+<string name="language_ca">Katalaani keel</string>
+<string name="language_cs">Tšehhi</string>
+<string name="language_cy">Kõmri keel</string>
+<string name="language_da">Taani keel</string>
+<string name="language_de">Saksa keel</string>
+<string name="language_el">Kreeka keel</string>
+<string name="language_en">Inglise</string>
+<string name="language_es">Hispaania keel</string>
+<string name="language_et">Eesti keel</string>
+<string name="language_fa">Pärsia keel</string>
+<string name="language_fi">Soome keel</string>
+<string name="language_fil">Filipino</string>
+<string name="language_fj">Fidži</string>
+<string name="language_fr">Prantsuse keel</string>
+<string name="language_he">Heebrea keel</string>
+<string name="language_hi">Hindi keeles</string>
+<string name="language_hr">Horvaadi keel</string>
+<string name="language_ht">Haiti kreoli</string>
+<string name="language_hu">Ungari keel</string>
+<string name="language_id">Indoneesia keel</string>
+<string name="language_is">Icelandic</string>
+<string name="language_it">Itaalia keel</string>
+<string name="language_ja">Jaapani keel</string>
+<string name="language_ko">Korea</string>
+<string name="language_lt">Leedu keel</string>
+<string name="language_lv">Läti</string>
+<string name="language_mg">Madagasõ</string>
+<string name="language_ms">Malai keel</string>
+<string name="language_mt">Malta keel</string>
+<string name="language_mww">Hmongi Daw</string>
+<string name="language_nb">Norra keel</string>
+<string name="language_nl">Hollandi keel</string>
+<string name="language_otq">Queretaro Otomi</string>
+<string name="language_pl">Poola keel</string>
+<string name="language_pt">Portugali keel</string>
+<string name="language_ro">Rumeenia keel</string>
+<string name="language_ru">Vene keel</string>
+<string name="language_sk">Slovaki keel</string>
+<string name="language_sl">Sloveeni keel</string>
+<string name="language_sm">Samoan</string>
+<string name="language_sr-Cyrl">Serbia (kirillitsa)</string>
+<string name="language_sr-Latn">Serbia (ladina keel)</string>
+<string name="language_sv">Rootsi keel</string>
+<string name="language_sw">Suahiili</string>
+<string name="language_ta">Tamil</string>
+<string name="language_te">Telugu</string>
+<string name="language_th">Tai</string>
+<string name="language_tlh">Klingoni</string>
+<string name="language_to">Tongan</string>
+<string name="language_tr">Türgi keel</string>
+<string name="language_ty">Tahitian</string>
+<string name="language_uk">Ukraina keel</string>
+<string name="language_ur">Urdu</string>
+<string name="language_vi">Vietnami keel</string>
+<string name="language_yua">Yucatec Maya</string>
+<string name="language_yue">Kantoni keel</string>
+<string name="language_zh-Hans">Lihtsustatud hiina keel</string>
 <string name="last_name">Perekonnanimi</string>
-
 <string name="leave">Jäta</string>
 <string name="leave_group">Jäta rühm</string>
-
-
+<string name="loading">Laadimise</string>
 <string name="lobby">Fuajees</string>
 <string name="location">Asukoht</string>
 <string name="log_in_to_globechat">Logige sisse GlobeChat\'i!</string>
 <string name="log_in_to_globechat_">Logige sisse GlobeChat\'i!</string>
+<string name="log_in_with_new_password">Kui te pole veel sisse loginud, saate nüüd sisse logida oma uue parooliga</string>
 <string name="login_failed">Sisselogimine ebaõnnestus</string>
 <string name="logout">Logi välja</string>
-
-
-
 <string name="manage_group">Halda rühma</string>
 <string name="manage_organization">Organisatsiooni haldamine</string>
 <string name="members_in_">liikmed</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">Pole veel postitusi</string>
 <string name="no_results">Tulemused puuduvad</string>
 <string name="none">Puudub</string>
-
-<string name="title_notifications">Teatised</string>
-
-
+<string name="ok">Ok</string>
+<string name="open">Avatud</string>
+<string name="open_group">Groep openen</string>
 <string name="organization">Organisatsiooni</string>
 <string name="organization_members">Organisatsiooni liikmed</string>
 <string name="organization_name">Organisatsiooni nimi</string>
-
+<string name="original_message">Algne sõnum</string>
 <string name="owner">Omanik</string>
-
-
+<string name="password">Parool</string>
+<string name="password_set_failed">Parooli ei saa seada!</string>
+<string name="password_updated">Salasõna uuendatud!</string>
 <string name="pending_group_invitations">Ootel rühma kutsed</string>
+<string name="pending_invitations">Teil on vastamata kutsed!</string>
+<string name="pending_invitations_view_now">On uusi kutseid ootab teid.  Kas soovite neid praegu vaadata?</string>
 <string name="pending_organization_invitations">Ootel organisatsiooni kutsed</string>
-
-
+<string name="personal_accounts_are_allowed">Isiklikud kontod on lubatud 5 kasutajat tasuta. Kliki alloleval nupul, et küsida teavet meie lisatasuteenuste kohta, et vestelda rohkema kasutajatega.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Palun sisesta parool, mille pikkus on vähemalt 8 tähemärki.</string>
-
-
-
+<string name="please_try_again_later">Palun proovige hiljem uuesti</string>
 <string name="pm">pärast lõunat</string>
-
-
 <string name="primary_language">Emakeel</string>
 <string name="privacy_policy">Privaatsuspoliitika</string>
-
-
-
-
-
+<string name="reset_password">Lähtesta parool</string>
+<string name="reset_password_for">Lähtestage parool</string>
+<string name="resetting_password">Parooli lähtestamine&#8230;</string>
 <string name="save">Salvestada</string>
 <string name="search_by_email_address">Otsi e-posti aadressi järgi</string>
 <string name="search_by_name_or_email">Otsi nime või e-posti teel</string>
 <string name="search_for_users">Buscar usuarios</string>
 <string name="select_group_image">Vali rühma pilt</string>
-
 <string name="select_language">Vali keel</string>
 <string name="select_languages">Vali keeled</string>
 <string name="select_organization_image">Valige organisatsiooni kujutis</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set rühma pilt, koputades ikooni eespool. Kui te ei soovi pilti seada, võite selle sammu vahelejätmiseks vajutada nuppu Salvesta</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Set rühma pilt, koputades ikooni eespool. Kui te ei soovi pilti seada, võite selle sammu vahelejätmiseks vajutada nuppu Salvesta</string>
-
+<string name="set_password">Parooli seadmine</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Määrake keel, mida te ei soovi tõlkida oma põhikeeleks.</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Määrake keel, mida kasutate vestlussõnumite saatmiseks ja vastuvõtmiseks.</string>
-
-
-
+<string name="show_original">Kuva Algne</string>
+<string name="show_translated">Näita tõlgitud</string>
+<string name="sign_out">Logi välja</string>
+<string name="sign_up_more_info">Me vajame vaid natuke rohkem infot, et teid üles kirjutada!</string>
 <string name="skip">Vahele jätma</string>
-
-
-
-
-
-
-
 <string name="tap_here">Puudutage siin</string>
-
+<string name="tap_here_password_reset">Puudutage siin, et taotleda parooli lähtestamist</string>
 <string name="terms_of_service">Teenusetingimused</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Sõnumiside rakendus, mis tõlgib reaalajas 60+ keelt.</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">De Global messaging app die direct vertaalt berichten in meer dan 60 talen</string>
+<string name="title_dashboard">Armatuurlaua</string>
+<string name="title_home">Kodu</string>
+<string name="title_notifications">Teatised</string>
 <string name="translated_from">Tõlgitud inglise keelest</string>
 <string name="translated_from_english">Tõlgitud</string>
 <string name="translated_messaging">Tõlgitud sõnumside.</string>
-
-
 <string name="understood_languages">Keelte mõistmine</string>
-
-
+<string name="validating_password_reset_request">Paroolilähtestustaotluse valideerimine</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">Me vajame lihtsalt veidi rohkem infot, et teid sisse logida.</string>
 <string name="welcome_back">Tere tulemast tagasi</string>
-
 <string name="yes">Jah</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">Veel!  Me vajame vaid natuke rohkem infot, et teid üles kirjutada!</string>
 <string name="you_have_been_invited_to_the_group">Teid on kutsutud rühma</string>
 <string name="you_have_been_invited_to_the_organization">Teid on organisatsioonile kutsutud</string>
-
 <string name="your_email_address">sinu emaili aadress</string>
 <string name="your_password">Teie parool</string>
 
+
+<string name="password_reset_request_sent">Parooli lähtestamise taotlus saadetud!</string>
+<string name="failed_to_request_password_reset">Parooli lähtestamise taotlemine nurjus!</string>
+<string name="please_check_your_email_and_click_the_link">Palun kontrollige oma e-posti ja klõpsake lingil.</string>
+<string name="requesting_password_reset">Parooli lähtestamise taotlemine&#8230;</string>
+<string name="verify_email">E-posti kinnitamine</string>
+<string name="resend_verification">Uuesti kinnitamine</string>
+<string name="a_verification_email_was_sent_to_you">Teile saadeti kinnituskiri. Palun klõpsake lingil, et e-posti naasta GlobeChat ja täitke oma registreerimine.</string>
+<string name="requesting_email_verification">E-posti kinnitamise taotlemine&#8230;</string>
 </resources>

@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">接受</string>
-
-
+<string name="ago">前</string>
+<string name="already_a_member">已经是会员</string>
 <string name="am">上午</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">确定要删除此群组吗？</string>
 <string name="are_you_sure_you_want_to_invite">您确定要邀请吗</string>
 <string name="are_you_sure_you_want_to_leave_this_group">您确定要离开这个群组吗？</string>
 <string name="are_you_sure_you_want_to_sign_out">您确定要注销吗？</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">成为第一个向群发送消息的人！</string>
-
-
 <string name="cancel">取消</string>
-
-
-
-
-
 <string name="confirm_invitation">确认邀请</string>
+<string name="confirm_logout">确认注销</string>
 <string name="confirm_password">确认密码</string>
-
 <string name="contact_globechat">联系 GlobeChat</string>
-
+<string name="contact_sales">联系销售人员</string>
 <string name="create_account">注册新帐号</string>
 <string name="create_group">创建群組</string>
 <string name="create_new">创建新的</string>
 <string name="create_new_group">创建群组</string>
 <string name="create_new_personal_organization_group">创建新的个人组织</string>
 <string name="create_organization">创建组织</string>
-
-
-
-
-<string name="title_dashboard">仪表板</string>
+<string name="current_members">现任成员</string>
 <string name="decline">拒绝</string>
 <string name="delete">删除</string>
 <string name="delete_group">删除群组</string>
 <string name="do_you_want_to_accept">你要接受邀请吗？</string>
-
-
+<string name="edit_group">编辑群组</string>
 <string name="enter_a_name_for_your_new_group">输入新组的名称</string>
 <string name="enter_a_name_for_your_new_organization">输入新的群组名称</string>
+<string name="enter_password_twice">请输入您的新密码两次</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">登录邮箱地址或注册新帐号</string>
+<string name="enter_valid_password">请输入有效的密码</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">输入您要登录的密码。 如果这不是您或您想作为其他用户登录</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">输入您要登录的密码。 如果这不是您或您想作为其他用户登录, 请点击这里</string>
-
-
-
-
-
+<string name="failed_to_change_password">无法更改密码!</string>
+<string name="failed_to_request_email_verification">未能请求电子邮件验证!</string>
+<string name="failed_to_validate_password_reset_request">验证密码重置请求失败</string>
+<string name="failed_to_verify_email">无法验证电子邮件!</string>
 <string name="filter_members">筛选成员</string>
-
 <string name="first_name">名</string>
-
-
 <string name="get_started">开始使用</string>
-<string name="app_name"></string>
 <string name="globechat_users">GlobeChat用户</string>
 <string name="great_no_one_has_signed_up_with">很好!没有人报名参加</string>
-
 <string name="group">小组</string>
 <string name="group_members">集团成员</string>
 <string name="group_name">组名</string>
-
-
-
-
-<string name="title_home">家</string>
-
-
+<string name="if_forgot_password">如果您忘记了密码, 请点击此处请求密码重置。</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">如果不是您的帐号？以其他帐号登入，请点这里。</string>
-
-
+<string name="if_you_forgot_your_password">如果您忘记了密码</string>
 <string name="in_personal_organization">在个人组织中</string>
-
 <string name="invalid_password">无效的密码</string>
 <string name="invalid_username_password">无效的用户名／密码</string>
 <string name="invite_by_email">通过电子邮件邀请</string>
 <string name="invite_members">邀请成员</string>
 <string name="invited_you_to_the_group">邀请你加入群聊</string>
 <string name="invited_you_to_the_organization">邀请你加入这个组织</string>
-
-
 <string name="join_globechat">加盟 GlobeChat!</string>
-
-
+<string name="langiage_zh-Hant">繁体中文</string>
+<string name="language_af">南非荷兰语</string>
+<string name="language_ar">阿拉伯语</string>
+<string name="language_bg">保加利亚语</string>
+<string name="language_bn">孟加拉语</string>
+<string name="language_bs">波斯尼亚语</string>
+<string name="language_ca">加泰罗尼亚语</string>
+<string name="language_cs">捷克语</string>
+<string name="language_cy">威尔士语</string>
+<string name="language_da">丹麦语</string>
+<string name="language_de">德语</string>
+<string name="language_el">希腊语</string>
+<string name="language_en">英语</string>
+<string name="language_es">西班牙语</string>
+<string name="language_et">爱沙尼亚语</string>
+<string name="language_fa">波斯语</string>
+<string name="language_fi">芬兰语</string>
+<string name="language_fil">菲律宾语</string>
+<string name="language_fj">斐济语</string>
+<string name="language_fr">法语</string>
+<string name="language_he">希伯来语</string>
+<string name="language_hi">印地语</string>
+<string name="language_hr">克罗埃西亚语</string>
+<string name="language_ht">海地克里奥尔语</string>
+<string name="language_hu">匈牙利语</string>
+<string name="language_id">印度尼西亚语</string>
+<string name="language_is">冰岛語</string>
+<string name="language_it">意大利语</string>
+<string name="language_ja">日语</string>
+<string name="language_ko">韩语</string>
+<string name="language_lt">立陶宛语</string>
+<string name="language_lv">拉脱维亚语</string>
+<string name="language_mg">马达加斯加语</string>
+<string name="language_ms">马来语</string>
+<string name="language_mt">马耳他语</string>
+<string name="language_mww">苗语</string>
+<string name="language_nb">挪威语</string>
+<string name="language_nl">荷兰语</string>
+<string name="language_otq">克雷塔罗奧托米语</string>
+<string name="language_pl">波兰语</string>
+<string name="language_pt">葡萄牙语</string>
+<string name="language_ro">罗马尼亚语</string>
+<string name="language_ru">俄语</string>
+<string name="language_sk">斯洛伐克语</string>
+<string name="language_sl">斯洛文尼亚语</string>
+<string name="language_sm">萨摩亚语</string>
+<string name="language_sr-Cyrl">塞尔维亚语 (西里尔文)</string>
+<string name="language_sr-Latn">塞尔维亚语 (拉丁语)</string>
+<string name="language_sv">瑞典语</string>
+<string name="language_sw">斯瓦希里</string>
+<string name="language_ta">泰米尔语</string>
+<string name="language_te">泰卢固语</string>
+<string name="language_th">泰语</string>
+<string name="language_tlh">克林贡语</string>
+<string name="language_to">汤加语</string>
+<string name="language_tr">土耳其语</string>
+<string name="language_ty">塔希提语</string>
+<string name="language_uk">乌克兰语</string>
+<string name="language_ur">乌尔都语</string>
+<string name="language_vi">越南语</string>
+<string name="language_yua">尤卡坦马雅语</string>
+<string name="language_yue">粤语</string>
+<string name="language_zh-Hans">简体中文</string>
 <string name="last_name">姓</string>
-
 <string name="leave">退群</string>
 <string name="leave_group">离开组</string>
-
-
+<string name="loading">加载</string>
 <string name="lobby">大堂</string>
 <string name="location">所在位置</string>
 <string name="log_in_to_globechat">进入GlobeChat!</string>
 <string name="log_in_to_globechat_">进入GlobeChat!</string>
+<string name="log_in_with_new_password">如果您还没有登录, 现在可以使用新密码登录</string>
 <string name="login_failed">登录失败</string>
 <string name="logout">登出</string>
-
-
-
 <string name="manage_group">管理组</string>
 <string name="manage_organization">管理组织</string>
 <string name="members_in_">成员</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">尚无信息</string>
 <string name="no_results">没有结果</string>
 <string name="none">无</string>
-
-<string name="title_notifications">通知</string>
-
-
+<string name="ok">还行</string>
+<string name="open">打开</string>
+<string name="open_group">开始群组</string>
 <string name="organization">组织</string>
 <string name="organization_members">组织成员</string>
 <string name="organization_name">群名称</string>
-
+<string name="original_message">原始邮件</string>
 <string name="owner">群组管理员</string>
-
-
+<string name="password">密码</string>
+<string name="password_set_failed">无法设置密码!</string>
+<string name="password_updated">密码已更新!</string>
 <string name="pending_group_invitations">等待群组邀请</string>
+<string name="pending_invitations">您尚未回复邀请!</string>
+<string name="pending_invitations_view_now">有新的邀请在等着你。 您现在想查看它们吗？</string>
 <string name="pending_organization_invitations">待确认群组邀请</string>
-
-
+<string name="personal_accounts_are_allowed">个人账户允许5个用户免费使用。点击下面的按钮, 请求有关我们的优质服务的信息, 与更多的用户聊天。</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">请输入至少8个字符的密码</string>
-
-
-
+<string name="please_try_again_later">请稍后再试</string>
 <string name="pm">下午</string>
-
-
 <string name="primary_language">主要语言</string>
 <string name="privacy_policy">隐私权政策</string>
-
-
-
-
-
+<string name="reset_password">重置密码</string>
+<string name="reset_password_for">重置的密码</string>
+<string name="resetting_password">正在重置密码&#8230;</string>
 <string name="save">储存</string>
 <string name="search_by_email_address">按电子邮件地址搜索</string>
 <string name="search_by_name_or_email">按名称或电子邮件搜索</string>
 <string name="search_for_users">搜索用户</string>
 <string name="select_group_image">选择群组图像</string>
-
-<string name="select_language">选择语言</string>
+<string name="select_language">设置语言</string>
 <string name="select_languages">选择语言</string>
 <string name="select_organization_image">设置群组照片</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">通过点击上面的图标设置群组图像。如果不想设置图像, 可以按 "保存" 按钮跳过此步骤</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">通过点击上面的图标来设置组织图像。如果不想设置图像, 可以按 "保存" 按钮跳过此步骤</string>
-
+<string name="set_password">设置密码</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">设置您认为无须翻译的语言</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">设置您将用于发送和接收信息的语言</string>
-
-
-
+<string name="show_original">原始邮件</string>
+<string name="show_translated">显示原始</string>
+<string name="sign_out">注销</string>
+<string name="sign_up_more_info">我们只需要更多的信息来注册你!</string>
 <string name="skip">跳过</string>
-
-
-
-
-
-
-
 <string name="tap_here">请点击这里</string>
-
+<string name="tap_here_password_reset">点击此处请求密码重置</string>
 <string name="terms_of_service">服务条款</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">即时发送及翻译信息至超过60种语言</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">全球通讯软件, 可实时翻译超过60种语言的讯息</string>
+<string name="title_dashboard">仪表板</string>
+<string name="title_home">家</string>
+<string name="title_notifications">通知</string>
 <string name="translated_from">翻译自</string>
 <string name="translated_from_english">从英文翻译</string>
 <string name="translated_messaging">为您翻译讯息</string>
-
-
 <string name="understood_languages">其他语言</string>
-
-
+<string name="validating_password_reset_request">验证密码重置请求</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">输入其他个人信息</string>
 <string name="welcome_back">欢迎回来！</string>
-
 <string name="yes">是的</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">还没! 我们只需要更多的信息来注册你!</string>
 <string name="you_have_been_invited_to_the_group">你被邀请参加这个小组</string>
 <string name="you_have_been_invited_to_the_organization">您已经被邀请参加本组织</string>
-
 <string name="your_email_address">邮箱地址</string>
 <string name="your_password">您的密码</string>
 
+
+<string name="password_reset_request_sent">已发送密码重置请求!</string>
+<string name="failed_to_request_password_reset">无法请求密码重置!</string>
+<string name="please_check_your_email_and_click_the_link">请检查您的电子邮件, 然后点击链接。</string>
+<string name="requesting_password_reset">请求密码重置&#8230;</string>
+<string name="verify_email">验证电子邮件</string>
+<string name="resend_verification">重新发送验证</string>
+<string name="a_verification_email_was_sent_to_you">向您发送了一封验证电子邮件。请点击该电子邮件中的链接返回到环球聊天并完成您的注册。</string>
+<string name="requesting_email_verification">请求电子邮件验证&#8230;</string>
 </resources>

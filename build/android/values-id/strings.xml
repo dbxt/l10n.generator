@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">Menerima</string>
-
-
+<string name="ago">yang lalu</string>
+<string name="already_a_member">Sudah menjadi anggota</string>
 <string name="am">pagi</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">Apakah Anda yakin ingin menghapus kelompok ini?</string>
 <string name="are_you_sure_you_want_to_invite">Apakah Anda yakin Anda ingin mengundang</string>
 <string name="are_you_sure_you_want_to_leave_this_group">Apakah Anda yakin Anda ingin keluar dari grup ini?</string>
 <string name="are_you_sure_you_want_to_sign_out">Apakah Anda yakin Anda ingin keluar?</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">Jadilah orang pertama yang mengirim pesan ke grup ini.</string>
-
-
 <string name="cancel">Batal</string>
-
-
-
-
-
 <string name="confirm_invitation">Mengkonfirmasi undangan</string>
+<string name="confirm_logout">Mengkonfirmasi keluar</string>
 <string name="confirm_password">Konfirmasi Password</string>
-
 <string name="contact_globechat">Kontak GlobeChat</string>
-
+<string name="contact_sales">Kontak penjualan</string>
 <string name="create_account">Membuat akun</string>
 <string name="create_group">Membuat grup</string>
 <string name="create_new">Membuat baru</string>
 <string name="create_new_group">Buat grup Organisasi Pribadi baru</string>
-<string name="create_new_personal_organization_group">Buat grup Organisasi Pribadi baru";"Create New" = "Membuat baru</string>
+<string name="create_new_personal_organization_group">Buat grup Organisasi Pribadi baru</string>
 <string name="create_organization">Menciptakan organisasi</string>
-
-
-
-
-<string name="title_dashboard">Mælaborð</string>
+<string name="current_members">Anggota saat ini</string>
 <string name="decline">Menolak</string>
 <string name="delete">Hapus</string>
 <string name="delete_group">Hapus grup</string>
 <string name="do_you_want_to_accept">Apakah anda mau menerimanya?</string>
-
-
+<string name="edit_group">Edit Group</string>
 <string name="enter_a_name_for_your_new_group">Masukkan nama untuk grup baru</string>
 <string name="enter_a_name_for_your_new_organization">Masukkan nama untuk grup baru Anda.</string>
+<string name="enter_password_twice">Silakan masukkan sandi baru dua kali</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Masukkan email yang Anda daftarkan, atau alamat email yang ingin Anda daftarkan.</string>
+<string name="enter_valid_password">Silakan masukkan password yang valid</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Masukkan sandi untuk masuk. Jika ini bukan Anda atau Anda ingin masuk sebagai pengguna yang berbeda.</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Masukkan sandi untuk masuk. Jika ini bukan Anda atau Anda ingin masuk sebagai pengguna yang berbeda.</string>
-
-
-
-
-
+<string name="failed_to_change_password">Gagal untuk mengubah password!</string>
+<string name="failed_to_request_email_verification">Gagal untuk meminta verifikasi email!</string>
+<string name="failed_to_validate_password_reset_request">Gagal untuk memvalidasi password reset permintaan</string>
+<string name="failed_to_verify_email">Gagal untuk memverifikasi email!</string>
 <string name="filter_members">Anggota filter</string>
-
 <string name="first_name">Nama depan</string>
-
-
 <string name="get_started">Mulai</string>
-<string name="app_name"></string>
 <string name="globechat_users">Pengguna GlobeChat</string>
 <string name="great_no_one_has_signed_up_with">Besar! Tidak ada yang mendaftar</string>
-
 <string name="group">Kelompok</string>
 <string name="group_members">Anggota grup</string>
 <string name="group_name">Nama grup</string>
-
-
-
-
-<string name="title_home">Rumah</string>
-
-
+<string name="if_forgot_password">Jika Anda lupa password Anda, tekan di sini untuk meminta password reset.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Jika ini bukan Anda atau Anda ingin masuk sebagai pengguna lain, ketuk di sini.</string>
-
-
+<string name="if_you_forgot_your_password">Jika Anda lupa kata sandi</string>
 <string name="in_personal_organization">Dalam organisasi pribadi</string>
-
 <string name="invalid_password">Kata sandi salah</string>
 <string name="invalid_username_password">Nama pengguna / sandi tidak benar</string>
 <string name="invite_by_email">Boðið í tölvupósti</string>
 <string name="invite_members">Mengundang anggota</string>
 <string name="invited_you_to_the_group">mengundang Anda ke grup</string>
 <string name="invited_you_to_the_organization">mengundang Anda ke organisasi</string>
-
-
 <string name="join_globechat">Bergabung dengan GlobeChat</string>
-
-
+<string name="langiage_zh-Hant">Cina tradisional</string>
+<string name="language_af">Afrikanas</string>
+<string name="language_ar">Arab</string>
+<string name="language_bg">Bulgaria</string>
+<string name="language_bn">Bangla</string>
+<string name="language_bs">Orang Bosnia</string>
+<string name="language_ca">Catalan</string>
+<string name="language_cs">Ceko</string>
+<string name="language_cy">Welsh</string>
+<string name="language_da">Denmark</string>
+<string name="language_de">Jerman</string>
+<string name="language_el">Yunani</string>
+<string name="language_en">Inggris</string>
+<string name="language_es">Spanyol</string>
+<string name="language_et">Estonia</string>
+<string name="language_fa">Persia</string>
+<string name="language_fi">Finlandia</string>
+<string name="language_fil">Filipino</string>
+<string name="language_fj">Fiji</string>
+<string name="language_fr">Perancis</string>
+<string name="language_he">Ibrani</string>
+<string name="language_hi">Hindi</string>
+<string name="language_hr">Orang Kroasia</string>
+<string name="language_ht">Kreol Haiti</string>
+<string name="language_hu">Hongaria</string>
+<string name="language_id">bahasa Indonesia</string>
+<string name="language_is">Islandia</string>
+<string name="language_it">Italia</string>
+<string name="language_ja">Jepang</string>
+<string name="language_ko">Korea</string>
+<string name="language_lt">Lithuania</string>
+<string name="language_lv">Latvia</string>
+<string name="language_mg">Malagasi</string>
+<string name="language_ms">Melayu</string>
+<string name="language_mt">Malta</string>
+<string name="language_mww">Hmong Daw</string>
+<string name="language_nb">Norwegia</string>
+<string name="language_nl">Belanda</string>
+<string name="language_otq">Queretaro Otomi</string>
+<string name="language_pl">Polandia</string>
+<string name="language_pt">Portugis</string>
+<string name="language_ro">Rumania</string>
+<string name="language_ru">Rusia</string>
+<string name="language_sk">Slovak</string>
+<string name="language_sl">Slovenian</string>
+<string name="language_sm">Samoan</string>
+<string name="language_sr-Cyrl">Serbia (Cyrillic)</string>
+<string name="language_sr-Latn">Bahasa Serbia (Latin)</string>
+<string name="language_sv">Swedia</string>
+<string name="language_sw">Swahili</string>
+<string name="language_ta">Tamil</string>
+<string name="language_te">Telugu</string>
+<string name="language_th">Thai</string>
+<string name="language_tlh">Klingon</string>
+<string name="language_to">Tongan</string>
+<string name="language_tr">Turki</string>
+<string name="language_ty">Tahiti</string>
+<string name="language_uk">Bahasa inggris</string>
+<string name="language_ur">Bahasa Urdu</string>
+<string name="language_vi">Vietnam</string>
+<string name="language_yua">Yucatec Maya</string>
+<string name="language_yue">Kanton</string>
+<string name="language_zh-Hans">Bahasa Tiongkok yang disederhanakan</string>
 <string name="last_name">nama keluarga</string>
-
 <string name="leave">Keluar</string>
 <string name="leave_group">Meninggalkan grup</string>
-
-
+<string name="loading">Pemuatan</string>
 <string name="lobby">Lobi</string>
 <string name="location">Lokasi</string>
 <string name="log_in_to_globechat">Masuk ke GlobeChat!</string>
 <string name="log_in_to_globechat_">Masuk ke GlobeChat!</string>
+<string name="log_in_with_new_password">Jika Anda belum login belum, Anda sekarang dapat login dengan password baru</string>
 <string name="login_failed">Gagal masuk</string>
 <string name="logout">Keluar</string>
-
-
-
 <string name="manage_group">Mengelola grup</string>
 <string name="manage_organization">Mengelola organisasi</string>
 <string name="members_in_">Anggota di</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">Belum ada postingan.</string>
 <string name="no_results">Tidak ada hasil</string>
 <string name="none">Tidak ada</string>
-
-<string name="title_notifications">Pemberitahuan</string>
-
-
+<string name="ok">Oke</string>
+<string name="open">Buka</string>
+<string name="open_group">Open Group</string>
 <string name="organization">Organisasi</string>
 <string name="organization_members">Anggota organisasi</string>
 <string name="organization_name">Nama organisasi</string>
-
+<string name="original_message">Pesan asli</string>
 <string name="owner">Pemilik</string>
-
-
+<string name="password">Sandi</string>
+<string name="password_set_failed">Tidak dapat mengatur sandi!</string>
+<string name="password_updated">Sandi Diperbarui!</string>
 <string name="pending_group_invitations">Undangan grup tertunda</string>
+<string name="pending_invitations">Anda telah terjawab undangan!</string>
+<string name="pending_invitations_view_now">Ada undangan baru yang menunggu untuk Anda.  Apakah Anda ingin melihat mereka sekarang?</string>
 <string name="pending_organization_invitations">Undangan Organisasi Menunggu Keputusan</string>
-
-
+<string name="personal_accounts_are_allowed">Rekening pribadi diperbolehkan 5 pengguna secara gratis. Klik tombol di bawah ini untuk meminta informasi mengenai layanan premium kami untuk chatting dengan pengguna lain.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Masukkan kata sandi yang panjangnya paling tidak 8 karakter.</string>
-
-
-
+<string name="please_try_again_later">Harap coba lagi nanti</string>
 <string name="pm">Sore</string>
-
-
 <string name="primary_language">Bahasa utama</string>
 <string name="privacy_policy">Kebijakan Privasi</string>
-
-
-
-
-
+<string name="reset_password">Membuat ulang sandi</string>
+<string name="reset_password_for">Membuat ulang sandi</string>
+<string name="resetting_password">Menyetel sandi&#8230;</string>
 <string name="save">Simpan</string>
 <string name="search_by_email_address">Cari alamat email</string>
 <string name="search_by_name_or_email">Cari nama atau email</string>
 <string name="search_for_users">Cari pengguna</string>
 <string name="select_group_image">Pilih grup gambar</string>
-
 <string name="select_language">Pilih bahasa</string>
 <string name="select_languages">Pilih bahasa</string>
 <string name="select_organization_image">Pilih gambar organisasi</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Menetapkan grup gambar dengan mengetuk ikon di atas. Jika Anda tidak ingin untuk mengatur gambar, Anda dapat menekan Simpan tombol untuk melewatkan langkah ini</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Menetapkan gambar organisasi dengan mengetuk ikon di atas. Jika Anda tidak ingin untuk mengatur gambar, Anda dapat menekan Simpan tombol untuk melewatkan langkah ini</string>
-
+<string name="set_password">Atur Password</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Atur bahasa yang tidak ingin anda terjemahkan ke bahasa utama anda.</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Atur bahasa yang akan anda gunakan untuk mengirim dan menerima pesan obrolan.</string>
-
-
-
+<string name="show_original">Tampilkan asli</string>
+<string name="show_translated">Tampilkan diterjemahkan</string>
+<string name="sign_out">Keluar</string>
+<string name="sign_up_more_info">Kita hanya perlu sedikit lebih info untuk mendaftar Anda!</string>
 <string name="skip">Melewatkan</string>
-
-
-
-
-
-
-
 <string name="tap_here">ketuk di sini</string>
-
+<string name="tap_here_password_reset">Tekan di sini untuk meminta password reset</string>
 <string name="terms_of_service">Persyaratan Layanan</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Aplikasi perpesanan yang diterjemahkan lebih dari 60 bahasa secara singkat.</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Aplikasi pesan global yang langsung menerjemahkan pesan dalam bahasa yang lebih dari 60</string>
+<string name="title_dashboard">Mælaborð</string>
+<string name="title_home">Rumah</string>
+<string name="title_notifications">Pemberitahuan</string>
 <string name="translated_from">Diterjemahkan dari bahasa Inggris</string>
 <string name="translated_from_english">Diterjemahkan dari</string>
 <string name="translated_messaging">Pesan yang diterjemahkan.</string>
-
-
 <string name="understood_languages">Bahasa yang dipahami</string>
-
-
+<string name="validating_password_reset_request">Reset password memvalidasi permintaan</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">Kami hanya butuh sedikit info lagi untuk mendaftarkan Anda.</string>
 <string name="welcome_back">Selamat datang kembali</string>
-
 <string name="yes">Ya</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">Namun!  Kita hanya perlu sedikit lebih info untuk mendaftar Anda!</string>
 <string name="you_have_been_invited_to_the_group">Anda telah diundang ke grup</string>
 <string name="you_have_been_invited_to_the_organization">Anda telah diundang ke organisasi</string>
-
 <string name="your_email_address">Alamat email anda</string>
-<string name="your_password">Your password</string>
+<string name="your_password">Sandi!</string>
 
+
+<string name="password_reset_request_sent">Reset password permintaan yang dikirim!</string>
+<string name="failed_to_request_password_reset">Gagal untuk meminta password reset!</string>
+<string name="please_check_your_email_and_click_the_link">Silakan periksa email Anda dan klik link.</string>
+<string name="requesting_password_reset">Meminta reset password&#8230;</string>
+<string name="verify_email">Verifikasi Email</string>
+<string name="resend_verification">Kirim kembali verifikasi</string>
+<string name="a_verification_email_was_sent_to_you">Email verifikasi dikirimkan kepada Anda. Silahkan klik link di email kembali ke GlobeChat dan menyelesaikan pendaftaran Anda.</string>
+<string name="requesting_email_verification">Meminta verifikasi email&#8230;</string>
 </resources>

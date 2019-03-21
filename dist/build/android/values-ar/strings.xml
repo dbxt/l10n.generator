@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">قبول</string>
-
-
+<string name="ago">قبل</string>
+<string name="already_a_member">عضو بالفعل</string>
 <string name="am">صباحا.</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">هل تريد بالتاكيد حذف هذه المجموعة ؟</string>
 <string name="are_you_sure_you_want_to_invite">هل تريد بالتاكيد دعوه</string>
 <string name="are_you_sure_you_want_to_leave_this_group">هل أنت متاكد انك تريد ترك هذه المجموعة ؟</string>
 <string name="are_you_sure_you_want_to_sign_out">هل أنت متأكد أنك تريد الخروج؟</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">كن أول شخص يرسل رسالة إلى هذه المجموعة.</string>
-
-
 <string name="cancel">إلغاء</string>
-
-
-
-
-
 <string name="confirm_invitation">تاكيد الدعوة</string>
+<string name="confirm_logout">تأكيد الخروج</string>
 <string name="confirm_password">تاكيد كلمهالمرور</string>
-
 <string name="contact_globechat">اتصل بنا</string>
-
+<string name="contact_sales">الاتصالبالمبيعات</string>
 <string name="create_account">إنشاء حساب</string>
 <string name="create_group">خلق مجموعة</string>
 <string name="create_new">خلق جديد إبداع جديد</string>
 <string name="create_new_group">إنشاء مجموعه جديده</string>
 <string name="create_new_personal_organization_group">إنشاء مجموعه تنظيم شخصيه جديده</string>
 <string name="create_organization">إنشاء مؤسسه</string>
-
-
-
-
-<string name="title_dashboard">لوحه القياده</string>
+<string name="current_members">الأعضاءالحاليون</string>
 <string name="decline">انخفاض</string>
 <string name="delete">حذف</string>
 <string name="delete_group">حذف مجموعه</string>
 <string name="do_you_want_to_accept">هل تريد ان تقبل ؟</string>
-
-
+<string name="edit_group">تحرير المجموعة</string>
 <string name="enter_a_name_for_your_new_group">ادخل اسما للمجموعة الجديدة</string>
 <string name="enter_a_name_for_your_new_organization">ادخل اسما للمؤسسة الجديدة</string>
+<string name="enter_password_twice">الرجاء إدخالكلمه المرورالجديدةمرتين</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">ادخل البريد الكتروني الذي قمت بتسجيله مع ، أو عنوان البريد الكتروني الذي تريد الاشتراك به.</string>
+<string name="enter_valid_password">الرجاءإدخال كلمهمرورصالحه</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user"> ادخل كلمه المرور لتسجيل الدخول. إذا لم تكن أنت أو تريد تسجيل الدخول كمستخدم آخر ، فاضغط هنا.</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">ادخل كلمه المرور لتسجيل الدخول. إذا لم تكن أنت أو تريد تسجيل الدخول كمستخدم آخر ، فاضغط هنا.</string>
-
-
-
-
-
+<string name="failed_to_change_password">فشل فيتغيير كلمهالمرور!</string>
+<string name="failed_to_request_email_verification">فشل في طلب التحقق من البريد الكتروني!</string>
+<string name="failed_to_validate_password_reset_request">فشل التحقق من صحة طلب أعاده تعيين كلمه المرور</string>
+<string name="failed_to_verify_email">فشل فيالتحقق منالبريدالكتروني!</string>
 <string name="filter_members">تصفيه الأعضاء</string>
-
 <string name="first_name">الاسم الأول</string>
-
-
 <string name="get_started">تبدا</string>
-<string name="app_name"></string>
 <string name="globechat_users">غلوبيشات المستخدمين</string>
 <string name="great_no_one_has_signed_up_with">عظيم لا أحد قام بالتسجيل مع</string>
-
 <string name="group">مجموعة</string>
 <string name="group_members">أعضاء المجموعة</string>
 <string name="group_name">اسم المجموعة</string>
-
-
-
-
-<string name="title_home">المنزل</string>
-
-
+<string name="if_forgot_password">إذا نسيت كلمه المرور ، فانقر هنا لطلب أعاده تعيين كلمه المرور.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">إذا لم تكن أنت أو تريد تسجيل الدخول كمستخدم آخر ، فاضغط هنا.</string>
-
-
+<string name="if_you_forgot_your_password">إذا نسيت كلمه المرور الخاصة بك</string>
 <string name="in_personal_organization">Iفي التنظيم الشخصي</string>
-
 <string name="invalid_password">كلمه مرور غير صالحه</string>
 <string name="invalid_username_password">اسم المستخدم/كلمه المرور غير صالح</string>
 <string name="invite_by_email">الدعوة عن طريق البريد الكتروني</string>
 <string name="invite_members">دعوهالأعضاء</string>
 <string name="invited_you_to_the_group">دعاك إلى المجموعة</string>
 <string name="invited_you_to_the_organization">دعاك إلى المنظمة</string>
-
-
 <string name="join_globechat">انضم إلينا</string>
-
-
+<string name="langiage_zh-Hant">الصينية التقليدية</string>
+<string name="language_af">الأفريقانية</string>
+<string name="language_ar">العربية</string>
+<string name="language_bg">البلغارية</string>
+<string name="language_bn">البنغاليه</string>
+<string name="language_bs">البوسنية</string>
+<string name="language_ca">الكتالانية</string>
+<string name="language_cs">لتشيكية</string>
+<string name="language_cy">الويلزية</string>
+<string name="language_da">الدانماركية</string>
+<string name="language_de">الألمانية</string>
+<string name="language_el">اليونانية</string>
+<string name="language_en">الإنكليزية</string>
+<string name="language_es">الإسبانية</string>
+<string name="language_et">الإستونية</string>
+<string name="language_fa">فارسي</string>
+<string name="language_fi">الفنلندية</string>
+<string name="language_fil">فيلبيني</string>
+<string name="language_fj">فيجي</string>
+<string name="language_fr">لفرنسية</string>
+<string name="language_he">العبرية</string>
+<string name="language_hi">الهندية</string>
+<string name="language_hr">الكرواتية</string>
+<string name="language_ht">هايتي</string>
+<string name="language_hu">المجرية</string>
+<string name="language_id">الإندونيسية</string>
+<string name="language_is">أيسلندي</string>
+<string name="language_it">الإيطالية</string>
+<string name="language_ja">اليابانية</string>
+<string name="language_ko">الكورية</string>
+<string name="language_lt">الليتوانية</string>
+<string name="language_lv">اللاتفية</string>
+<string name="language_mg">الملغاشيه</string>
+<string name="language_ms">الماليزية</string>
+<string name="language_mt">المالطية</string>
+<string name="language_mww">الهمونغ داو</string>
+<string name="language_nb">النرويجية</string>
+<string name="language_nl">الهولندية</string>
+<string name="language_otq">كيريتارو اوتومي</string>
+<string name="language_pl">البولندية</string>
+<string name="language_pt">البرتغالية</string>
+<string name="language_ro">الرومانية</string>
+<string name="language_ru">الروسية</string>
+<string name="language_sk">السلوفاكية</string>
+<string name="language_sl">السلوفينية</string>
+<string name="language_sm">ساموا</string>
+<string name="language_sr-Cyrl">الصربية (السيريليه)</string>
+<string name="language_sr-Latn">الصربية (اللاتينية)</string>
+<string name="language_sv">السويدية</string>
+<string name="language_sw">السواحلية</string>
+<string name="language_ta">التاميلية</string>
+<string name="language_te">التيلوغية</string>
+<string name="language_th">التايلندية</string>
+<string name="language_tlh">الكلينجون</string>
+<string name="language_to">تونغا</string>
+<string name="language_tr">التركية</string>
+<string name="language_ty">التاهيتي</string>
+<string name="language_uk">الاوكرانيه</string>
+<string name="language_ur">لأوردية</string>
+<string name="language_vi">الفيتنامية</string>
+<string name="language_yua">يوكاتيك مايا</string>
+<string name="language_yue">الكانتونية</string>
+<string name="language_zh-Hans">الصينية المبسطة</string>
 <string name="last_name">اسم العائلة</string>
-
 <string name="leave">ترك</string>
 <string name="leave_group">ترك المجموعة</string>
-
-
+<string name="loading">تحميل</string>
 <string name="lobby">اللوبي</string>
 <string name="location">موقع</string>
 <string name="log_in_to_globechat">تسجيل الدخول إلى غلوبيشات</string>
 <string name="log_in_to_globechat_">تسجيل الدخول إلى غلوبيشات</string>
+<string name="log_in_with_new_password">إذا لم تقمبتسجيلالدخول بعد، يمكنكالآن تسجيلالدخولباستخدامكلمه المرورالجديدة</string>
 <string name="login_failed">فشل تسجيل الدخول</string>
 <string name="logout">الخروج</string>
-
-
-
 <string name="manage_group">أداره المجموعة</string>
 <string name="manage_organization">أداره المؤسسة</string>
 <string name="members_in_">أعضاء في</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">اي وظائف حتى الآن.</string>
 <string name="no_results">لا نتائج</string>
 <string name="none">اي</string>
-
-<string name="title_notifications">الاخطارات</string>
-
-
+<string name="ok">موافق</string>
+<string name="open">فتح</string>
+<string name="open_group">المجموعة المفتوحة</string>
 <string name="organization">منظمة</string>
 <string name="organization_members">أعضاء المنظمة</string>
 <string name="organization_name">اسم المؤسسة</string>
-
+<string name="original_message">الرسالةالاصليه</string>
 <string name="owner">مالك</string>
-
-
+<string name="password">كلمه المرور</string>
+<string name="password_set_failed">لا يمكنتعيين كلمهالمرور!</string>
+<string name="password_updated">تم تحديثكلمه المرور!</string>
 <string name="pending_group_invitations">دعوات المجموعة المعلقة</string>
+<string name="pending_invitations">لديك دعوات بلا أجابه</string>
+<string name="pending_invitations_view_now">هناك دعوات جديدة تنتظرك. هل ترغب في عرضها الآن؟</string>
 <string name="pending_organization_invitations">الدعوات المنظمة المعلقة</string>
-
-
+<string name="personal_accounts_are_allowed">الحساباتالشخصيةمسموح بها5 مستخدمينمجانا. انقر عليالزر أدناهلطلبمعلومات عنخدماتناالمتميزةللدردشة معالمزيد منالمستخدمين.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length"> يرجى إدخال كلمة مرور تتكون من ثمانية أحرف على الأقل.</string>
-
-
-
+<string name="please_try_again_later">الرجاءالمحاولة مرهأخرى لاحقا</string>
 <string name="pm">مساء.</string>
-
-
 <string name="primary_language">اللغة الاساسيه</string>
 <string name="privacy_policy">سياسة الخصوصية</string>
-
-
-
-
-
+<string name="reset_password">أعاده تعيين كلمه المرور</string>
+<string name="reset_password_for">أعاده تعيينكلمه المرور</string>
+<string name="resetting_password">يتم الآن أعاده تعيين كلمه المرور&#8230;</string>
 <string name="save">حفظ</string>
 <string name="search_by_email_address">البحث عن طريق عنوان البريد الكتروني</string>
 <string name="search_by_name_or_email">البحث بالاسم أو البريد الكتروني</string>
 <string name="search_for_users">البحث عن المستخدمين</string>
 <string name="select_group_image">تحديد صوره المجموعة</string>
-
 <string name="select_language">اختر اللغة</string>
 <string name="select_languages">اختر اللغة</string>
 <string name="select_organization_image">تحديد صوره المؤسسة</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">تعيين صوره المجموعة عن طريق النقر فوق الرمز أعلاه. إذا كنت لا ترغب في تعيين صوره ، يمكنك ضرب زر حفظ لتخطي هذه الخطوة</string>
-<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">تعيين صوره المؤسسة بالنقر فوق الرمز الموجود أعلاه. إذا كنت لا ترغب في تعيين صوره ، يمكنك ضرب زر حفظ لتخطي هذه الخطوة";</string>
-
+<string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">تعيين صوره المؤسسة بالنقر فوق الرمز الموجود أعلاه. إذا كنت لا ترغب في تعيين صوره ، يمكنك ضرب زر حفظ لتخطي هذه الخطوة</string>
+<string name="set_password">تعيين كلمهالمرور</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">  "قم بتعيين اللغة التي لا تريد ترجمتها إلى لغتك الاساسيه.</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">قم بتعيين اللغة التي ستستخدمها لإرسال رسائل المحادثة وتلقيها.</string>
-
-
-
+<string name="show_original">إظهارالأصل</string>
+<string name="show_translated">إظهارالترجمة</string>
+<string name="sign_out">خروج</string>
+<string name="sign_up_more_info">نحتاج فقط للمزيد من المعلومات للتوقيع عليك</string>
 <string name="skip">تخطي</string>
-
-
-
-
-
-
-
 <string name="tap_here">أنقر هنا</string>
-
+<string name="tap_here_password_reset">انقر هنا لطلب أعاده تعيين كلمه المرو</string>
 <string name="terms_of_service">شروط الخدمة</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">تطبيق المراسلة العالمي الذي يترجم فوريًا الرسائل بأكثر من ستين لغة.</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">تطبيق المراسلة العالمي الذي يترجم الرسائل علي الفور بأكثر من 60 لغة</string>
+<string name="title_dashboard">لوحه القياده</string>
+<string name="title_home">المنزل</string>
+<string name="title_notifications">الاخطارات</string>
 <string name="translated_from">مترجم من</string>
 <string name="translated_from_english">ترجمت من الانكليزيه</string>
 <string name="translated_messaging">المراسلة المترجمة </string>
-
-
 <string name="understood_languages">اللغات المفهومة</string>
-
-
+<string name="validating_password_reset_request">التحقق من صحة طلب أعاده تعيين كلمه المرور</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">نحتاج فقط للمزيد من المعلومات للتوقيع عليك</string>
 <string name="welcome_back">مرحباً بك مرة أخرى</string>
-
 <string name="yes">نعم</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">بعد!  نحن فقط بحاجه إلى المزيد من المعلومات لتسجيل لكم!</string>
 <string name="you_have_been_invited_to_the_group">لقد تمت دعوتك للمجموعة</string>
 <string name="you_have_been_invited_to_the_organization">لقد تمت دعوتك للمنظمة</string>
-
 <string name="your_email_address">عنوان بريدك الكتروني</string>
 <string name="your_password">كلمه المرور</string>
 
+
+<string name="password_reset_request_sent">تم إرسال طلب أعاده تعيين كلمه المرور!</string>
+<string name="failed_to_request_password_reset">فشل في طلب أعاده تعيين كلمه المرور!</string>
+<string name="please_check_your_email_and_click_the_link">يرجى التحقق من البريد الكتروني الخاص بك وانقر علي الرابط.</string>
+<string name="requesting_password_reset">يتم الآن طلب أعاده تعيين كلمه المرور&#8230;</string>
+<string name="verify_email">التحقق من البريد الكتروني</string>
+<string name="resend_verification">أعاده إرسال التحقق</string>
+<string name="a_verification_email_was_sent_to_you">تم إرسال رسالة تحقق اليك. الرجاء النقر علي الرابط في هذا البريد الكتروني للعودة إلى جلوبيتشات وإكمال التسجيل الخاص بك.</string>
+<string name="requesting_email_verification">طلب التحقق من البريد الكتروني&#8230;</string>
 </resources>

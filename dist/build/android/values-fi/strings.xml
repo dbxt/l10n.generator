@@ -2,107 +2,137 @@
 <resources>
 <!-- AUTO-GENERATED -->
 <string name="accept">Hyväksy</string>
-
-
+<string name="ago">Sitten</string>
+<string name="already_a_member">Jo jäsen</string>
 <string name="am">AM</string>
-
+<string name="app_name">GlobeChat</string>
 <string name="are_you_sure_you_want_to_delete_this_group">Haluatko varmasti poistaa tämän ryhmän?</string>
 <string name="are_you_sure_you_want_to_invite">Haluatko varmasti kutsua</string>
 <string name="are_you_sure_you_want_to_leave_this_group">Haluatko varmasti poistua ryhmästä?</string>
 <string name="are_you_sure_you_want_to_sign_out">Haluatko varmasti kirja utua ulos?</string>
-
 <string name="be_the_first_person_to_send_a_message_to_this_group">Ole ensimmäinen henkilö, joka lähettää viestin tähän ryhmään.</string>
-
-
 <string name="cancel">Peruuta</string>
-
-
-
-
-
 <string name="confirm_invitation">Vahvista kutsu</string>
+<string name="confirm_logout">Vahvista kirjautuminen ulos</string>
 <string name="confirm_password">Vahvista sala sana</string>
-
 <string name="contact_globechat">Globechatin yhteystiedot</string>
-
+<string name="contact_sales">Ota yhteyttä myyntiin</string>
 <string name="create_account">Luo tili</string>
 <string name="create_group">Luo ryhmä</string>
 <string name="create_new">Luoda uusia</string>
 <string name="create_new_group">Luo uusi ryhmä</string>
 <string name="create_new_personal_organization_group">Luo uusi henkilöjärjestöryhmä</string>
 <string name="create_organization">Luo organisaatio</string>
-
-
-
-
-<string name="title_dashboard">Dashboard</string>
+<string name="current_members">Nykyiset jäsenet</string>
 <string name="decline">Kieltäydy</string>
 <string name="delete">Poista</string>
 <string name="delete_group">Poista ryhmä</string>
 <string name="do_you_want_to_accept">Haluatko hyväksyä?</string>
-
-
+<string name="edit_group">Muokkaa ryhmää</string>
 <string name="enter_a_name_for_your_new_group">Kirjoita uuden ryhmän nimi</string>
 <string name="enter_a_name_for_your_new_organization">Anna uudelle organisaatiolle nimi</string>
+<string name="enter_password_twice">Anna uusi Sala sanasi kahdesti</string>
 <string name="enter_the_email_you_signed_up_with_or_the_email_address_you_want_to_sign_up_with">Anna tilin sähköpostiosoite tai sähköpostiosoite, jolla haluat liittyä.</string>
+<string name="enter_valid_password">Anna kelvollinen sala sana</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user">Kirjaudu sisään antamalla salasanasi. Jos tämä ei ole sinun tilisi tai haluat kirjautua sisään eri käyttäjänä</string>
 <string name="enter_your_password_to_sign_in_to_globechat__if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Kirjaudu sisään antamalla salasanasi. Jos tämä ei ole sinun tilisi tai haluat kirjautua sisään eri käyttäjänä, napauta tätä.</string>
-
-
-
-
-
+<string name="failed_to_change_password">Sala sanan vaihtaminen epäonnistui.</string>
+<string name="failed_to_request_email_verification">Sähkö postin vahvistusta ei voitu pyytää!</string>
+<string name="failed_to_validate_password_reset_request">Sala sanan palautus pyyntöä ei voitu vahvistaa</string>
+<string name="failed_to_verify_email">Sähkö postin vahvistaminen epäonnistui.</string>
 <string name="filter_members">Suodata jäsenet</string>
-
 <string name="first_name">Etunimi</string>
-
-
 <string name="get_started">Aloita</string>
-<string name="app_name"></string>
 <string name="globechat_users">GlobeChat-käyttäjät</string>
 <string name="great_no_one_has_signed_up_with">Upea! Kukaan ei ole allekirjoittanut</string>
-
 <string name="group">Ryhmä</string>
 <string name="group_members">Ryhmän jäsenet</string>
 <string name="group_name">Ryhmän nimi</string>
-
-
-
-
-<string name="title_home">Kotisivu</string>
-
-
+<string name="if_forgot_password">Jos unohdit Sala sanasi, pyydä Sala sanan nollaus napauttamalla tätä.</string>
 <string name="if_this_is_not_you_or_you_want_to_sign_in_as_a_different_user_tap_here">Jos tämä ei ole sinä tai haluat kirjautua sisään eri käyttäjänä, napauta tästä.</string>
-
-
+<string name="if_you_forgot_your_password">Jos unohdit Sala sanasi</string>
 <string name="in_personal_organization">Henkilökohtaisessa organisaatiossa</string>
-
 <string name="invalid_password">Väärä salasana</string>
 <string name="invalid_username_password">Väärä käyttäjätunnus / salasana</string>
 <string name="invite_by_email">Kutsu sähköpostitse</string>
 <string name="invite_members">Kutsu jäseniä</string>
 <string name="invited_you_to_the_group">kutsui sinut ryhmään</string>
 <string name="invited_you_to_the_organization">kutsui sinut organisaatioon</string>
-
-
 <string name="join_globechat">Liity globechat!</string>
-
-
+<string name="langiage_zh-Hant">Perinteinen kiina</string>
+<string name="language_af">afrikaans</string>
+<string name="language_ar">arabia</string>
+<string name="language_bg">bulgaria</string>
+<string name="language_bn">Bangla</string>
+<string name="language_bs">Bosnia</string>
+<string name="language_ca">katalaani</string>
+<string name="language_cs">tsekki</string>
+<string name="language_cy">Walesin</string>
+<string name="language_da">tanska</string>
+<string name="language_de">Saksan kieli</string>
+<string name="language_el">kreikka</string>
+<string name="language_en">Englanti</string>
+<string name="language_es">Espanja</string>
+<string name="language_et">viro</string>
+<string name="language_fa">persia</string>
+<string name="language_fi">Suomi</string>
+<string name="language_fil">filippiini</string>
+<string name="language_fj">Fidzi</string>
+<string name="language_fr">Ranskan kieli</string>
+<string name="language_he">heprea</string>
+<string name="language_hi">hindi</string>
+<string name="language_hr">kroatia</string>
+<string name="language_ht">Haitian Creole</string>
+<string name="language_hu">Unkarin kieli</string>
+<string name="language_id">indonesia</string>
+<string name="language_is">islanti</string>
+<string name="language_it">italia</string>
+<string name="language_ja">japani</string>
+<string name="language_ko">Korea</string>
+<string name="language_lt">liettua</string>
+<string name="language_lv">Latvia</string>
+<string name="language_mg">Madagaskarin</string>
+<string name="language_ms">Malaiji</string>
+<string name="language_mt">malta</string>
+<string name="language_mww">Hmong DAW</string>
+<string name="language_nb">Norjan kieli</string>
+<string name="language_nl">hollanti</string>
+<string name="language_otq">Queretaro Otomi</string>
+<string name="language_pl">puola</string>
+<string name="language_pt">Portugalin kieli</string>
+<string name="language_ro">romania</string>
+<string name="language_ru">Venäjän kieli</string>
+<string name="language_sk">Slovakian</string>
+<string name="language_sl">slovenian</string>
+<string name="language_sm">samoa</string>
+<string name="language_sr-Cyrl">Serbian (kyrillinen)</string>
+<string name="language_sr-Latn">Serbian (Latin)</string>
+<string name="language_sv">Ruotsin kieli</string>
+<string name="language_sw">suahili</string>
+<string name="language_ta">tamil</string>
+<string name="language_te">telugu</string>
+<string name="language_th">thai</string>
+<string name="language_tlh">Klingon</string>
+<string name="language_to">Tongan</string>
+<string name="language_tr">turkki</string>
+<string name="language_ty">Tahitin</string>
+<string name="language_uk">ukraina</string>
+<string name="language_ur">urdu</string>
+<string name="language_vi">vietnam</string>
+<string name="language_yua">Yucatec Maya</string>
+<string name="language_yue">kantoni</string>
+<string name="language_zh-Hans">Yksinkertaistettu kiina</string>
 <string name="last_name">Sukunimi</string>
-
 <string name="leave">Poistu</string>
 <string name="leave_group">Poistu ryhmästä</string>
-
-
+<string name="loading">Lastaus</string>
 <string name="lobby">Aula</string>
 <string name="location">Sijainti</string>
 <string name="log_in_to_globechat">Kirjaudu GlobeChatiin!</string>
 <string name="log_in_to_globechat_">Kirjaudu GlobeChatiin!</string>
+<string name="log_in_with_new_password">Jos et ole vielä kirjautunut sisään, voit nyt kirja utua sisään uudella Sala sanalla</string>
 <string name="login_failed">Kirjautuminen epäonnistui</string>
 <string name="logout">Kirjaudu ulos</string>
-
-
-
 <string name="manage_group">Hallitse ryhmää</string>
 <string name="manage_organization">Organisaation hallinta</string>
 <string name="members_in_">Jäsenet</string>
@@ -114,88 +144,76 @@
 <string name="no_posts_yet">Ei postauksia vielä.</string>
 <string name="no_results">Ei tuloksia</string>
 <string name="none">Ei mitään</string>
-
-<string name="title_notifications">Ilmoitukset</string>
-
-
+<string name="ok">Okei</string>
+<string name="open">Avaa</string>
+<string name="open_group">Avaa ryhmä</string>
 <string name="organization">Organisaatio</string>
 <string name="organization_members">Organisaation jäsenet</string>
 <string name="organization_name">Organisaation nimi</string>
-
+<string name="original_message">Alkuperäinen viesti</string>
 <string name="owner">Omistaja</string>
-
-
+<string name="password">Salasana</string>
+<string name="password_set_failed">Sala sanaa ei voi asettaa!</string>
+<string name="password_updated">Sala sana päivitetty!</string>
 <string name="pending_group_invitations">Odottavat ryhmäkutsut</string>
+<string name="pending_invitations">Sinulla on vastaamattomia kutsuja!</string>
+<string name="pending_invitations_view_now">On uusia kutsuja odottaa sinua.  Haluatko nähdä ne nyt?</string>
 <string name="pending_organization_invitations">Odottavat organisaation kutsut</string>
-
-
+<string name="personal_accounts_are_allowed">Henkilökohtaiset tilit sallitaan 5 käyttäjää ilmaiseksi. Napsauttamalla alla olevaa painiketta voit pyytää tietoja Premium-palveluistamme, jotta voit keskustella muiden käyttäjien kanssa.</string>
 <string name="please_enter_a_password_that_is_at_least_8_characters_in_length">Anna salasana, jonka pituus on vähintään 8 merkkiä.</string>
-
-
-
+<string name="please_try_again_later">Yritä myöhemmin uudelleen</string>
 <string name="pm">PM</string>
-
-
 <string name="primary_language">Ensisijainen kieli</string>
 <string name="privacy_policy">Tietosuojakäytäntö</string>
-
-
-
-
-
+<string name="reset_password">Palauta sala sana</string>
+<string name="reset_password_for">Nollaa sala sana</string>
+<string name="resetting_password">Palautetaan sala sana&#8230;</string>
 <string name="save">Tallenna</string>
 <string name="search_by_email_address">Hae Sähkö posti osoitteella</string>
 <string name="search_by_name_or_email">Etsi nimen tai sähköpostin mukaan</string>
 <string name="search_for_users">Etsi käyttäjiä</string>
 <string name="select_group_image">Valitse ryhmän kuva</string>
-
 <string name="select_language">Valitse kieli</string>
 <string name="select_languages">Valitse kielet</string>
 <string name="select_organization_image">Valitse organisaation kuva</string>
-
-
 <string name="set_group_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Aseta ryhmä kuva napauttamalla yllä olevaa kuvaketta. Jos et halua asettaa kuvaa, voit painaa Tallenna-painiketta ohittaaksesi tämän vaiheen</string>
 <string name="set_organization_image_by_tapping_the_icon_above_if_you_dont_want_to_set_an_image_you_can_hit_the_save_button_to_skip_this_step">Aseta organisaatio kuva napauttamalla yllä olevaa kuvaketta. Jos et halua asettaa kuvaa, voit painaa Tallenna-painiketta ohittaaksesi tämän vaiheen</string>
-
+<string name="set_password">Aseta sala sana</string>
 <string name="set_the_language_you_do_not_want_translated_to_your_primary_language">Aseta kieli, jota et halua kääntää ensisijaiseen kieleen.</string>
 <string name="set_the_language_you_will_use_to_send_and_receive_chat_messages">Määritä kieli, jolla voit lähettää ja vastaanottaa chat-viestejä.</string>
-
-
-
+<string name="show_original">Näytä alkuperäinen</string>
+<string name="show_translated">Näytä käännetty</string>
+<string name="sign_out">Kirjaudu ulos</string>
+<string name="sign_up_more_info">Tarvitsemme vain hieman lisä tietoja allekirjoittamaan sinut!</string>
 <string name="skip">Ohita</string>
-
-
-
-
-
-
-
 <string name="tap_here">Napauta tästä</string>
-
+<string name="tap_here_password_reset">Pyydä Sala sanan nollaus napauttamalla tätä</string>
 <string name="terms_of_service">Palveluehdot</string>
-
-
-<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Viestintäsovellus, joka käännetään 60+ kielelle reaaliajassa.</string>
-
-
+<string name="the_messaging_app_that_translates_into_60_languages_in_real_time">Maailmanlaajuinen viesti sovellus, joka kääntää viestit hetkessä yli 60 kielellä</string>
+<string name="title_dashboard">Dashboard</string>
+<string name="title_home">Kotisivu</string>
+<string name="title_notifications">Ilmoitukset</string>
 <string name="translated_from">Käännetään englannista</string>
 <string name="translated_from_english">Käännetty</string>
 <string name="translated_messaging">Käännetty viestintä</string>
-
-
 <string name="understood_languages">Ymmärretyt kielet</string>
-
-
+<string name="validating_password_reset_request">Tarkistetaan Sala sanan palautus pyyntöä</string>
 <string name="we_just_need_a_little_more_info_to_sign_you_up">Tarvitsemme vain vähän lisätietoja kirjautumiseen.</string>
 <string name="welcome_back">Tervetuloa takaisin</string>
-
 <string name="yes">Kyllä</string>
-<string name="yet__we_just_need_a_little_more_info_to_sign_you_up"></string>
-
+<string name="yet__we_just_need_a_little_more_info_to_sign_you_up">Vielä!  Tarvitsemme vain hieman lisä tietoja allekirjoittamaan sinut!</string>
 <string name="you_have_been_invited_to_the_group">Sinut on kutsuttu ryhmään</string>
 <string name="you_have_been_invited_to_the_organization">Sinut on kutsuttu organisaatioon</string>
-
 <string name="your_email_address">Sähköpostiosoitteesi</string>
 <string name="your_password">Salasanasi</string>
 
+
+<string name="password_reset_request_sent">Sala sanan palautus pyyntö lähetetty!</string>
+<string name="failed_to_request_password_reset">Sala sanan palauttamista ei voitu pyytää!</string>
+<string name="please_check_your_email_and_click_the_link">Ole hyvä ja Tarkista sähkö postisi ja klikkaa linkkiä.</string>
+<string name="requesting_password_reset">Pyydetään Sala sanan palauttamista&#8230;</string>
+<string name="verify_email">Vahvista Sähkö posti</string>
+<string name="resend_verification">Lähetä vahvistus uudelleen</string>
+<string name="a_verification_email_was_sent_to_you">Sinulle lähetettiin vahvistus Sähkö posti. Napsauta viestissä olevaa linkkiä palataksesi GlobeChat-ohjelmaan ja viimeistele rekisteröinti.</string>
+<string name="requesting_email_verification">Pyydetään sähkö postin vahvistusta&#8230;</string>
 </resources>
